@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -uses: actions/checkout@v2
-      -uses: sergdrozdov/sergdrozdov@main
+      -uses: gautamkrishnar/blog-post-workflow@master
        with:
          feed_list: "http://sd.blackball.lv/rss"
          comment_tag_name: "BLOG-POST-LIST"
