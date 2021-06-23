@@ -16,3 +16,4 @@ I am a software developer with 20+ years experience.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333537?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/serg-drozdov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-333537?style=for-the-badge&logo=Telegram)](https://t.me/cyberserg80)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergdrozdov)](https://github.com/anuraghazra/github-readme-stats)
