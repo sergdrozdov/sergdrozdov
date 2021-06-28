@@ -2,6 +2,8 @@
 I am a software engineer with 20+ years experience. Web applications development (ASP.NET Web Forms/MVC/Core, PHP), desktop applications (Windows Forms, WPF), databases (SQL Server, MySQL, PostgreSQL, MariaDB, SQLite, MongoDB), ORM (Entity Framework, Dapper), Visual Studio, C#, VB.NET, HTML5, CSS3 (SASS, LESS), JavaScript, AJAX, jQuery, Angular, React, Vue.js, TypeScript, WCF, Web API, TFS, Azure, Git.
 I am a Full-Stack developer and can perform tasks in a wide range.
 
+[Contacts and profile](http://sd.blackball.lv/sergey-drozdov)
+
 ## Languages and tools
 ![.NET](https://img.shields.io/badge/-.NET-333537?style=for-the-badge&logo=.NET)
 ![C%23](https://img.shields.io/badge/-C%23-333537?style=for-the-badge&logo=C-Sharp)
