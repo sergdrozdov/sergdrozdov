@@ -13,6 +13,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся с middleware в ASP.NET Core](http://sd.blackball.lv/articles/read/18810)
 - [How to Publish an ASP.NET Core & React SPA to IIS](http://sd.blackball.lv/articles/read/18809)
 - [Integrating SignalR with React TypeScript and ASP.NET Core](http://sd.blackball.lv/articles/read/18808)
 - [Add a React App to your ASP.NET Core Application](http://sd.blackball.lv/articles/read/18807)
@@ -22,7 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [NUnit vs. XUnit vs. MSTest: Comparing Unit Testing Frameworks In C#](http://sd.blackball.lv/articles/read/18803)
 - [Understand CORS and learn how to enable it for your ASP.NET API](http://sd.blackball.lv/articles/read/18802)
 - [Practical Azure SQL Database for Modern Developers](http://sd.blackball.lv/books/18768)
-- [ASP.NET Core 5 for Beginners](http://sd.blackball.lv/books/18762)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
