@@ -13,6 +13,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conditional compilation for ignoring method calls with the ConditionalAttribute](http://sd.blackball.lv/articles/read/18812)
 - [Еще раз про IP-адреса, маски подсетей и вообще](http://sd.blackball.lv/articles/read/18811)
 - [Разбираемся с middleware в ASP.NET Core](http://sd.blackball.lv/articles/read/18810)
 - [How to Publish an ASP.NET Core & React SPA to IIS](http://sd.blackball.lv/articles/read/18809)
@@ -22,7 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Encrypt your database columns with EntityFramework & .NET Core](http://sd.blackball.lv/articles/read/18805)
 - [Important ASP.NET Core Features – Need to Know](http://sd.blackball.lv/articles/read/18804)
 - [NUnit vs. XUnit vs. MSTest: Comparing Unit Testing Frameworks In C#](http://sd.blackball.lv/articles/read/18803)
-- [Understand CORS and learn how to enable it for your ASP.NET API](http://sd.blackball.lv/articles/read/18802)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
