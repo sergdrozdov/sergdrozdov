@@ -13,6 +13,8 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building RESTful Web Services with Java EE 8](http://sd.blackball.lv/books/18814)
+- [JavaScript for sound artists](http://sd.blackball.lv/books/18813)
 - [Conditional compilation for ignoring method calls with the ConditionalAttribute](http://sd.blackball.lv/articles/read/18812)
 - [Еще раз про IP-адреса, маски подсетей и вообще](http://sd.blackball.lv/articles/read/18811)
 - [Разбираемся с middleware в ASP.NET Core](http://sd.blackball.lv/articles/read/18810)
@@ -21,8 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Add a React App to your ASP.NET Core Application](http://sd.blackball.lv/articles/read/18807)
 - [Дорога в GitHub](http://sd.blackball.lv/news/18806)
 - [Encrypt your database columns with EntityFramework & .NET Core](http://sd.blackball.lv/articles/read/18805)
-- [Important ASP.NET Core Features – Need to Know](http://sd.blackball.lv/articles/read/18804)
-- [NUnit vs. XUnit vs. MSTest: Comparing Unit Testing Frameworks In C#](http://sd.blackball.lv/articles/read/18803)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
