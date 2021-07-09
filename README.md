@@ -13,6 +13,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate ASP.NET Core Web API](http://sd.blackball.lv/books/18815)
 - [Formatting Strings using Templates in C#](http://sd.blackball.lv/articles/read/18820)
 - [Building RESTful Web Services with Java EE 8](http://sd.blackball.lv/books/18814)
 - [JavaScript for sound artists](http://sd.blackball.lv/books/18813)
@@ -22,7 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [How to Publish an ASP.NET Core & React SPA to IIS](http://sd.blackball.lv/articles/read/18809)
 - [Integrating SignalR with React TypeScript and ASP.NET Core](http://sd.blackball.lv/articles/read/18808)
 - [Add a React App to your ASP.NET Core Application](http://sd.blackball.lv/articles/read/18807)
-- [Дорога в GitHub](http://sd.blackball.lv/news/18806)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
