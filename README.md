@@ -13,16 +13,16 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run ASP.NET Core & SQL Server from Docker](http://sd.blackball.lv/articles/read/18823)
+- [Scrum: 12 терминов, которые нужно запомнить](http://sd.blackball.lv/articles/read/18822)
 - [Ultimate ASP.NET Core Web API](http://sd.blackball.lv/books/18815)
+- [Memory anti-patterns in C#](http://sd.blackball.lv/articles/read/18821)
 - [Formatting Strings using Templates in C#](http://sd.blackball.lv/articles/read/18820)
 - [Building RESTful Web Services with Java EE 8](http://sd.blackball.lv/books/18814)
 - [JavaScript for sound artists](http://sd.blackball.lv/books/18813)
 - [Conditional compilation for ignoring method calls with the ConditionalAttribute](http://sd.blackball.lv/articles/read/18812)
 - [Еще раз про IP-адреса, маски подсетей и вообще](http://sd.blackball.lv/articles/read/18811)
 - [Разбираемся с middleware в ASP.NET Core](http://sd.blackball.lv/articles/read/18810)
-- [How to Publish an ASP.NET Core & React SPA to IIS](http://sd.blackball.lv/articles/read/18809)
-- [Integrating SignalR with React TypeScript and ASP.NET Core](http://sd.blackball.lv/articles/read/18808)
-- [Add a React App to your ASP.NET Core Application](http://sd.blackball.lv/articles/read/18807)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
