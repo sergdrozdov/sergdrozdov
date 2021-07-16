@@ -13,6 +13,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microservice Architecture](http://sd.blackball.lv/books/18816)
 - [Never return NULL references from your functions](http://sd.blackball.lv/articles/read/18824)
 - [How to run ASP.NET Core & SQL Server from Docker](http://sd.blackball.lv/articles/read/18823)
 - [Scrum: 12 терминов, которые нужно запомнить](http://sd.blackball.lv/articles/read/18822)
@@ -22,7 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Building RESTful Web Services with Java EE 8](http://sd.blackball.lv/books/18814)
 - [JavaScript for sound artists](http://sd.blackball.lv/books/18813)
 - [Conditional compilation for ignoring method calls with the ConditionalAttribute](http://sd.blackball.lv/articles/read/18812)
-- [Еще раз про IP-адреса, маски подсетей и вообще](http://sd.blackball.lv/articles/read/18811)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
