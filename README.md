@@ -13,6 +13,8 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server performance tuning: Nine best practices](http://sd.blackball.lv/articles/read/18826)
+- [SQL Server performance monitor data: Introduction and usage](http://sd.blackball.lv/articles/read/18825)
 - [Microservice Architecture](http://sd.blackball.lv/books/18816)
 - [Never return NULL references from your functions](http://sd.blackball.lv/articles/read/18824)
 - [How to run ASP.NET Core & SQL Server from Docker](http://sd.blackball.lv/articles/read/18823)
@@ -21,8 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Memory anti-patterns in C#](http://sd.blackball.lv/articles/read/18821)
 - [Formatting Strings using Templates in C#](http://sd.blackball.lv/articles/read/18820)
 - [Building RESTful Web Services with Java EE 8](http://sd.blackball.lv/books/18814)
-- [JavaScript for sound artists](http://sd.blackball.lv/books/18813)
-- [Conditional compilation for ignoring method calls with the ConditionalAttribute](http://sd.blackball.lv/articles/read/18812)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
