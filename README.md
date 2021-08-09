@@ -13,6 +13,8 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How getting Lazy in C#](http://sd.blackball.lv/articles/read/18829)
+- [Microservice Patterns and Best Practices](http://sd.blackball.lv/books/18818)
 - [Новость 30.07.2021 12:29](http://sd.blackball.lv/news/18828)
 - [Migrating to Microservice Databases](http://sd.blackball.lv/books/18817)
 - [10 Points to Secure ASP.NET Core MVC Applications](http://sd.blackball.lv/articles/read/18827)
@@ -21,8 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Microservice Architecture](http://sd.blackball.lv/books/18816)
 - [Never return NULL references from your functions](http://sd.blackball.lv/articles/read/18824)
 - [How to run ASP.NET Core & SQL Server from Docker](http://sd.blackball.lv/articles/read/18823)
-- [Scrum: 12 терминов, которые нужно запомнить](http://sd.blackball.lv/articles/read/18822)
-- [Ultimate ASP.NET Core Web API](http://sd.blackball.lv/books/18815)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
