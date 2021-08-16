@@ -13,6 +13,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of .NET Custom Exceptions](http://sd.blackball.lv/articles/read/18831)
 - [.Net Source Generators](http://sd.blackball.lv/articles/read/18830)
 - [How getting Lazy in C#](http://sd.blackball.lv/articles/read/18829)
 - [Microservice Patterns and Best Practices](http://sd.blackball.lv/books/18818)
@@ -22,7 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [SQL Server performance tuning: Nine best practices](http://sd.blackball.lv/articles/read/18826)
 - [SQL Server performance monitor data: Introduction and usage](http://sd.blackball.lv/articles/read/18825)
 - [Microservice Architecture](http://sd.blackball.lv/books/18816)
-- [Never return NULL references from your functions](http://sd.blackball.lv/articles/read/18824)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
