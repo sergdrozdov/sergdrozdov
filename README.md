@@ -13,6 +13,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP » HTTPS](http://sd.blackball.lv/news/18834)
 - [The Art of .NET Custom Exceptions](http://sd.blackball.lv/articles/read/18831)
 - [.Net Source Generators](http://sd.blackball.lv/articles/read/18830)
 - [How getting Lazy in C#](http://sd.blackball.lv/articles/read/18829)
@@ -22,7 +23,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [10 Points to Secure ASP.NET Core MVC Applications](http://sd.blackball.lv/articles/read/18827)
 - [SQL Server performance tuning: Nine best practices](http://sd.blackball.lv/articles/read/18826)
 - [SQL Server performance monitor data: Introduction and usage](http://sd.blackball.lv/articles/read/18825)
-- [Microservice Architecture](http://sd.blackball.lv/books/18816)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
