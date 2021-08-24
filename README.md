@@ -8,8 +8,10 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 ![.NET](https://img.shields.io/badge/-.NET-333537?style=for-the-badge&logo=.NET)
 ![C%23](https://img.shields.io/badge/-C%23-333537?style=for-the-badge&logo=C-Sharp)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333537?style=for-the-badge&logo=asp-net)
+![Windows%20Forms](https://img.shields.io/badge/-Windows%20Forms-333537?style=for-the-badge&logo=Windows%20Forms)
 ![Visual%20Studio](https://img.shields.io/badge/-Visual%20Studio-333537?style=for-the-badge&logo=visual-studio)
 ![SQL](https://img.shields.io/badge/-SQL-333537?style=for-the-badge&logo=sql)
+![IIS](https://img.shields.io/badge/-IIS-333537?style=for-the-badge&logo=iis)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
