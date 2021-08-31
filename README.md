@@ -15,6 +15,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 30.08.2021 19:55](https://sd.blackball.lv/news/18836)
 - [Migrate from .NET Framework to .NET 5](https://sd.blackball.lv/articles/read/18833)
 - [На сайте появилось HTTPS, HTTP/2, HSTS](https://sd.blackball.lv/news/18835)
 - [.NET Core HttpClient Best Practices](https://sd.blackball.lv/articles/read/18832)
@@ -24,7 +25,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [How getting Lazy in C#](https://sd.blackball.lv/articles/read/18829)
 - [Microservice Patterns and Best Practices](https://sd.blackball.lv/books/18818)
 - [Новость 30.07.2021 12:29](https://sd.blackball.lv/news/18828)
-- [Migrating to Microservice Databases](https://sd.blackball.lv/books/18817)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
