@@ -15,6 +15,8 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 22.11.2021 14:41](https://sd.blackball.lv/news/18839)
+- [How to use IDisposable in ASP.NET Core](https://sd.blackball.lv/articles/read/18838)
 - [Новость 14.09.2021 17:28](https://sd.blackball.lv/news/18837)
 - [Новость 30.08.2021 19:55](https://sd.blackball.lv/news/18836)
 - [Migrate from .NET Framework to .NET 5](https://sd.blackball.lv/articles/read/18833)
@@ -23,8 +25,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [HTTP » HTTPS](https://sd.blackball.lv/news/18834)
 - [The Art of .NET Custom Exceptions](https://sd.blackball.lv/articles/read/18831)
 - [.Net Source Generators](https://sd.blackball.lv/articles/read/18830)
-- [How getting Lazy in C#](https://sd.blackball.lv/articles/read/18829)
-- [Microservice Patterns and Best Practices](https://sd.blackball.lv/books/18818)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
