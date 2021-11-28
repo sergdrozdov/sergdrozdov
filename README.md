@@ -15,6 +15,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upload and download multiple files using .Net 5.0 Web API](https://sd.blackball.lv/articles/read/18840)
 - [Новость 22.11.2021 14:41](https://sd.blackball.lv/news/18839)
 - [How to use IDisposable in ASP.NET Core](https://sd.blackball.lv/articles/read/18838)
 - [Новость 14.09.2021 17:28](https://sd.blackball.lv/news/18837)
@@ -24,7 +25,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [.NET Core HttpClient Best Practices](https://sd.blackball.lv/articles/read/18832)
 - [HTTP » HTTPS](https://sd.blackball.lv/news/18834)
 - [The Art of .NET Custom Exceptions](https://sd.blackball.lv/articles/read/18831)
-- [.Net Source Generators](https://sd.blackball.lv/articles/read/18830)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
