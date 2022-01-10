@@ -15,6 +15,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 08.01.2022 15:30](https://sd.blackball.lv/news/18843)
 - [Will you still hire me when I’m 50?](https://sd.blackball.lv/articles/read/18841)
 - [Upload and download multiple files using .Net 5.0 Web API](https://sd.blackball.lv/articles/read/18840)
 - [Новость 22.11.2021 14:41](https://sd.blackball.lv/news/18839)
@@ -24,7 +25,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Migrate from .NET Framework to .NET 5](https://sd.blackball.lv/articles/read/18833)
 - [На сайте появилось HTTPS, HTTP/2, HSTS](https://sd.blackball.lv/news/18835)
 - [.NET Core HttpClient Best Practices](https://sd.blackball.lv/articles/read/18832)
-- [HTTP » HTTPS](https://sd.blackball.lv/news/18834)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
