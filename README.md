@@ -15,6 +15,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enjoy Using Mapster in .Net 6](https://sd.blackball.lv/articles/read/18850)
 - [7 Improvements You Might Have Missed in .NET 6](https://sd.blackball.lv/articles/read/18849)
 - [The Future of No Code Development](https://sd.blackball.lv/articles/read/18848)
 - [Angular Lifecycle Hooks: ngOnChanges, ngOnInit, and more](https://sd.blackball.lv/articles/read/18847)
@@ -24,7 +25,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Will you still hire me when I’m 50?](https://sd.blackball.lv/articles/read/18841)
 - [Upload and download multiple files using .Net 5.0 Web API](https://sd.blackball.lv/articles/read/18840)
 - [Новость 22.11.2021 14:41](https://sd.blackball.lv/news/18839)
-- [How to use IDisposable in ASP.NET Core](https://sd.blackball.lv/articles/read/18838)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
