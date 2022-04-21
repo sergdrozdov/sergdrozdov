@@ -5,7 +5,8 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 [Contacts and profile](https://sd.blackball.lv/sergey-drozdov)
 
 ## Languages and tools
-![.NET](https://img.shields.io/badge/-.NET-333537?style=for-the-badge&logo=.NET)
+![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-333537?style=for-the-badge&logo=.NET)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-333537?style=for-the-badge&logo=net%20core)
 ![C%23](https://img.shields.io/badge/-C%23-333537?style=for-the-badge&logo=C-Sharp)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333537?style=for-the-badge&logo=asp-net)
 ![Windows%20Forms](https://img.shields.io/badge/-Windows%20Forms-333537?style=for-the-badge&logo=Windows%20Forms)
