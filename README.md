@@ -13,6 +13,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 ![Visual%20Studio](https://img.shields.io/badge/-Visual%20Studio-333537?style=for-the-badge&logo=visual-studio)
 ![SQL](https://img.shields.io/badge/-SQL-333537?style=for-the-badge&logo=sql)
 ![IIS](https://img.shields.io/badge/-IIS-333537?style=for-the-badge&logo=iis)
+![Azure](https://img.shields.io/badge/-Azure-333537?style=for-the-badge&logo=azure)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
