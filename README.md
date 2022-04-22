@@ -17,6 +17,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React + NodeJS. Full-Stack приложение за 3 часа](https://sd.blackball.lv/video/watch/18855)
 - [The Art of Micro Frontends](https://sd.blackball.lv/books/18854)
 - [Real-Time Web Application Development](https://sd.blackball.lv/books/18853)
 - [Exploring .NET Core with Microservices, ASP.NET Core, and Entity Framework Core](https://sd.blackball.lv/books/18852)
@@ -26,7 +27,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [The Future of No Code Development](https://sd.blackball.lv/articles/read/18848)
 - [Angular Lifecycle Hooks: ngOnChanges, ngOnInit, and more](https://sd.blackball.lv/articles/read/18847)
 - [Agile is dead! Waterfall is coming back.](https://sd.blackball.lv/articles/read/18846)
-- [Top 10 Programming Languages Portfolio for 2022](https://sd.blackball.lv/articles/read/18842)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
