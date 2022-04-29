@@ -17,16 +17,16 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 6 performance tips for .Net Developers](https://sd.blackball.lv/articles/read/18864)
+- [Why you shouldn&#39;t use the Repository pattern in .NET](https://sd.blackball.lv/articles/read/18863)
+- [8 quick tips to improve your .NET API](https://sd.blackball.lv/articles/read/18862)
+- [Пишем полифилы на JavaScript &lpar;map, reduce, flat&rpar;](https://sd.blackball.lv/video/watch/18861)
 - [MediatR with .NET 6.0](https://sd.blackball.lv/articles/read/18860)
+- [Applying SOLID principles with C#](https://sd.blackball.lv/articles/read/18859)
 - [The 10 commandments .NET developers must apply for secure applications](https://sd.blackball.lv/articles/read/18858)
 - [.Net 6 vs .Net 5: How .Net 6 has changed the game of Software Development?](https://sd.blackball.lv/articles/read/18857)
 - [Caching in .NET 6](https://sd.blackball.lv/articles/read/18856)
 - [React + NodeJS. Full-Stack приложение за 3 часа](https://sd.blackball.lv/video/watch/18855)
-- [The Art of Micro Frontends](https://sd.blackball.lv/books/18854)
-- [Real-Time Web Application Development](https://sd.blackball.lv/books/18853)
-- [Exploring .NET Core with Microservices, ASP.NET Core, and Entity Framework Core](https://sd.blackball.lv/books/18852)
-- [The Complete ASP.NET Core 3 API Tutorial](https://sd.blackball.lv/books/18851)
-- [Enjoy using Mapster in .Net 6](https://sd.blackball.lv/articles/read/18850)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
