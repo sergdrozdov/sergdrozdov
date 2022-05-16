@@ -17,6 +17,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best LINQ performance](https://sd.blackball.lv/articles/read/18870)
 - [BMW Group IT | Experience Industry 4.0 | BMW Group Careers](https://sd.blackball.lv/video/watch/18868)
 - [Новость 29.04.2022 16:40](https://sd.blackball.lv/news/18867)
 - [Top 6 performance tips for .Net Developers](https://sd.blackball.lv/articles/read/18864)
@@ -26,7 +27,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [MediatR with .NET 6.0](https://sd.blackball.lv/articles/read/18860)
 - [Applying SOLID principles with C#](https://sd.blackball.lv/articles/read/18859)
 - [The 10 commandments .NET developers must apply for secure applications](https://sd.blackball.lv/articles/read/18858)
-- [.Net 6 vs .Net 5: How .Net 6 has changed the game of Software Development?](https://sd.blackball.lv/articles/read/18857)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
