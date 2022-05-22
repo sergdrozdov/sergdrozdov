@@ -17,6 +17,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [XML and JSON Recipes for SQL Server](https://sd.blackball.lv/books/18873)
 - [Dynamic SQL, Second Edition](https://sd.blackball.lv/books/18871)
 - [Best LINQ performance](https://sd.blackball.lv/articles/read/18870)
 - [BMW Group IT | Experience Industry 4.0 | BMW Group Careers](https://sd.blackball.lv/video/watch/18868)
@@ -26,7 +27,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [8 quick tips to improve your .NET API](https://sd.blackball.lv/articles/read/18862)
 - [Пишем полифилы на JavaScript &lpar;map, reduce, flat&rpar;](https://sd.blackball.lv/video/watch/18861)
 - [MediatR with .NET 6.0](https://sd.blackball.lv/articles/read/18860)
-- [Applying SOLID principles with C#](https://sd.blackball.lv/articles/read/18859)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
