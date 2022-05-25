@@ -17,6 +17,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginning gRPC with ASP.NET Core 6](https://sd.blackball.lv/books/18875)
 - [OpenTelemetry with Jaeger in .NET Core](https://sd.blackball.lv/articles/read/18874)
 - [XML and JSON Recipes for SQL Server](https://sd.blackball.lv/books/18873)
 - [Dynamic SQL, Second Edition](https://sd.blackball.lv/books/18871)
@@ -26,7 +27,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Top 6 performance tips for .Net Developers](https://sd.blackball.lv/articles/read/18864)
 - [Why you shouldn&#39;t use the Repository pattern in .NET](https://sd.blackball.lv/articles/read/18863)
 - [8 quick tips to improve your .NET API](https://sd.blackball.lv/articles/read/18862)
-- [Пишем полифилы на JavaScript &lpar;map, reduce, flat&rpar;](https://sd.blackball.lv/video/watch/18861)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
