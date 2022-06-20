@@ -17,16 +17,16 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the best frontend option for .Net backend?](https://sd.blackball.lv/articles/read/18881)
-- [Beginning gRPC with ASP.NET Core 6](https://sd.blackball.lv/books/18875)
-- [OpenTelemetry with Jaeger in .NET Core](https://sd.blackball.lv/articles/read/18874)
-- [XML and JSON Recipes for SQL Server](https://sd.blackball.lv/books/18873)
-- [Dynamic SQL, Second Edition](https://sd.blackball.lv/books/18871)
-- [Best LINQ performance](https://sd.blackball.lv/articles/read/18870)
-- [BMW Group IT | Experience Industry 4.0 | BMW Group Careers](https://sd.blackball.lv/video/watch/18868)
-- [Новость 29.04.2022 16:40](https://sd.blackball.lv/news/18867)
-- [Top 6 performance tips for .Net Developers](https://sd.blackball.lv/articles/read/18864)
-- [Why you shouldn&#39;t use the Repository pattern in .NET](https://sd.blackball.lv/articles/read/18863)
+- [Clojure High Performance Programming, Second Edition](https://sd.blackball.lv/books/18895)
+- [Управление памятью в .NET для профессионалов](https://sd.blackball.lv/books/18893)
+- [Clojure High Performance Programming](https://sd.blackball.lv/books/18892)
+- [Совершенный софт](https://sd.blackball.lv/books/18891)
+- [Конкурентность и параллелизм на платформе .NET](https://sd.blackball.lv/books/18890)
+- [Pro .NET Memory Management](https://sd.blackball.lv/books/18888)
+- [Высокопроизводительный код на платформе .NET, 2-е издание](https://sd.blackball.lv/books/18887)
+- [Writing High-Performance .NET Code, 2nd Edition](https://sd.blackball.lv/books/18886)
+- [Concurrency in .NET](https://sd.blackball.lv/books/18884)
+- [Writing High-Performance .NET Code](https://sd.blackball.lv/books/18883)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
