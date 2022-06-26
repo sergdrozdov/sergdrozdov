@@ -17,6 +17,8 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Run and manage periodic background tasks in ASP.NET Core 6 with C#](https://sd.blackball.lv/articles/read/18897)
+- [Новость 25.06.2022 10:44](https://sd.blackball.lv/news/18896)
 - [Clojure High Performance Programming, Second Edition](https://sd.blackball.lv/books/18895)
 - [Управление памятью в .NET для профессионалов](https://sd.blackball.lv/books/18893)
 - [Clojure High Performance Programming](https://sd.blackball.lv/books/18892)
@@ -25,8 +27,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Pro .NET Memory Management](https://sd.blackball.lv/books/18888)
 - [Высокопроизводительный код на платформе .NET, 2-е издание](https://sd.blackball.lv/books/18887)
 - [Writing High-Performance .NET Code, 2nd Edition](https://sd.blackball.lv/books/18886)
-- [Concurrency in .NET](https://sd.blackball.lv/books/18884)
-- [Writing High-Performance .NET Code](https://sd.blackball.lv/books/18883)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
