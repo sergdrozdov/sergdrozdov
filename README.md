@@ -17,6 +17,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implement gRpc Global Exception Handler in ASP.NET](https://sd.blackball.lv/articles/read/18880)
 - [.NET Interview](https://sd.blackball.lv/books/18898)
 - [Run and manage periodic background tasks in ASP.NET Core 6 with C#](https://sd.blackball.lv/articles/read/18897)
 - [Новость 25.06.2022 10:44](https://sd.blackball.lv/news/18896)
@@ -26,7 +27,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Совершенный софт](https://sd.blackball.lv/books/18891)
 - [Конкурентность и параллелизм на платформе .NET](https://sd.blackball.lv/books/18890)
 - [Pro .NET Memory Management](https://sd.blackball.lv/books/18888)
-- [Высокопроизводительный код на платформе .NET, 2-е издание](https://sd.blackball.lv/books/18887)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
