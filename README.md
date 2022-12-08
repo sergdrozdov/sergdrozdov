@@ -10,6 +10,9 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333537?style=for-the-badge&logo=asp-net)
 ![Windows%20Forms](https://img.shields.io/badge/-Windows%20Forms-333537?style=for-the-badge&logo=Windows%20Forms)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+\
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## IDEs / Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -41,8 +44,9 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Hosting / SaaS
 ![IIS](https://img.shields.io/badge/-IIS-333537?style=for-the-badge&logo=iis)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
