@@ -4,6 +4,10 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 [Contacts and profile](https://sd.blackball.lv/sergey-drozdov)
 
+## Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Frameworks / Platforms / Languages
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -48,10 +52,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Personal projects
 * [Blackball](https://blackball.lv/) - *entertainment portal.*
 * [Blog](https://sd.blackball.lv/) - *data science blog (books, articles, videos).*
@@ -63,5 +63,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serg-drozdov/)
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](skype:sergey-drozdov?chat)
 [![Telegram](https://img.shields.io/badge/-Telegram-333537?style=for-the-badge&logo=Telegram)](https://t.me/cyberserg80)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sergey_drozdov)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergdrozdov)](https://github.com/anuraghazra/github-readme-stats)
