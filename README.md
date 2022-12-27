@@ -6,16 +6,16 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Как правильно выбрать название для Unit тестов](https://sd.blackball.lv/articles/read/18977)
+- [Microsoft прекратила развитие .NET Standard](https://sd.blackball.lv/news/18976)
+- [10 Productivity Tips for Software Developers](https://sd.blackball.lv/articles/read/18975)
+- [Become a Ninja with Angular](https://sd.blackball.lv/books/18945)
 - [Readonly Vs Static Readonly in C#](https://sd.blackball.lv/articles/read/18974)
 - [Top 11 SQL Server Maintenance Plan Best Practices](https://sd.blackball.lv/articles/read/18973)
 - [Implementation of the Redis Cache in the .NET Core API](https://sd.blackball.lv/articles/read/18972)
 - [Data Science for IoT Engineers](https://sd.blackball.lv/books/18940)
 - [Let’s talk about salary](https://sd.blackball.lv/articles/read/18971)
 - [.NET Core and RabbitMQ Part 2 — Communication via AMQP](https://sd.blackball.lv/articles/read/18970)
-- [.NET Core and RabbitMQ](https://sd.blackball.lv/articles/read/18969)
-- [Новость 01.12.2022 09:52](https://sd.blackball.lv/news/18967)
-- [Coder&#39;s Tool: Online Tools and Utilities](https://sd.blackball.lv/news/18966)
-- [Mastering Structured Data on the Semantic Web](https://sd.blackball.lv/books/18962)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
