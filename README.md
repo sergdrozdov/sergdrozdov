@@ -6,6 +6,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Tips and Tricks](https://sd.blackball.lv/articles/read/18978)
 - [Как правильно выбрать название для Unit тестов](https://sd.blackball.lv/articles/read/18977)
 - [Microsoft прекратила развитие .NET Standard](https://sd.blackball.lv/news/18976)
 - [10 Productivity Tips for Software Developers](https://sd.blackball.lv/articles/read/18975)
@@ -15,7 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Implementation of the Redis Cache in the .NET Core API](https://sd.blackball.lv/articles/read/18972)
 - [Data Science for IoT Engineers](https://sd.blackball.lv/books/18940)
 - [Let’s talk about salary](https://sd.blackball.lv/articles/read/18971)
-- [.NET Core and RabbitMQ Part 2 — Communication via AMQP](https://sd.blackball.lv/articles/read/18970)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
