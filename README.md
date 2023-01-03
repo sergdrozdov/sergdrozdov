@@ -6,6 +6,9 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Common Table Expression &lpar;CTE&rpar; in SQL Server](https://sd.blackball.lv/articles/read/18983)
+- [Fluent Python, 2nd Edition](https://sd.blackball.lv/books/18944)
+- [CQRS And MediatR Pattern Implementation Using .NET Core 6 Web API](https://sd.blackball.lv/articles/read/18982)
 - [.NET Core — The simple step-by-step guide to creating and using a Generic Repository](https://sd.blackball.lv/articles/read/18981)
 - [Creating Custom C# Exception Types](https://sd.blackball.lv/articles/read/18980)
 - [5 Reasons Why I’m Still Using ASP.NET Web Forms in 2021](https://sd.blackball.lv/articles/read/18979)
@@ -13,9 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Как правильно выбрать название для Unit тестов](https://sd.blackball.lv/articles/read/18977)
 - [Microsoft прекратила развитие .NET Standard](https://sd.blackball.lv/news/18976)
 - [10 Productivity Tips for Software Developers](https://sd.blackball.lv/articles/read/18975)
-- [Become a Ninja with Angular](https://sd.blackball.lv/books/18945)
-- [Readonly Vs Static Readonly in C#](https://sd.blackball.lv/articles/read/18974)
-- [Top 11 SQL Server Maintenance Plan Best Practices](https://sd.blackball.lv/articles/read/18973)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
