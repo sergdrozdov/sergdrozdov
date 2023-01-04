@@ -8,7 +8,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 <!-- BLOG-POST-LIST:START -->
 - [Common Table Expression &lpar;CTE&rpar; in SQL Server](https://sd.blackball.lv/articles/read/18983)
 - [Fluent Python, 2nd Edition](https://sd.blackball.lv/books/18944)
-- [CQRS And MediatR Pattern Implementation Using .NET Core 6 Web API](https://sd.blackball.lv/articles/read/18982)
+- [CQRS and MediatR Pattern Implementation Using .NET Core 6 Web API](https://sd.blackball.lv/articles/read/18982)
 - [.NET Core — The simple step-by-step guide to creating and using a Generic Repository](https://sd.blackball.lv/articles/read/18981)
 - [Creating Custom C# Exception Types](https://sd.blackball.lv/articles/read/18980)
 - [5 Reasons Why I’m Still Using ASP.NET Web Forms in 2021](https://sd.blackball.lv/articles/read/18979)
