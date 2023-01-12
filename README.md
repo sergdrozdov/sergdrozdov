@@ -6,6 +6,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database Setup with DbUp + PostgreSQL + Dapper in ASP.Net Core](https://sd.blackball.lv/articles/read/18986)
 - [Global Exception Handling in .Net Core 6.0 Web API Application](https://sd.blackball.lv/articles/read/18984)
 - [Effective paging, sorting and filtering using SQL Server Stored Procedure](https://sd.blackball.lv/articles/read/18985)
 - [Common Table Expression &lpar;CTE&rpar; in SQL Server](https://sd.blackball.lv/articles/read/18983)
@@ -15,7 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Creating Custom C# Exception Types](https://sd.blackball.lv/articles/read/18980)
 - [5 Reasons Why I’m Still Using ASP.NET Web Forms in 2021](https://sd.blackball.lv/articles/read/18979)
 - [CSS Tips and Tricks](https://sd.blackball.lv/articles/read/18978)
-- [Как правильно выбрать название для Unit тестов](https://sd.blackball.lv/articles/read/18977)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
