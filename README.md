@@ -6,6 +6,8 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C# parse HTML with AngleSharp](https://sd.blackball.lv/articles/read/18989)
+- [Unity in Action, 3rd Edition](https://sd.blackball.lv/books/18947)
 - [Applying SOLID principles to TypeScript](https://sd.blackball.lv/articles/read/18988)
 - [Unit Of Work with Generic Repository implementation using .NET Core 6 Web API](https://sd.blackball.lv/articles/read/18987)
 - [Database Setup with DbUp + PostgreSQL + Dapper in ASP.Net Core](https://sd.blackball.lv/articles/read/18986)
@@ -14,8 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Common Table Expression &lpar;CTE&rpar; in SQL Server](https://sd.blackball.lv/articles/read/18983)
 - [Fluent Python, 2nd Edition](https://sd.blackball.lv/books/18944)
 - [CQRS and MediatR Pattern Implementation Using .NET Core 6 Web API](https://sd.blackball.lv/articles/read/18982)
-- [.NET Core — The simple step-by-step guide to creating and using a Generic Repository](https://sd.blackball.lv/articles/read/18981)
-- [Creating Custom C# Exception Types](https://sd.blackball.lv/articles/read/18980)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
