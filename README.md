@@ -6,6 +6,8 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Dependency Injection in .Net 6.0 Web API](https://sd.blackball.lv/articles/read/18996)
+- [Using a сustom PageList class for Generic Pagination in .NET Core](https://sd.blackball.lv/articles/read/18992)
 - [Новость 17.01.2023 08:22](https://sd.blackball.lv/news/18990)
 - [C# parse HTML with AngleSharp](https://sd.blackball.lv/articles/read/18989)
 - [Unity in Action, 3rd Edition](https://sd.blackball.lv/books/18947)
@@ -14,8 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Database Setup with DbUp + PostgreSQL + Dapper in ASP.Net Core](https://sd.blackball.lv/articles/read/18986)
 - [Global Exception Handling in .Net Core 6.0 Web API Application](https://sd.blackball.lv/articles/read/18984)
 - [Effective paging, sorting and filtering using SQL Server Stored Procedure](https://sd.blackball.lv/articles/read/18985)
-- [Common Table Expression &lpar;CTE&rpar; in SQL Server](https://sd.blackball.lv/articles/read/18983)
-- [Fluent Python, 2nd Edition](https://sd.blackball.lv/books/18944)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
