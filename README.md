@@ -6,6 +6,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the hardest thing in software development?](https://sd.blackball.lv/articles/read/19003)
 - [Simple Dependency Injection in .Net 6.0 Web API](https://sd.blackball.lv/articles/read/18996)
 - [Using a сustom PageList class for Generic Pagination in .NET Core](https://sd.blackball.lv/articles/read/18992)
 - [Новость 17.01.2023 08:22](https://sd.blackball.lv/news/18990)
@@ -15,7 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Unit Of Work with Generic Repository implementation using .NET Core 6 Web API](https://sd.blackball.lv/articles/read/18987)
 - [Database Setup with DbUp + PostgreSQL + Dapper in ASP.Net Core](https://sd.blackball.lv/articles/read/18986)
 - [Global Exception Handling in .Net Core 6.0 Web API Application](https://sd.blackball.lv/articles/read/18984)
-- [Effective paging, sorting and filtering using SQL Server Stored Procedure](https://sd.blackball.lv/articles/read/18985)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
