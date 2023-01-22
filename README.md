@@ -6,16 +6,16 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ум программиста](https://sd.blackball.lv/books/19012)
+- [Python. Исчерпывающее руководство](https://sd.blackball.lv/books/19011)
+- [Идеальная работа. Программирование без прикрас](https://sd.blackball.lv/books/19010)
+- [Биологическое и компьютерное зрение](https://sd.blackball.lv/books/19009)
+- [Микросервисы и контейнеры Docker](https://sd.blackball.lv/books/19008)
+- [От монолита к микросервисам](https://sd.blackball.lv/books/19007)
 - [What is the hardest thing in software development?](https://sd.blackball.lv/articles/read/19003)
 - [Simple Dependency Injection in .Net 6.0 Web API](https://sd.blackball.lv/articles/read/18996)
 - [Using a сustom PageList class for Generic Pagination in .NET Core](https://sd.blackball.lv/articles/read/18992)
 - [Новость 17.01.2023 08:22](https://sd.blackball.lv/news/18990)
-- [C# parse HTML with AngleSharp](https://sd.blackball.lv/articles/read/18989)
-- [Unity in Action, 3rd Edition](https://sd.blackball.lv/books/18947)
-- [Applying SOLID principles to TypeScript](https://sd.blackball.lv/articles/read/18988)
-- [Unit Of Work with Generic Repository implementation using .NET Core 6 Web API](https://sd.blackball.lv/articles/read/18987)
-- [Database Setup with DbUp + PostgreSQL + Dapper in ASP.Net Core](https://sd.blackball.lv/articles/read/18986)
-- [Global Exception Handling in .Net Core 6.0 Web API Application](https://sd.blackball.lv/articles/read/18984)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
