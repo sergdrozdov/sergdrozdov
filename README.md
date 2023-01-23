@@ -6,6 +6,9 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pro ASP.NET SignalR](https://sd.blackball.lv/books/19030)
+- [SignalR Real-time Application Cookbook](https://sd.blackball.lv/books/19029)
+- [Microservice APIs](https://sd.blackball.lv/books/19013)
 - [Ум программиста](https://sd.blackball.lv/books/19012)
 - [Python. Исчерпывающее руководство](https://sd.blackball.lv/books/19011)
 - [Идеальная работа. Программирование без прикрас](https://sd.blackball.lv/books/19010)
@@ -13,9 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Микросервисы и контейнеры Docker](https://sd.blackball.lv/books/19008)
 - [От монолита к микросервисам](https://sd.blackball.lv/books/19007)
 - [What is the hardest thing in software development?](https://sd.blackball.lv/articles/read/19003)
-- [Simple Dependency Injection in .Net 6.0 Web API](https://sd.blackball.lv/articles/read/18996)
-- [Using a сustom PageList class for Generic Pagination in .NET Core](https://sd.blackball.lv/articles/read/18992)
-- [Новость 17.01.2023 08:22](https://sd.blackball.lv/news/18990)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
