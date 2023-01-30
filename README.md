@@ -6,16 +6,16 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Как пасти котов](https://sd.blackball.lv/books/19044)
+- [Herding Cats](https://sd.blackball.lv/books/19043)
+- [Чистая архитектура](https://sd.blackball.lv/books/19042)
+- [Чистая архитектура](https://sd.blackball.lv/books/19041)
 - [Путеводитель по репликации баз данных](https://sd.blackball.lv/articles/read/19036)
 - [Google’s 200 Ranking Factors: The Complete List &lpar;2022&rpar;](https://sd.blackball.lv/articles/read/19035)
 - [Почему вы никогда не должны соглашаться на собеседования с программированием](https://sd.blackball.lv/articles/read/19034)
 - [Pro ASP.NET SignalR](https://sd.blackball.lv/books/19030)
 - [SignalR Real-time Application Cookbook](https://sd.blackball.lv/books/19029)
 - [Microservice APIs](https://sd.blackball.lv/books/19013)
-- [Ум программиста](https://sd.blackball.lv/books/19012)
-- [Python. Исчерпывающее руководство](https://sd.blackball.lv/books/19011)
-- [Идеальная работа. Программирование без прикрас](https://sd.blackball.lv/books/19010)
-- [Биологическое и компьютерное зрение](https://sd.blackball.lv/books/19009)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
