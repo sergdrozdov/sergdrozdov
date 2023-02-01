@@ -6,6 +6,7 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET Core Microservice Logging with Grafana and Loki](https://sd.blackball.lv/articles/read/19049)
 - [Как избавиться от прокрастинации до того, как она разрушит вашу карьеру](https://sd.blackball.lv/articles/read/19048)
 - [Выйди и зайди правильно](https://sd.blackball.lv/articles/read/19046)
 - [Зарплата по результатам собеседования — лучший способ сократить отклики на вакансию, а тестовые задания — избыточны](https://sd.blackball.lv/articles/read/19045)
@@ -15,7 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Чистая архитектура](https://sd.blackball.lv/books/19041)
 - [Adding ChatGPT to your .NET 7 application](https://sd.blackball.lv/articles/read/19037)
 - [Путеводитель по репликации баз данных](https://sd.blackball.lv/articles/read/19036)
-- [Google’s 200 Ranking Factors: The Complete List &lpar;2022&rpar;](https://sd.blackball.lv/articles/read/19035)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
