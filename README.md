@@ -6,6 +6,9 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to find a memory leak in .NET?](https://sd.blackball.lv/articles/read/19053)
+- [Жуткий сценарий использования ChatGPT](https://sd.blackball.lv/articles/read/19052)
+- [OpenAI has hired an army of contractors to make basic coding obsolete](https://sd.blackball.lv/articles/read/19051)
 - [.NET Core Microservice Logging with Grafana and Loki](https://sd.blackball.lv/articles/read/19049)
 - [Как избавиться от прокрастинации до того, как она разрушит вашу карьеру](https://sd.blackball.lv/articles/read/19048)
 - [Выйди и зайди правильно](https://sd.blackball.lv/articles/read/19046)
@@ -13,9 +16,6 @@ I am a Full-Stack developer and can perform tasks in a wide range.
 - [Как пасти котов](https://sd.blackball.lv/books/19044)
 - [Herding Cats](https://sd.blackball.lv/books/19043)
 - [Чистая архитектура](https://sd.blackball.lv/books/19042)
-- [Чистая архитектура](https://sd.blackball.lv/books/19041)
-- [Adding ChatGPT to your .NET 7 application](https://sd.blackball.lv/articles/read/19037)
-- [Путеводитель по репликации баз данных](https://sd.blackball.lv/articles/read/19036)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
