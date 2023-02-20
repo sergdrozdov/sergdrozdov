@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Image and File Upload in PHP with jQuery AJAX](https://sd.blackball.lv/articles/read/19083)
 - [What’s the difference between Remove and Delete?](https://sd.blackball.lv/articles/read/19082)
 - [Clean Architecture in ASP .NET Core Web API](https://sd.blackball.lv/articles/read/19081)
 - [API Design Patterns](https://sd.blackball.lv/books/19078)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [10 tools for .NET developers that you probably didn’t know about](https://sd.blackball.lv/articles/read/19056)
 - [Apps and Services with .NET 7](https://sd.blackball.lv/books/19027)
 - [How to Build a Simple REST API in PHP](https://sd.blackball.lv/articles/read/19054)
-- [How to find a memory leak in .NET?](https://sd.blackball.lv/articles/read/19053)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
