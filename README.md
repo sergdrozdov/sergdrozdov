@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Serverless Architecture](https://sd.blackball.lv/books/19072)
 - [Kibana vs Grafana - Which tool to choose?](https://sd.blackball.lv/articles/read/19085)
 - [How to Create Image and File Upload in PHP with jQuery AJAX](https://sd.blackball.lv/articles/read/19083)
 - [What’s the difference between Remove and Delete?](https://sd.blackball.lv/articles/read/19082)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Mastering Design Patterns in .NET: The top patterns you need to know](https://sd.blackball.lv/articles/read/19059)
 - [How to build a simple PHP MVC framework](https://sd.blackball.lv/articles/read/19058)
 - [10 tools for .NET developers that you probably didn’t know about](https://sd.blackball.lv/articles/read/19056)
-- [Apps and Services with .NET 7](https://sd.blackball.lv/books/19027)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
