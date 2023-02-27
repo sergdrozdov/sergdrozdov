@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering TypeScript: 21 best practices for improved code quality](https://sd.blackball.lv/articles/read/19088)
 - [Exploring generating PDF files from HTML in ASP.NET Core](https://sd.blackball.lv/articles/read/19079)
 - [Integrating Serverless Architecture](https://sd.blackball.lv/books/19072)
 - [Kibana vs Grafana - Which tool to choose?](https://sd.blackball.lv/articles/read/19085)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [API Design Patterns](https://sd.blackball.lv/books/19078)
 - [Exploring Transient, Scoped, and Singleton using .NET and C#](https://sd.blackball.lv/articles/read/19064)
 - [Mastering Design Patterns in .NET: The top patterns you need to know](https://sd.blackball.lv/articles/read/19059)
-- [How to build a simple PHP MVC framework](https://sd.blackball.lv/articles/read/19058)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
