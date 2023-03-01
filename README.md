@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Entity Framework Core 6, Second Edition](https://sd.blackball.lv/books/19092)
+- [Practical Entity Framework](https://sd.blackball.lv/books/19091)
+- [Pro ASP.NET Core Identity](https://sd.blackball.lv/books/19090)
 - [Mastering TypeScript: 21 best practices for improved code quality](https://sd.blackball.lv/articles/read/19088)
 - [Exploring generating PDF files from HTML in ASP.NET Core](https://sd.blackball.lv/articles/read/19079)
 - [Integrating Serverless Architecture](https://sd.blackball.lv/books/19072)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [How to Create Image and File Upload in PHP with jQuery AJAX](https://sd.blackball.lv/articles/read/19083)
 - [What’s the difference between Remove and Delete?](https://sd.blackball.lv/articles/read/19082)
 - [Clean Architecture in ASP .NET Core Web API](https://sd.blackball.lv/articles/read/19081)
-- [API Design Patterns](https://sd.blackball.lv/books/19078)
-- [Exploring Transient, Scoped, and Singleton using .NET and C#](https://sd.blackball.lv/articles/read/19064)
-- [Mastering Design Patterns in .NET: The top patterns you need to know](https://sd.blackball.lv/articles/read/19059)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
