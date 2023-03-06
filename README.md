@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET 6 ASP.NET Core Web API CRUD with Angular 13](https://sd.blackball.lv/video/watch/19094)
 - [Что должен уметь Frontend разработчик в 2023 году &lpar;+Roadmap&rpar;](https://sd.blackball.lv/articles/read/19093)
 - [Understanding Middleware In ASP.NET Core](https://sd.blackball.lv/articles/read/19039)
 - [Inheritance Strategies in Entity Framework Core 7](https://sd.blackball.lv/articles/read/19060)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Mastering TypeScript: 21 best practices for improved code quality](https://sd.blackball.lv/articles/read/19088)
 - [Exploring generating PDF files from HTML in ASP.NET Core](https://sd.blackball.lv/articles/read/19079)
 - [Integrating Serverless Architecture](https://sd.blackball.lv/books/19072)
-- [Kibana vs Grafana - Which tool to choose?](https://sd.blackball.lv/articles/read/19085)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
