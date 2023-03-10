@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CRUD Operations In ASP.NET Core Blazor Server with Azure Cosmos DB and C#](https://sd.blackball.lv/articles/read/19095)
 - [Pro ASP.NET Core 6, 9th Edition](https://sd.blackball.lv/books/19067)
 - [Beginning gRPC with ASP.NET Core 6](https://sd.blackball.lv/books/19068)
 - [.NET 6 ASP.NET Core Web API CRUD with Angular 13](https://sd.blackball.lv/video/watch/19094)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Practical Entity Framework Core 6, Second Edition](https://sd.blackball.lv/books/19092)
 - [Practical Entity Framework](https://sd.blackball.lv/books/19091)
 - [Pro ASP.NET Core Identity](https://sd.blackball.lv/books/19090)
-- [Mastering TypeScript: 21 best practices for improved code quality](https://sd.blackball.lv/articles/read/19088)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
