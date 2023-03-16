@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15 tools for .NET developers that you probably didn’t know about](https://sd.blackball.lv/articles/read/19113)
 - [SignalR on .NET 6 - The Complete Guide](https://sd.blackball.lv/books/19026)
 - [Real-time communication with SignalR in .NET Core](https://sd.blackball.lv/articles/read/19111)
 - [C# 11.0 new features: raw string literals](https://sd.blackball.lv/articles/read/19107)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Pro ASP.NET Core 6, 9th Edition](https://sd.blackball.lv/books/19067)
 - [.NET 6 ASP.NET Core Web API CRUD with Angular 13](https://sd.blackball.lv/video/watch/19094)
 - [Что должен уметь Frontend разработчик в 2023 году &lpar;+Roadmap&rpar;](https://sd.blackball.lv/articles/read/19093)
-- [Understanding Middleware In ASP.NET Core](https://sd.blackball.lv/articles/read/19039)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
