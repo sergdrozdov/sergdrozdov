@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL Vs. REST APIs](https://sd.blackball.lv/articles/read/19116)
+- [BMW Group Annual Conference 2023 - Our Immersive Experience](https://sd.blackball.lv/video/watch/19115)
+- [What is Apache Superset? 3 important factors](https://sd.blackball.lv/articles/read/19114)
 - [15 tools for .NET developers that you probably didn’t know about](https://sd.blackball.lv/articles/read/19113)
 - [SignalR on .NET 6 - The Complete Guide](https://sd.blackball.lv/books/19026)
 - [Real-time communication with SignalR in .NET Core](https://sd.blackball.lv/articles/read/19111)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Save 20 hours a week by removing these 4 useless things in your life](https://sd.blackball.lv/articles/read/19097)
 - [How to write unit tests with Dapper](https://sd.blackball.lv/articles/read/19096)
 - [CRUD Operations In ASP.NET Core Blazor Server with Azure Cosmos DB and C#](https://sd.blackball.lv/articles/read/19095)
-- [Pro ASP.NET Core 6, 9th Edition](https://sd.blackball.lv/books/19067)
-- [.NET 6 ASP.NET Core Web API CRUD with Angular 13](https://sd.blackball.lv/video/watch/19094)
-- [Что должен уметь Frontend разработчик в 2023 году &lpar;+Roadmap&rpar;](https://sd.blackball.lv/articles/read/19093)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
