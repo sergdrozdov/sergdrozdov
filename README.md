@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Entity Framework](https://sd.blackball.lv/books/19091)
 - [What Keycloak is and what it does](https://sd.blackball.lv/articles/read/19119)
 - [GraphQL Vs. REST APIs](https://sd.blackball.lv/articles/read/19116)
 - [BMW Group Annual Conference 2023 - Our Immersive Experience](https://sd.blackball.lv/video/watch/19115)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Real-time communication with SignalR in .NET Core](https://sd.blackball.lv/articles/read/19111)
 - [C# 11.0 new features: raw string literals](https://sd.blackball.lv/articles/read/19107)
 - [Save 20 hours a week by removing these 4 useless things in your life](https://sd.blackball.lv/articles/read/19097)
-- [How to write unit tests with Dapper](https://sd.blackball.lv/articles/read/19096)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
