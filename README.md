@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Full-Stack React, TypeScript, and Node](https://sd.blackball.lv/books/19125)
+- [Learn React with TypeScript 3](https://sd.blackball.lv/books/19124)
 - [Practical Entity Framework](https://sd.blackball.lv/books/19091)
 - [What Keycloak is and what it does](https://sd.blackball.lv/articles/read/19119)
 - [GraphQL Vs. REST APIs](https://sd.blackball.lv/articles/read/19116)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [15 tools for .NET developers that you probably didn’t know about](https://sd.blackball.lv/articles/read/19113)
 - [SignalR on .NET 6 - The Complete Guide](https://sd.blackball.lv/books/19026)
 - [Real-time communication with SignalR in .NET Core](https://sd.blackball.lv/articles/read/19111)
-- [C# 11.0 new features: raw string literals](https://sd.blackball.lv/articles/read/19107)
-- [Save 20 hours a week by removing these 4 useless things in your life](https://sd.blackball.lv/articles/read/19097)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
