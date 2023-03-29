@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Middleware In ASP.NET Core](https://sd.blackball.lv/articles/read/19039)
 - [Full-Stack React, TypeScript, and Node](https://sd.blackball.lv/books/19125)
 - [Learn React with TypeScript 3](https://sd.blackball.lv/books/19124)
 - [Practical Entity Framework](https://sd.blackball.lv/books/19091)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [What is Apache Superset? 3 important factors](https://sd.blackball.lv/articles/read/19114)
 - [15 tools for .NET developers that you probably didn’t know about](https://sd.blackball.lv/articles/read/19113)
 - [SignalR on .NET 6 - The Complete Guide](https://sd.blackball.lv/books/19026)
-- [Real-time communication with SignalR in .NET Core](https://sd.blackball.lv/articles/read/19111)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
