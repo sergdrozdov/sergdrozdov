@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 03.04.2023 02:00](https://sd.blackball.lv/news/19129)
+- [Caching in .NET: Strategies and techniques for faster response times](https://sd.blackball.lv/articles/read/19128)
 - [A Comprehensive guide to HTTP/3 and QUIC](https://sd.blackball.lv/articles/read/19126)
 - [Understanding Middleware In ASP.NET Core](https://sd.blackball.lv/articles/read/19039)
 - [Full-Stack React, TypeScript, and Node](https://sd.blackball.lv/books/19125)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [What Keycloak is and what it does](https://sd.blackball.lv/articles/read/19119)
 - [GraphQL Vs. REST APIs](https://sd.blackball.lv/articles/read/19116)
 - [BMW Group Annual Conference 2023 - Our Immersive Experience](https://sd.blackball.lv/video/watch/19115)
-- [What is Apache Superset? 3 important factors](https://sd.blackball.lv/articles/read/19114)
-- [15 tools for .NET developers that you probably didn’t know about](https://sd.blackball.lv/articles/read/19113)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
