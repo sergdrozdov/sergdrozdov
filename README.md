@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to implement HTTP/3 in your ASP.NET Core application](https://sd.blackball.lv/articles/read/19138)
 - [The main secret of software architecture](https://sd.blackball.lv/articles/read/19136)
 - [Safer nullability in modern C#](https://sd.blackball.lv/articles/read/19133)
 - [Should you Use Constructor or Factory Method?](https://sd.blackball.lv/articles/read/19132)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Caching in .NET: Strategies and techniques for faster response times](https://sd.blackball.lv/articles/read/19128)
 - [A Comprehensive guide to HTTP/3 and QUIC](https://sd.blackball.lv/articles/read/19126)
 - [Understanding Middleware In ASP.NET Core](https://sd.blackball.lv/articles/read/19039)
-- [Full-Stack React, TypeScript, and Node](https://sd.blackball.lv/books/19125)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
