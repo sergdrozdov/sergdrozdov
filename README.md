@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Entity Framework Core 6, Second Edition](https://sd.blackball.lv/books/19092)
+- [Struct vs Class in C#: Choosing the right data type](https://sd.blackball.lv/articles/read/19141)
+- [Microservices architecture tutorial: All you need to get started](https://sd.blackball.lv/articles/read/19140)
 - [JavaScript refresh page – how to reload a page in JS](https://sd.blackball.lv/articles/read/19139)
 - [How to implement HTTP/3 in your ASP.NET Core application](https://sd.blackball.lv/articles/read/19138)
 - [MediatR vs Services or why slices architecture better](https://sd.blackball.lv/articles/read/19137)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Safer nullability in modern C#](https://sd.blackball.lv/articles/read/19133)
 - [Should you Use Constructor or Factory Method?](https://sd.blackball.lv/articles/read/19132)
 - [Abstract Class vs Interface in C#: Analyzing the pros and cons](https://sd.blackball.lv/articles/read/19131)
-- [Best practices for Clean Code](https://sd.blackball.lv/articles/read/19130)
-- [Новость 03.04.2023 02:00](https://sd.blackball.lv/news/19129)
-- [Caching in .NET: Strategies and techniques for faster response times](https://sd.blackball.lv/articles/read/19128)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
