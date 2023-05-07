@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get more website traffic: guide to increasing your SEO ranking](https://sd.blackball.lv/articles/read/19143)
+- [SEO and accessibility go hand in hand: here’s why](https://sd.blackball.lv/articles/read/19142)
+- [Top 10 benefits of Continuous Integration &amp; Continuous Delivery](https://sd.blackball.lv/articles/read/19040)
 - [GraphQL vs. REST](https://sd.blackball.lv/articles/read/19117)
 - [Practical Entity Framework Core 6, Second Edition](https://sd.blackball.lv/books/19092)
 - [Struct vs Class in C#: Choosing the right data type](https://sd.blackball.lv/articles/read/19141)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [JavaScript refresh page – how to reload a page in JS](https://sd.blackball.lv/articles/read/19139)
 - [How to implement HTTP/3 in your ASP.NET Core application](https://sd.blackball.lv/articles/read/19138)
 - [MediatR vs Services or why slices architecture better](https://sd.blackball.lv/articles/read/19137)
-- [The main secret of software architecture](https://sd.blackball.lv/articles/read/19136)
-- [Safer nullability in modern C#](https://sd.blackball.lv/articles/read/19133)
-- [Should you Use Constructor or Factory Method?](https://sd.blackball.lv/articles/read/19132)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
