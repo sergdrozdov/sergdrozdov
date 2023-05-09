@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dapper advance features in .NET Core](https://sd.blackball.lv/articles/read/19144)
 - [Get more website traffic: guide to increasing your SEO ranking](https://sd.blackball.lv/articles/read/19143)
 - [SEO and accessibility go hand in hand: here’s why](https://sd.blackball.lv/articles/read/19142)
 - [Top 10 benefits of Continuous Integration &amp; Continuous Delivery](https://sd.blackball.lv/articles/read/19040)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Microservices architecture tutorial: All you need to get started](https://sd.blackball.lv/articles/read/19140)
 - [JavaScript refresh page – how to reload a page in JS](https://sd.blackball.lv/articles/read/19139)
 - [How to implement HTTP/3 in your ASP.NET Core application](https://sd.blackball.lv/articles/read/19138)
-- [MediatR vs Services or why slices architecture better](https://sd.blackball.lv/articles/read/19137)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
