@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced LINQ you must know in C# .NET](https://sd.blackball.lv/articles/read/19147)
+- [System Design Blueprint: The Ultimate Guide](https://sd.blackball.lv/articles/read/19146)
+- [NULL в SQL: Что это такое и почему его знание необходимо каждому разработчику](https://sd.blackball.lv/articles/read/19145)
 - [SignalR on .NET 6 - The Complete Guide](https://sd.blackball.lv/books/19026)
 - [Dapper advance features in .NET Core](https://sd.blackball.lv/articles/read/19144)
 - [Get more website traffic: guide to increasing your SEO ranking](https://sd.blackball.lv/articles/read/19143)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Top 10 benefits of Continuous Integration &amp; Continuous Delivery](https://sd.blackball.lv/articles/read/19040)
 - [GraphQL vs. REST](https://sd.blackball.lv/articles/read/19117)
 - [Practical Entity Framework Core 6, Second Edition](https://sd.blackball.lv/books/19092)
-- [Struct vs Class in C#: Choosing the right data type](https://sd.blackball.lv/articles/read/19141)
-- [Microservices architecture tutorial: All you need to get started](https://sd.blackball.lv/articles/read/19140)
-- [JavaScript refresh page – how to reload a page in JS](https://sd.blackball.lv/articles/read/19139)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
