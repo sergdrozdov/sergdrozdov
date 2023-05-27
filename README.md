@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новый сервер](https://sd.blackball.lv/news/19151)
 - [How to convert a SQL query into C# LINQ](https://sd.blackball.lv/articles/read/19150)
 - [Kafka with .NET Core](https://sd.blackball.lv/articles/read/19149)
 - [Mastering Async and Await in C#: In-Depth Guide](https://sd.blackball.lv/articles/read/19148)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [SignalR on .NET 6 - The Complete Guide](https://sd.blackball.lv/books/19026)
 - [Dapper advance features in .NET Core](https://sd.blackball.lv/articles/read/19144)
 - [Get more website traffic: guide to increasing your SEO ranking](https://sd.blackball.lv/articles/read/19143)
-- [SEO and accessibility go hand in hand: here’s why](https://sd.blackball.lv/articles/read/19142)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
