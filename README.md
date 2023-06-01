@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Expressions in .NET: A practical guide to System.Linq.Expressions](https://sd.blackball.lv/articles/read/19155)
+- [Building a dynamic logical expression builder in C#](https://sd.blackball.lv/articles/read/19154)
 - [Full-Stack React, TypeScript, and Node](https://sd.blackball.lv/books/19125)
 - [ValueTask vs Task in C#: when to use which?](https://sd.blackball.lv/articles/read/19153)
 - [The most used design patterns in .NET development](https://sd.blackball.lv/articles/read/19152)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Kafka with .NET Core](https://sd.blackball.lv/articles/read/19149)
 - [Mastering Async and Await in C#: In-Depth Guide](https://sd.blackball.lv/articles/read/19148)
 - [Advanced LINQ you must know in C# .NET](https://sd.blackball.lv/articles/read/19147)
-- [System Design Blueprint: The Ultimate Guide](https://sd.blackball.lv/articles/read/19146)
-- [NULL в SQL: Что это такое и почему его знание необходимо каждому разработчику](https://sd.blackball.lv/articles/read/19145)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
