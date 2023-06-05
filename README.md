@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unit Testing with C# and .NET &lpar;Full Guide&rpar;](https://sd.blackball.lv/articles/read/19158)
 - [Cyclomatic complexity &amp; C#/.NET](https://sd.blackball.lv/articles/read/19157)
 - [Новость 02.06.2023 11:50](https://sd.blackball.lv/news/19156)
 - [Expressions in .NET: A practical guide to System.Linq.Expressions](https://sd.blackball.lv/articles/read/19155)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [The most used design patterns in .NET development](https://sd.blackball.lv/articles/read/19152)
 - [Новый сервер](https://sd.blackball.lv/news/19151)
 - [How to convert a SQL query into C# LINQ](https://sd.blackball.lv/articles/read/19150)
-- [Kafka with .NET Core](https://sd.blackball.lv/articles/read/19149)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
