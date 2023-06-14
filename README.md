@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB vs PostgreSQL: What to consider when choosing a database](https://sd.blackball.lv/articles/read/19164)
+- [.NET gRPC — Simple chat application with gRPC](https://sd.blackball.lv/articles/read/19162)
 - [C# Regex: from zero to hero guide](https://sd.blackball.lv/articles/read/19161)
 - [10 essential skills for self-taught developers](https://sd.blackball.lv/articles/read/19160)
 - [12 microservices patterns I wish I knew before the System Design interview](https://sd.blackball.lv/articles/read/19159)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Новость 02.06.2023 11:50](https://sd.blackball.lv/news/19156)
 - [Expressions in .NET: A practical guide to System.Linq.Expressions](https://sd.blackball.lv/articles/read/19155)
 - [Building a dynamic logical expression builder in C#](https://sd.blackball.lv/articles/read/19154)
-- [Full-Stack React, TypeScript, and Node](https://sd.blackball.lv/books/19125)
-- [ValueTask vs Task in C#: when to use which?](https://sd.blackball.lv/articles/read/19153)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
