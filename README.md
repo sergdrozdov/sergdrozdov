@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Attributes and Decorators in C#](https://sd.blackball.lv/articles/read/19166)
 - [Performance Optimization in .NET](https://sd.blackball.lv/articles/read/19165)
 - [MongoDB vs PostgreSQL: What to consider when choosing a database](https://sd.blackball.lv/articles/read/19164)
 - [.NET gRPC — Simple chat application with gRPC](https://sd.blackball.lv/articles/read/19162)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Unit Testing with C# and .NET &lpar;Full Guide&rpar;](https://sd.blackball.lv/articles/read/19158)
 - [Cyclomatic complexity &amp; C#/.NET](https://sd.blackball.lv/articles/read/19157)
 - [Новость 02.06.2023 11:50](https://sd.blackball.lv/news/19156)
-- [Expressions in .NET: A practical guide to System.Linq.Expressions](https://sd.blackball.lv/articles/read/19155)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
