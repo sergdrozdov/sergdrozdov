@@ -7,6 +7,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Reflection in C#: Examples, Tricks and Tips](https://sd.blackball.lv/articles/read/19175)
+- [10 rules for writing asynchronous code in C#](https://sd.blackball.lv/articles/read/19174)
 - [Clean code: The Art of Naming](https://sd.blackball.lv/articles/read/19172)
 - [API vs. Messaging — How to Choose Which One to Use?](https://sd.blackball.lv/articles/read/19171)
 - [How to Implement Effective Retry Logic in C#](https://sd.blackball.lv/articles/read/19170)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [HTTPClient in C# — Starters Guide](https://sd.blackball.lv/articles/read/19167)
 - [Attributes and Decorators in C#](https://sd.blackball.lv/articles/read/19166)
 - [Performance Optimization in .NET](https://sd.blackball.lv/articles/read/19165)
-- [MongoDB vs PostgreSQL: What to consider when choosing a database](https://sd.blackball.lv/articles/read/19164)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
