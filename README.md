@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blazor WebAssembly By Example, 2nd Edition](https://sd.blackball.lv/books/19178)
 - [Reflection in C#: Examples, Tricks and Tips](https://sd.blackball.lv/articles/read/19175)
 - [10 rules for writing asynchronous code in C#](https://sd.blackball.lv/articles/read/19174)
 - [Clean code: The Art of Naming](https://sd.blackball.lv/articles/read/19172)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [MQTT vs SignalR: What are the differences?](https://sd.blackball.lv/articles/read/19168)
 - [HTTPClient in C# — Starters Guide](https://sd.blackball.lv/articles/read/19167)
 - [Attributes and Decorators in C#](https://sd.blackball.lv/articles/read/19166)
-- [Performance Optimization in .NET](https://sd.blackball.lv/articles/read/19165)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
