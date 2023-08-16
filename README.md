@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 15.08.2023 16:05](https://sd.blackball.lv/news/19181)
+- [ASP.NET Core: How to Maximize Performance and Scalability of Your App](https://sd.blackball.lv/articles/read/19180)
 - [Blazor WebAssembly By Example, 2nd Edition](https://sd.blackball.lv/books/19178)
+- [.NET 7.0 + Dapper + PostgreSQL - CRUD API Tutorial in ASP.NET Core](https://sd.blackball.lv/articles/read/19177)
 - [Reflection in C#: Examples, Tricks and Tips](https://sd.blackball.lv/articles/read/19175)
 - [10 rules for writing asynchronous code in C#](https://sd.blackball.lv/articles/read/19174)
 - [Clean code: The Art of Naming](https://sd.blackball.lv/articles/read/19172)
 - [API vs. Messaging — How to Choose Which One to Use?](https://sd.blackball.lv/articles/read/19171)
 - [How to Implement Effective Retry Logic in C#](https://sd.blackball.lv/articles/read/19170)
 - [Design Patterns VS Design Principles](https://sd.blackball.lv/articles/read/19169)
-- [MQTT vs SignalR: What are the differences?](https://sd.blackball.lv/articles/read/19168)
-- [HTTPClient in C# — Starters Guide](https://sd.blackball.lv/articles/read/19167)
-- [Attributes and Decorators in C#](https://sd.blackball.lv/articles/read/19166)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
