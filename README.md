@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running a Page Speed Test: Monitoring vs. Measuring](https://sd.blackball.lv/articles/read/19182)
 - [Новость 15.08.2023 16:05](https://sd.blackball.lv/news/19181)
 - [ASP.NET Core: How to Maximize Performance and Scalability of Your App](https://sd.blackball.lv/articles/read/19180)
 - [Blazor WebAssembly By Example, 2nd Edition](https://sd.blackball.lv/books/19178)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Clean code: The Art of Naming](https://sd.blackball.lv/articles/read/19172)
 - [API vs. Messaging — How to Choose Which One to Use?](https://sd.blackball.lv/articles/read/19171)
 - [How to Implement Effective Retry Logic in C#](https://sd.blackball.lv/articles/read/19170)
-- [Design Patterns VS Design Principles](https://sd.blackball.lv/articles/read/19169)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
