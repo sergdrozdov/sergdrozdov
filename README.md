@@ -65,8 +65,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 ## Personal projects
 * [Blackball](https://blackball.lv/) - *entertainment portal.*
 * [Blog](https://sd.blackball.lv/) - *data science blog (books, articles, videos).*
-* [Amerikas Auto](https://amerikasauto.lv/) - *car company to service and certificate vehicles from America and Europe.*
-* [Transport Certification Center](https://autosc.lv/) - *vehicles certification company.*
+* [Geolocation Assistant](https://geodata.sergeydrozdov.tk/) - *geolocation by IP or hostname.*
+* [Amerikas Auto](https://amerikasauto.com/) - *car company to service and certificate vehicles from America and Europe.*
+* [Transport Certification Center](https://autosc.com/) - *vehicles certification company.*
 
 ## Contact/Follow me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergey.drozdov.0305@gmail.com)
