@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running a Page Speed Test: Monitoring vs. Measuring](https://sd.blackball.lv/articles/read/19182)
-- [Новость 15.08.2023 16:05](https://sd.blackball.lv/news/19181)
-- [ASP.NET Core: How to Maximize Performance and Scalability of Your App](https://sd.blackball.lv/articles/read/19180)
-- [Blazor WebAssembly By Example, 2nd Edition](https://sd.blackball.lv/books/19178)
-- [.NET 7.0 + Dapper + PostgreSQL - CRUD API Tutorial in ASP.NET Core](https://sd.blackball.lv/articles/read/19177)
-- [Reflection in C#: Examples, Tricks and Tips](https://sd.blackball.lv/articles/read/19175)
-- [10 rules for writing asynchronous code in C#](https://sd.blackball.lv/articles/read/19174)
-- [Clean code: The Art of Naming](https://sd.blackball.lv/articles/read/19172)
-- [API vs. Messaging — How to Choose Which One to Use?](https://sd.blackball.lv/articles/read/19171)
-- [How to Implement Effective Retry Logic in C#](https://sd.blackball.lv/articles/read/19170)
+- [Top 15 Software Development Trends in 2024](https://sd.blackball.lv/articles/read/19398)
+- [How to query JSON in C# using SQL, LINQ, ADO.NET](https://sd.blackball.lv/articles/read/19397)
+- [Coding Clean, Reliable, and Safe REST APIs with ASP.NET Core 8](https://sd.blackball.lv/books/19396)
+- [HttpClientHandler in C# — easy guide](https://sd.blackball.lv/articles/read/19392)
+- [Статистика посещений](https://sd.blackball.lv/news/19394)
+- [REST API design best practices](https://sd.blackball.lv/articles/read/19393)
+- [6 common LINQ mistakes you might be doing](https://sd.blackball.lv/articles/read/19391)
+- [.NET Core For Machine Learning](https://sd.blackball.lv/books/19385)
+- [Election Polls](https://sd.blackball.lv/articles/read/19382)
+- [Poll vs Survey | Difference between a poll and a survey](https://sd.blackball.lv/articles/read/19381)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
