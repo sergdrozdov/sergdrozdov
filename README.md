@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Programmatically convert HTML to PDF in .NET Core C# without dependencies](https://sd.blackball.lv/articles/read/19353)
 - [Top 15 Software Development Trends in 2024](https://sd.blackball.lv/articles/read/19398)
 - [How to query JSON in C# using SQL, LINQ, ADO.NET](https://sd.blackball.lv/articles/read/19397)
 - [Coding Clean, Reliable, and Safe REST APIs with ASP.NET Core 8](https://sd.blackball.lv/books/19396)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [6 common LINQ mistakes you might be doing](https://sd.blackball.lv/articles/read/19391)
 - [.NET Core For Machine Learning](https://sd.blackball.lv/books/19385)
 - [Election Polls](https://sd.blackball.lv/articles/read/19382)
-- [Poll vs Survey | Difference between a poll and a survey](https://sd.blackball.lv/articles/read/19381)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
