@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Ahead-of-Time &lpar;AOT&rpar; compilation in C#](https://sd.blackball.lv/articles/read/19443)
+- [Building modern architectures: Functional Core, Imperative Shell revamp](https://sd.blackball.lv/articles/read/19438)
 - [5 exception handling secrets In .NET — Junior to Senior](https://sd.blackball.lv/articles/read/19440)
 - [Высоконагруженные приложения](https://sd.blackball.lv/books/19439)
-- [Building modern architectures: Functional Core, Imperative Shell revamp](https://sd.blackball.lv/articles/read/19438)
 - [A practical guide to modular monoliths with .NET](https://sd.blackball.lv/articles/read/19437)
 - [Fundamentals of Software Architecture](https://sd.blackball.lv/books/19436)
 - [Designing Data-Intensive Applications](https://sd.blackball.lv/books/19435)
 - [Learning Domain-Driven Design](https://sd.blackball.lv/books/19326)
 - [Programmatically convert HTML to PDF in .NET Core C# without dependencies](https://sd.blackball.lv/articles/read/19353)
 - [The 5 golden rules of remote work](https://sd.blackball.lv/articles/read/19433)
-- [Top 15 Software Development Trends in 2024](https://sd.blackball.lv/articles/read/19398)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
