@@ -6,11 +6,11 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 exception handling secrets In .NET — Junior to Senior](https://sd.blackball.lv/articles/read/19440)
 - [Refactoring with C#](https://sd.blackball.lv/books/19445)
 - [Top 10 .NET Core performance tricks](https://sd.blackball.lv/articles/read/19444)
 - [Understanding Ahead-of-Time &lpar;AOT&rpar; compilation in C#](https://sd.blackball.lv/articles/read/19443)
 - [Building modern architectures: Functional Core, Imperative Shell revamp](https://sd.blackball.lv/articles/read/19438)
-- [5 exception handling secrets In .NET — Junior to Senior](https://sd.blackball.lv/articles/read/19440)
 - [Высоконагруженные приложения](https://sd.blackball.lv/books/19439)
 - [A practical guide to modular monoliths with .NET](https://sd.blackball.lv/articles/read/19437)
 - [Fundamentals of Software Architecture](https://sd.blackball.lv/books/19436)
