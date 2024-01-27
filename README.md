@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Techniques for optimizing SQL queries in a high-traffic application](https://sd.blackball.lv/articles/read/19451)
 - [Understanding Ahead-of-Time &lpar;AOT&rpar; compilation in C#](https://sd.blackball.lv/articles/read/19443)
 - [Fundamentals of Software Architecture](https://sd.blackball.lv/books/19436)
 - [Mastering C#: Tips for performance, LINQ, DTOs, and more](https://sd.blackball.lv/articles/read/19450)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Top 10 .NET Core performance tricks](https://sd.blackball.lv/articles/read/19444)
 - [Building modern architectures: Functional Core, Imperative Shell revamp](https://sd.blackball.lv/articles/read/19438)
 - [Высоконагруженные приложения](https://sd.blackball.lv/books/19439)
-- [A practical guide to modular monoliths with .NET](https://sd.blackball.lv/articles/read/19437)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
