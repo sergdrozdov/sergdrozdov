@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 .NET Core performance tricks](https://sd.blackball.lv/articles/read/19444)
 - [Custom metrics in .NET using the new MeterFactory](https://sd.blackball.lv/articles/read/19452)
 - [Techniques for optimizing SQL queries in a high-traffic application](https://sd.blackball.lv/articles/read/19451)
 - [Understanding Ahead-of-Time &lpar;AOT&rpar; compilation in C#](https://sd.blackball.lv/articles/read/19443)
@@ -14,7 +15,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Implementing Health Checks in .NET 8](https://sd.blackball.lv/articles/read/19449)
 - [5 exception handling secrets In .NET — Junior to Senior](https://sd.blackball.lv/articles/read/19440)
 - [Refactoring with C#](https://sd.blackball.lv/books/19445)
-- [Top 10 .NET Core performance tricks](https://sd.blackball.lv/articles/read/19444)
 - [Building modern architectures: Functional Core, Imperative Shell revamp](https://sd.blackball.lv/articles/read/19438)
 <!-- BLOG-POST-LIST:END -->
 
