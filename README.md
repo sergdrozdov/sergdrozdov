@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Architecture: The Hard Parts](https://sd.blackball.lv/books/19015)
+- [Setup Azure Logs Alerts &amp; Notifications for application exceptions](https://sd.blackball.lv/articles/read/19456)
+- [Send alerts when website is down — Azure Application Insights availability test](https://sd.blackball.lv/articles/read/19455)
+- [How to configure Application Insights with Azure?](https://sd.blackball.lv/articles/read/19454)
+- [Application Insights: Telemetry logging in ASP.NET Core](https://sd.blackball.lv/articles/read/19453)
 - [Top 10 .NET Core performance tricks](https://sd.blackball.lv/articles/read/19444)
 - [Custom metrics in .NET using the new MeterFactory](https://sd.blackball.lv/articles/read/19452)
 - [Techniques for optimizing SQL queries in a high-traffic application](https://sd.blackball.lv/articles/read/19451)
 - [Understanding Ahead-of-Time &lpar;AOT&rpar; compilation in C#](https://sd.blackball.lv/articles/read/19443)
 - [Fundamentals of Software Architecture](https://sd.blackball.lv/books/19436)
-- [Mastering C#: Tips for performance, LINQ, DTOs, and more](https://sd.blackball.lv/articles/read/19450)
-- [Implementing Health Checks in .NET 8](https://sd.blackball.lv/articles/read/19449)
-- [5 exception handling secrets In .NET — Junior to Senior](https://sd.blackball.lv/articles/read/19440)
-- [Refactoring with C#](https://sd.blackball.lv/books/19445)
-- [Building modern architectures: Functional Core, Imperative Shell revamp](https://sd.blackball.lv/articles/read/19438)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
