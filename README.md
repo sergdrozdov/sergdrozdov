@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Factory Pattern — C#](https://sd.blackball.lv/articles/read/19460)
 - [Software Architecture: The Hard Parts](https://sd.blackball.lv/books/19015)
 - [Setup Azure Logs Alerts &amp; Notifications for application exceptions](https://sd.blackball.lv/articles/read/19456)
 - [Send alerts when website is down — Azure Application Insights availability test](https://sd.blackball.lv/articles/read/19455)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Custom metrics in .NET using the new MeterFactory](https://sd.blackball.lv/articles/read/19452)
 - [Techniques for optimizing SQL queries in a high-traffic application](https://sd.blackball.lv/articles/read/19451)
 - [Understanding Ahead-of-Time &lpar;AOT&rpar; compilation in C#](https://sd.blackball.lv/articles/read/19443)
-- [Fundamentals of Software Architecture](https://sd.blackball.lv/books/19436)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
