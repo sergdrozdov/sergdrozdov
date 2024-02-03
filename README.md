@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET Framework developer roadmap in 2024 for beginners](https://sd.blackball.lv/articles/read/19468)
 - [What are the 10 most common Software Architecture patterns?](https://sd.blackball.lv/articles/read/19467)
 - [A dive into .NET 8 native AOT and efficient web development](https://sd.blackball.lv/articles/read/19465)
 - [Optimizing LINQ queries in C#: tips and best practices](https://sd.blackball.lv/articles/read/19464)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Software Architecture: The Hard Parts](https://sd.blackball.lv/books/19015)
 - [Setup Azure Logs Alerts &amp; Notifications for application exceptions](https://sd.blackball.lv/articles/read/19456)
 - [Send alerts when website is down — Azure Application Insights availability test](https://sd.blackball.lv/articles/read/19455)
-- [How to configure Application Insights with Azure?](https://sd.blackball.lv/articles/read/19454)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
