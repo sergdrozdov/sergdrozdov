@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fetch vs Axios. Which one to choose?](https://sd.blackball.lv/articles/read/19473)
+- [Techniques for optimizing SQL queries in a high-traffic application](https://sd.blackball.lv/articles/read/19451)
 - [.NET Framework developer roadmap in 2024 for beginners](https://sd.blackball.lv/articles/read/19468)
 - [What are the 10 most common Software Architecture patterns?](https://sd.blackball.lv/articles/read/19467)
 - [A dive into .NET 8 native AOT and efficient web development](https://sd.blackball.lv/articles/read/19465)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Mastering C#: Tips for performance, LINQ, DTOs, and more](https://sd.blackball.lv/articles/read/19450)
 - [Factory Pattern — C#](https://sd.blackball.lv/articles/read/19460)
 - [Software Architecture: The Hard Parts](https://sd.blackball.lv/books/19015)
-- [Setup Azure Logs Alerts &amp; Notifications for application exceptions](https://sd.blackball.lv/articles/read/19456)
-- [Send alerts when website is down — Azure Application Insights availability test](https://sd.blackball.lv/articles/read/19455)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
