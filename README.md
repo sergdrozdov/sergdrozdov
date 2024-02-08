@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for efficient file reading in C#](https://sd.blackball.lv/articles/read/19475)
 - [Microservices Architecture, The Hard Parts: Resilient patterns](https://sd.blackball.lv/articles/read/19474)
 - [Redux in Action](https://sd.blackball.lv/books/19074)
 - [Fetch vs Axios. Which one to choose?](https://sd.blackball.lv/articles/read/19473)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [What are the 10 most common Software Architecture patterns?](https://sd.blackball.lv/articles/read/19467)
 - [A dive into .NET 8 native AOT and efficient web development](https://sd.blackball.lv/articles/read/19465)
 - [Optimizing LINQ queries in C#: tips and best practices](https://sd.blackball.lv/articles/read/19464)
-- [Новость 01.02.2024 11:00](https://sd.blackball.lv/news/19461)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
