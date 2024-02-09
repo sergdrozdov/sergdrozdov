@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What does remote work mean &lpar;vs WFH vs Hybrid Work&rpar;?](https://sd.blackball.lv/articles/read/19477)
+- [Custom metrics in .NET using the new MeterFactory](https://sd.blackball.lv/articles/read/19452)
 - [Best practices for efficient file reading in C#](https://sd.blackball.lv/articles/read/19475)
 - [Microservices Architecture, The Hard Parts: Resilient patterns](https://sd.blackball.lv/articles/read/19474)
 - [Redux in Action](https://sd.blackball.lv/books/19074)
 - [Fetch vs Axios. Which one to choose?](https://sd.blackball.lv/articles/read/19473)
 - [Techniques for optimizing SQL queries in a high-traffic application](https://sd.blackball.lv/articles/read/19451)
 - [Coding with AI: Tips and best practices from developers](https://sd.blackball.lv/articles/read/19471)
+- [SQL Server CTE: usage, features and limitations](https://sd.blackball.lv/articles/read/19470)
 - [.NET Framework developer roadmap in 2024 for beginners](https://sd.blackball.lv/articles/read/19468)
-- [What are the 10 most common Software Architecture patterns?](https://sd.blackball.lv/articles/read/19467)
-- [A dive into .NET 8 native AOT and efficient web development](https://sd.blackball.lv/articles/read/19465)
-- [Optimizing LINQ queries in C#: tips and best practices](https://sd.blackball.lv/articles/read/19464)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
