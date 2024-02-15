@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Data Fetching Patterns in React](https://sd.blackball.lv/books/19483)
 - [Fluent Validation in .NET Core](https://sd.blackball.lv/articles/read/19482)
 - [APIs: A Strategy Guide](https://sd.blackball.lv/books/19025)
 - [Create a gRPC server in .NET Core](https://sd.blackball.lv/articles/read/19480)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Custom metrics in .NET using the new MeterFactory](https://sd.blackball.lv/articles/read/19452)
 - [Best practices for efficient file reading in C#](https://sd.blackball.lv/articles/read/19475)
 - [Microservices Architecture, The Hard Parts: Resilient patterns](https://sd.blackball.lv/articles/read/19474)
-- [Redux in Action](https://sd.blackball.lv/books/19074)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
