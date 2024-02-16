@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET — LinkedList vs ToArray](https://sd.blackball.lv/articles/read/19522)
+- [.NET — ToList vs ToArray](https://sd.blackball.lv/articles/read/19521)
+- [How to configure Application Insights with Azure?](https://sd.blackball.lv/articles/read/19454)
 - [Advanced Data Fetching Patterns in React](https://sd.blackball.lv/books/19483)
 - [Fluent Validation in .NET Core](https://sd.blackball.lv/articles/read/19482)
 - [APIs: A Strategy Guide](https://sd.blackball.lv/books/19025)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Application Insights: Telemetry logging in ASP.NET Core](https://sd.blackball.lv/articles/read/19453)
 - [Pagination in a .NET Web API with EF Core](https://sd.blackball.lv/articles/read/19478)
 - [What does remote work mean &lpar;vs WFH vs Hybrid Work&rpar;?](https://sd.blackball.lv/articles/read/19477)
-- [Custom metrics in .NET using the new MeterFactory](https://sd.blackball.lv/articles/read/19452)
-- [Best practices for efficient file reading in C#](https://sd.blackball.lv/articles/read/19475)
-- [Microservices Architecture, The Hard Parts: Resilient patterns](https://sd.blackball.lv/articles/read/19474)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
