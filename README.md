@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 popular interview questions for Senior .NET Developer](https://sd.blackball.lv/articles/read/19526)
 - [.NET — LinkedList vs ToArray](https://sd.blackball.lv/articles/read/19522)
 - [.NET — ToList vs ToArray](https://sd.blackball.lv/articles/read/19521)
 - [How to configure Application Insights with Azure?](https://sd.blackball.lv/articles/read/19454)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Create a gRPC server in .NET Core](https://sd.blackball.lv/articles/read/19480)
 - [Application Insights: Telemetry logging in ASP.NET Core](https://sd.blackball.lv/articles/read/19453)
 - [Pagination in a .NET Web API with EF Core](https://sd.blackball.lv/articles/read/19478)
-- [What does remote work mean &lpar;vs WFH vs Hybrid Work&rpar;?](https://sd.blackball.lv/articles/read/19477)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
