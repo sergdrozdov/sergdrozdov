@@ -8,6 +8,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 <!-- BLOG-POST-LIST:START -->
 - [Using Coravel as a scheduler in ASP.NET Core](https://sd.blackball.lv/articles/read/19532)
 - [Высоконагруженные приложения](https://sd.blackball.lv/books/19439)
+- [PostgreSQL in C# .NET with Npgsql, Dapper, and Entity Framework: The complete guide](https://sd.blackball.lv/articles/read/19531)
 - [Send alerts when website is down — Azure Application Insights availability test](https://sd.blackball.lv/articles/read/19455)
 - [Coravel - Easy task scheduling for your .NET web apps](https://sd.blackball.lv/articles/read/19530)
 - [IoT basics: A guide to the Internet of Things for beginners](https://sd.blackball.lv/articles/read/19527)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET — LinkedList vs ToArray](https://sd.blackball.lv/articles/read/19522)
 - [.NET — ToList vs ToArray](https://sd.blackball.lv/articles/read/19521)
 - [How to configure Application Insights with Azure?](https://sd.blackball.lv/articles/read/19454)
-- [Advanced Data Fetching Patterns in React](https://sd.blackball.lv/books/19483)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
