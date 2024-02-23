@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup Azure Logs Alerts &amp; Notifications for application exceptions](https://sd.blackball.lv/articles/read/19456)
 - [Using Coravel as a scheduler in ASP.NET Core](https://sd.blackball.lv/articles/read/19532)
 - [Высоконагруженные приложения](https://sd.blackball.lv/books/19439)
 - [PostgreSQL in C# .NET with Npgsql, Dapper, and Entity Framework: The complete guide](https://sd.blackball.lv/articles/read/19531)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Top 7 popular interview questions for Senior .NET Developer](https://sd.blackball.lv/articles/read/19526)
 - [.NET — LinkedList vs ToArray](https://sd.blackball.lv/articles/read/19522)
 - [.NET — ToList vs ToArray](https://sd.blackball.lv/articles/read/19521)
-- [How to configure Application Insights with Azure?](https://sd.blackball.lv/articles/read/19454)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
