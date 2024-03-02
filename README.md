@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IoT basics: A guide to the Internet of Things for beginners](https://sd.blackball.lv/articles/read/19527)
 - [A dive into .NET 8 native AOT and efficient web development](https://sd.blackball.lv/articles/read/19465)
 - [Refactoring with C#](https://sd.blackball.lv/books/19445)
 - [You have been doing pagination wrong in .NET 6](https://sd.blackball.lv/articles/read/19459)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Высоконагруженные приложения](https://sd.blackball.lv/books/19439)
 - [PostgreSQL in C# .NET with Npgsql, Dapper, and Entity Framework: The complete guide](https://sd.blackball.lv/articles/read/19531)
 - [Send alerts when website is down — Azure Application Insights availability test](https://sd.blackball.lv/articles/read/19455)
-- [Coravel - Easy task scheduling for your .NET web apps](https://sd.blackball.lv/articles/read/19530)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
