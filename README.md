@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the 10 most common Software Architecture patterns?](https://sd.blackball.lv/articles/read/19467)
 - [IoT basics: A guide to the Internet of Things for beginners](https://sd.blackball.lv/articles/read/19527)
 - [A dive into .NET 8 native AOT and efficient web development](https://sd.blackball.lv/articles/read/19465)
 - [Refactoring with C#](https://sd.blackball.lv/books/19445)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Using Coravel as a scheduler in ASP.NET Core](https://sd.blackball.lv/articles/read/19532)
 - [Высоконагруженные приложения](https://sd.blackball.lv/books/19439)
 - [PostgreSQL in C# .NET with Npgsql, Dapper, and Entity Framework: The complete guide](https://sd.blackball.lv/articles/read/19531)
-- [Send alerts when website is down — Azure Application Insights availability test](https://sd.blackball.lv/articles/read/19455)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
