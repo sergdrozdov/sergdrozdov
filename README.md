@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fetch vs Axios. Which one to choose?](https://sd.blackball.lv/articles/read/19473)
 - [C# и .NET: Blazor](https://sd.blackball.lv/articles/read/19541)
 - [How to implement feature flag in ASP.NET Core Blazor](https://sd.blackball.lv/articles/read/19538)
 - [Feature Flags in .NET Core](https://sd.blackball.lv/articles/read/19537)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [A dive into .NET 8 native AOT and efficient web development](https://sd.blackball.lv/articles/read/19465)
 - [Refactoring with C#](https://sd.blackball.lv/books/19445)
 - [Top 7 popular interview questions for Senior .NET Developer](https://sd.blackball.lv/articles/read/19526)
-- [Setup Azure Logs Alerts &amp; Notifications for application exceptions](https://sd.blackball.lv/articles/read/19456)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
