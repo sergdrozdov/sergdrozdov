@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL решает кучу проблем — рассказываем, за что мы его любим](https://sd.blackball.lv/articles/read/19542)
+- [React in Action](https://sd.blackball.lv/books/19486)
 - [Fetch vs Axios. Which one to choose?](https://sd.blackball.lv/articles/read/19473)
 - [C# и .NET: Blazor](https://sd.blackball.lv/articles/read/19541)
 - [How to implement feature flag in ASP.NET Core Blazor](https://sd.blackball.lv/articles/read/19538)
 - [Feature Flags in .NET Core](https://sd.blackball.lv/articles/read/19537)
+- [You should refuse to develop what you don’t understand](https://sd.blackball.lv/articles/read/19472)
 - [Advanced Data Fetching Patterns in React](https://sd.blackball.lv/books/19483)
 - [What are the 10 most common Software Architecture patterns?](https://sd.blackball.lv/articles/read/19467)
 - [IoT basics: A guide to the Internet of Things for beginners](https://sd.blackball.lv/articles/read/19527)
-- [A dive into .NET 8 native AOT and efficient web development](https://sd.blackball.lv/articles/read/19465)
-- [Refactoring with C#](https://sd.blackball.lv/books/19445)
-- [Top 7 popular interview questions for Senior .NET Developer](https://sd.blackball.lv/articles/read/19526)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
