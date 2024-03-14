@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advantages using React with ASP.NET Core](https://sd.blackball.lv/articles/read/19544)
+- [Creating functions that return multiple values in C#](https://sd.blackball.lv/articles/read/19543)
 - [GraphQL решает кучу проблем — рассказываем, за что мы его любим](https://sd.blackball.lv/articles/read/19542)
 - [React in Action](https://sd.blackball.lv/books/19486)
 - [Fetch vs Axios. Which one to choose?](https://sd.blackball.lv/articles/read/19473)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Feature Flags in .NET Core](https://sd.blackball.lv/articles/read/19537)
 - [You should refuse to develop what you don’t understand](https://sd.blackball.lv/articles/read/19472)
 - [Advanced Data Fetching Patterns in React](https://sd.blackball.lv/books/19483)
-- [What are the 10 most common Software Architecture patterns?](https://sd.blackball.lv/articles/read/19467)
-- [IoT basics: A guide to the Internet of Things for beginners](https://sd.blackball.lv/articles/read/19527)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
