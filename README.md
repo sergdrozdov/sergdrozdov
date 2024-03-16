@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [20 advanced SQL techniques](https://sd.blackball.lv/articles/read/19546)
+- [C# и .NET: Blazor](https://sd.blackball.lv/articles/read/19541)
+- [You should refuse to develop what you don’t understand](https://sd.blackball.lv/articles/read/19472)
 - [Understanding Clean Architecture with ASP.NET](https://sd.blackball.lv/articles/read/19545)
 - [Coding with AI: Tips and best practices from developers](https://sd.blackball.lv/articles/read/19471)
 - [Advantages using React with ASP.NET Core](https://sd.blackball.lv/articles/read/19544)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [GraphQL решает кучу проблем — рассказываем, за что мы его любим](https://sd.blackball.lv/articles/read/19542)
 - [React in Action](https://sd.blackball.lv/books/19486)
 - [Fetch vs Axios. Which one to choose?](https://sd.blackball.lv/articles/read/19473)
-- [C# и .NET: Blazor](https://sd.blackball.lv/articles/read/19541)
-- [Blazor in Action](https://sd.blackball.lv/books/19540)
-- [How to implement feature flag in ASP.NET Core Blazor](https://sd.blackball.lv/articles/read/19538)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
