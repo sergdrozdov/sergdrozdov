@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 главных трендов в разработке фронтенда в 2024 году](https://sd.blackball.lv/articles/read/19553)
+- [Задача по языку C#: Игра «Крестики Нолики» в консоли](https://sd.blackball.lv/articles/read/19552)
+- [Жесткие факты о софт скилах](https://sd.blackball.lv/articles/read/19551)
+- [Vite.js: что это и зачем нужно веб-разработчику](https://sd.blackball.lv/articles/read/19550)
 - [Turbocharging ASP.NET Core applications: A deep dive into performance optimizations](https://sd.blackball.lv/articles/read/19547)
 - [20 advanced SQL techniques](https://sd.blackball.lv/articles/read/19546)
 - [C# и .NET: Blazor](https://sd.blackball.lv/articles/read/19541)
 - [You should refuse to develop what you don’t understand](https://sd.blackball.lv/articles/read/19472)
 - [Understanding Clean Architecture with ASP.NET](https://sd.blackball.lv/articles/read/19545)
 - [Coding with AI: Tips and best practices from developers](https://sd.blackball.lv/articles/read/19471)
-- [Advantages using React with ASP.NET Core](https://sd.blackball.lv/articles/read/19544)
-- [Creating functions that return multiple values in C#](https://sd.blackball.lv/articles/read/19543)
-- [GraphQL решает кучу проблем — рассказываем, за что мы его любим](https://sd.blackball.lv/articles/read/19542)
-- [React in Action](https://sd.blackball.lv/books/19486)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
