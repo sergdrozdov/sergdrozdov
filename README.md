@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Works in progress: The long journey to doing good better](https://sd.blackball.lv/articles/read/19555)
+- [Blazor in Action](https://sd.blackball.lv/books/19540)
 - [Dynamic querying in C#: Real-world scenarios and techniques](https://sd.blackball.lv/articles/read/19554)
 - [Best practices for efficient file reading in C#](https://sd.blackball.lv/articles/read/19475)
 - [9 главных трендов в разработке фронтенда в 2024 году](https://sd.blackball.lv/articles/read/19553)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Vite.js: что это и зачем нужно веб-разработчику](https://sd.blackball.lv/articles/read/19550)
 - [Turbocharging ASP.NET Core applications: A deep dive into performance optimizations](https://sd.blackball.lv/articles/read/19547)
 - [20 advanced SQL techniques](https://sd.blackball.lv/articles/read/19546)
-- [C# и .NET: Blazor](https://sd.blackball.lv/articles/read/19541)
-- [You should refuse to develop what you don’t understand](https://sd.blackball.lv/articles/read/19472)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
