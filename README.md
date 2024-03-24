@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Топ 8 лучших ресурсов для практики программирования в 2018](https://sd.blackball.lv/articles/read/19570)
+- [Программист 2020: Терминатор отдыхает](https://sd.blackball.lv/articles/read/19569)
+- [Why your code is so hard to understand](https://sd.blackball.lv/articles/read/19568)
+- [Инструкция по оформлению профиля на GitHub](https://sd.blackball.lv/articles/read/19567)
+- [8 вещей, которых не должен бояться разработчик](https://sd.blackball.lv/articles/read/19566)
+- [Understanding deadlocks in C# and .NET Core](https://sd.blackball.lv/articles/read/19565)
+- [Почему программисты ошибаются в оценке сроков?](https://sd.blackball.lv/articles/read/19564)
+- [Экстремальное программирование: новые возможности](https://sd.blackball.lv/articles/read/19563)
 - [Delegates in C#: A comprehensive guide](https://sd.blackball.lv/articles/read/19562)
 - [Advantages using React with ASP.NET Core](https://sd.blackball.lv/articles/read/19544)
-- [SQL Server CTE: usage, features and limitations](https://sd.blackball.lv/articles/read/19470)
-- [Analyzing and improving queries with Query Execution Plan](https://sd.blackball.lv/articles/read/19559)
-- [SQL Server architecture](https://sd.blackball.lv/articles/read/19558)
-- [The basic that works](https://sd.blackball.lv/articles/read/19557)
-- [9 главных трендов в разработке фронтенда в 2024 году](https://sd.blackball.lv/articles/read/19553)
-- [Works in progress: The long journey to doing good better](https://sd.blackball.lv/articles/read/19555)
-- [Blazor in Action](https://sd.blackball.lv/books/19540)
-- [Dynamic querying in C#: Real-world scenarios and techniques](https://sd.blackball.lv/articles/read/19554)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
