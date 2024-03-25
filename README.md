@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Топ 8 лучших ресурсов для практики программирования в 2018](https://sd.blackball.lv/articles/read/19570)
-- [Программист 2020: Терминатор отдыхает](https://sd.blackball.lv/articles/read/19569)
-- [Why your code is so hard to understand](https://sd.blackball.lv/articles/read/19568)
-- [Инструкция по оформлению профиля на GitHub](https://sd.blackball.lv/articles/read/19567)
-- [8 вещей, которых не должен бояться разработчик](https://sd.blackball.lv/articles/read/19566)
-- [Understanding deadlocks in C# and .NET Core](https://sd.blackball.lv/articles/read/19565)
-- [Почему программисты ошибаются в оценке сроков?](https://sd.blackball.lv/articles/read/19564)
-- [Экстремальное программирование: новые возможности](https://sd.blackball.lv/articles/read/19563)
-- [Delegates in C#: A comprehensive guide](https://sd.blackball.lv/articles/read/19562)
-- [Advantages using React with ASP.NET Core](https://sd.blackball.lv/articles/read/19544)
+- [Angular без CLI &lpar;руководство&rpar;](https://sd.blackball.lv/articles/read/19611)
+- [Из интровертов в менторы: как мидлы становятся сеньорами](https://sd.blackball.lv/articles/read/19605)
+- [10 историй, как «валят» айтишников на технических интервью](https://sd.blackball.lv/articles/read/19606)
+- [5 правил работы с суммами](https://sd.blackball.lv/articles/read/19607)
+- [Почему сеньоры ненавидят собеседования с кодингом, и что компании должны использовать вместо них](https://sd.blackball.lv/articles/read/19608)
+- [Сравнение REST и GraphQL](https://sd.blackball.lv/articles/read/19609)
+- [Разработка игр на Unity: с нуля до профессионала](https://sd.blackball.lv/articles/read/19610)
+- [Идентификация, Аутентификация, Авторизация. В чем же разница?](https://sd.blackball.lv/articles/read/19604)
+- [Зачем нужен MediatR?](https://sd.blackball.lv/articles/read/19603)
+- [Остановись, мгновенье. Медленное программирование — тренд для уставших разработчиков](https://sd.blackball.lv/articles/read/19602)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
