@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Query Performance Tuning, 6th Edition](https://sd.blackball.lv/books/19560)
+- [Background services in .NET Core](https://sd.blackball.lv/articles/read/19616)
 - [SQL Server 2017 Query Performance Tuning, 5th Edition](https://sd.blackball.lv/books/19615)
 - [SQL Server Query Performance Tuning, 4th Edition](https://sd.blackball.lv/books/19614)
 - [SQL Server 2012 Query Performance Tuning, 3rd Edition](https://sd.blackball.lv/books/19613)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Angular без CLI &lpar;руководство&rpar;](https://sd.blackball.lv/articles/read/19611)
 - [Из интровертов в менторы: как мидлы становятся сеньорами](https://sd.blackball.lv/articles/read/19605)
 - [10 историй, как «валят» айтишников на технических интервью](https://sd.blackball.lv/articles/read/19606)
-- [5 правил работы с суммами](https://sd.blackball.lv/articles/read/19607)
-- [Почему сеньоры ненавидят собеседования с кодингом, и что компании должны использовать вместо них](https://sd.blackball.lv/articles/read/19608)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
