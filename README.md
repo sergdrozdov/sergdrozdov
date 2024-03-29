@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the power of Tasks: Your practical guide in C#](https://sd.blackball.lv/articles/read/19619)
+- [Create a gRPC server in .NET Core](https://sd.blackball.lv/articles/read/19480)
 - [Жесткие факты о софт скилах](https://sd.blackball.lv/articles/read/19551)
 - [SQL Server Query Performance Tuning, 6th Edition](https://sd.blackball.lv/books/19560)
 - [Background services in .NET Core](https://sd.blackball.lv/articles/read/19616)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [SQL Server 2012 Query Performance Tuning, 3rd Edition](https://sd.blackball.lv/books/19613)
 - [SQL Server 2008 Query Performance Tuning Distilled](https://sd.blackball.lv/books/19612)
 - [Pagination in a .NET Web API with EF Core](https://sd.blackball.lv/articles/read/19478)
-- [Angular без CLI &lpar;руководство&rpar;](https://sd.blackball.lv/articles/read/19611)
-- [Из интровертов в менторы: как мидлы становятся сеньорами](https://sd.blackball.lv/articles/read/19605)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
