@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Функции и хранимые процедуры в PostgreSQL: зачем нужны и как применять в реальных примерах](https://sd.blackball.lv/articles/read/19630)
+- [Soft skills: 18 самых важных навыков, которыми должен владеть каждый работник](https://sd.blackball.lv/articles/read/19631)
+- [Новость 01.04.2024 19:05](https://sd.blackball.lv/news/19629)
+- [Top 50 ASP.NET Core MVC interview questions](https://sd.blackball.lv/articles/read/19628)
+- [Fluent Validation in .NET Core](https://sd.blackball.lv/articles/read/19482)
 - [Coding with AI: Tips and best practices from developers](https://sd.blackball.lv/articles/read/19471)
 - [Top asked .NET Core interview questions &amp; answers](https://sd.blackball.lv/articles/read/19627)
 - [Unlocking the power of Tasks: Your practical guide in C#](https://sd.blackball.lv/articles/read/19619)
 - [Create a gRPC server in .NET Core](https://sd.blackball.lv/articles/read/19480)
 - [Жесткие факты о софт скилах](https://sd.blackball.lv/articles/read/19551)
-- [SQL Server Query Performance Tuning, 6th Edition](https://sd.blackball.lv/books/19560)
-- [Background services in .NET Core](https://sd.blackball.lv/articles/read/19616)
-- [SQL Server 2017 Query Performance Tuning, 5th Edition](https://sd.blackball.lv/books/19615)
-- [SQL Server Query Performance Tuning, 4th Edition](https://sd.blackball.lv/books/19614)
-- [SQL Server 2012 Query Performance Tuning, 3rd Edition](https://sd.blackball.lv/books/19613)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
