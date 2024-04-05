@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring and load testing ASP.NET Core application](https://sd.blackball.lv/articles/read/19636)
+- [.NET — ToList vs ToArray](https://sd.blackball.lv/articles/read/19521)
 - [ORM wars: Dapper vs EF Core](https://sd.blackball.lv/articles/read/19633)
 - [GraphQL решает кучу проблем — рассказываем, за что мы его любим](https://sd.blackball.lv/articles/read/19542)
 - [Acceptance criteria for User Stories in Agile: Purposes, formats, examples, and best practices](https://sd.blackball.lv/articles/read/19632)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Soft skills: 18 самых важных навыков, которыми должен владеть каждый работник](https://sd.blackball.lv/articles/read/19631)
 - [Новость 01.04.2024 19:05](https://sd.blackball.lv/news/19629)
 - [Top 50 ASP.NET Core MVC interview questions](https://sd.blackball.lv/articles/read/19628)
-- [Fluent Validation in .NET Core](https://sd.blackball.lv/articles/read/19482)
-- [Coding with AI: Tips and best practices from developers](https://sd.blackball.lv/articles/read/19471)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
