@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Applicant Tracking Systems: Everything you need to know](https://sd.blackball.lv/articles/read/19646)
+- [The 50 best CI/CD tools all DevOps teams should know in 2024](https://sd.blackball.lv/articles/read/19645)
 - [Async void methods in C# — the dangers that you need to know](https://sd.blackball.lv/articles/read/19643)
 - [.NET — LinkedList vs ToArray](https://sd.blackball.lv/articles/read/19522)
 - [Caching strategies in .NET Core](https://sd.blackball.lv/articles/read/19640)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET — ToList vs ToArray](https://sd.blackball.lv/articles/read/19521)
 - [ORM wars: Dapper vs EF Core](https://sd.blackball.lv/articles/read/19633)
 - [GraphQL решает кучу проблем — рассказываем, за что мы его любим](https://sd.blackball.lv/articles/read/19542)
-- [Acceptance criteria for User Stories in Agile: Purposes, formats, examples, and best practices](https://sd.blackball.lv/articles/read/19632)
-- [Full Stack GraphQL Applications](https://sd.blackball.lv/books/19487)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
