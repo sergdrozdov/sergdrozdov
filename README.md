@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using SVGs in React](https://sd.blackball.lv/articles/read/19648)
+- [Global query filters in EF Core](https://sd.blackball.lv/articles/read/19647)
+- [Coravel - Easy task scheduling for your .NET web apps](https://sd.blackball.lv/articles/read/19530)
 - [Vite.js: что это и зачем нужно веб-разработчику](https://sd.blackball.lv/articles/read/19550)
 - [Applicant Tracking Systems: Everything you need to know](https://sd.blackball.lv/articles/read/19646)
 - [The 50 best CI/CD tools all DevOps teams should know in 2024](https://sd.blackball.lv/articles/read/19645)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET — LinkedList vs ToArray](https://sd.blackball.lv/articles/read/19522)
 - [Caching strategies in .NET Core](https://sd.blackball.lv/articles/read/19640)
 - [Works in progress: The long journey to doing good better](https://sd.blackball.lv/articles/read/19555)
-- [Monitoring and load testing ASP.NET Core application](https://sd.blackball.lv/articles/read/19636)
-- [.NET — ToList vs ToArray](https://sd.blackball.lv/articles/read/19521)
-- [ORM wars: Dapper vs EF Core](https://sd.blackball.lv/articles/read/19633)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
