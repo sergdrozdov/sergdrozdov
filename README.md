@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert images to WebP in C# .NET 7](https://sd.blackball.lv/articles/read/19651)
 - [File upload in ASP.NET Core 6 – detailed guide](https://sd.blackball.lv/articles/read/19650)
 - [Why your code is so hard to understand](https://sd.blackball.lv/articles/read/19568)
 - [Using SVGs in React](https://sd.blackball.lv/articles/read/19648)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Applicant Tracking Systems: Everything you need to know](https://sd.blackball.lv/articles/read/19646)
 - [The 50 best CI/CD tools all DevOps teams should know in 2024](https://sd.blackball.lv/articles/read/19645)
 - [Async void methods in C# — the dangers that you need to know](https://sd.blackball.lv/articles/read/19643)
-- [.NET — LinkedList vs ToArray](https://sd.blackball.lv/articles/read/19522)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
