@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Задача по языку C#: Игра «Крестики Нолики» в консоли](https://sd.blackball.lv/articles/read/19552)
 - [Examples of composition in C# — a simple guide for beginners](https://sd.blackball.lv/articles/read/19652)
 - [Using Coravel as a scheduler in ASP.NET Core](https://sd.blackball.lv/articles/read/19532)
 - [Convert images to WebP in C# .NET 7](https://sd.blackball.lv/articles/read/19651)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Global query filters in EF Core](https://sd.blackball.lv/articles/read/19647)
 - [Coravel - Easy task scheduling for your .NET web apps](https://sd.blackball.lv/articles/read/19530)
 - [Vite.js: что это и зачем нужно веб-разработчику](https://sd.blackball.lv/articles/read/19550)
-- [Applicant Tracking Systems: Everything you need to know](https://sd.blackball.lv/articles/read/19646)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
