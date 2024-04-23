@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Feature Flags in .NET Core](https://sd.blackball.lv/articles/read/19537)
 - [AI-generated code: Benefits, risks, and usage in Software Development](https://sd.blackball.lv/articles/read/19476)
 - [PostgreSQL in C# .NET with Npgsql, Dapper, and Entity Framework: The complete guide](https://sd.blackball.lv/articles/read/19531)
 - [Задача по языку C#: Игра «Крестики Нолики» в консоли](https://sd.blackball.lv/articles/read/19552)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [File upload in ASP.NET Core 6 – detailed guide](https://sd.blackball.lv/articles/read/19650)
 - [Why your code is so hard to understand](https://sd.blackball.lv/articles/read/19568)
 - [Using SVGs in React](https://sd.blackball.lv/articles/read/19648)
-- [Global query filters in EF Core](https://sd.blackball.lv/articles/read/19647)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
