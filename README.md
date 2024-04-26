@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to implement feature flag in ASP.NET Core Blazor](https://sd.blackball.lv/articles/read/19538)
 - [Экстремальное программирование: новые возможности](https://sd.blackball.lv/articles/read/19563)
 - [Feature Flags in .NET Core](https://sd.blackball.lv/articles/read/19537)
 - [AI-generated code: Benefits, risks, and usage in Software Development](https://sd.blackball.lv/articles/read/19476)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Using Coravel as a scheduler in ASP.NET Core](https://sd.blackball.lv/articles/read/19532)
 - [Convert images to WebP in C# .NET 7](https://sd.blackball.lv/articles/read/19651)
 - [File upload in ASP.NET Core 6 – detailed guide](https://sd.blackball.lv/articles/read/19650)
-- [Why your code is so hard to understand](https://sd.blackball.lv/articles/read/19568)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
