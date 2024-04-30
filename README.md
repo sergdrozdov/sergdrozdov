@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scheduling background jobs with Quartz.NET](https://sd.blackball.lv/articles/read/19533)
 - [Top 50 ASP.NET Core MVC interview questions](https://sd.blackball.lv/articles/read/19628)
 - [How to implement feature flag in ASP.NET Core Blazor](https://sd.blackball.lv/articles/read/19538)
 - [Экстремальное программирование: новые возможности](https://sd.blackball.lv/articles/read/19563)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Задача по языку C#: Игра «Крестики Нолики» в консоли](https://sd.blackball.lv/articles/read/19552)
 - [Examples of composition in C# — a simple guide for beginners](https://sd.blackball.lv/articles/read/19652)
 - [Using Coravel as a scheduler in ASP.NET Core](https://sd.blackball.lv/articles/read/19532)
-- [Convert images to WebP in C# .NET 7](https://sd.blackball.lv/articles/read/19651)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
