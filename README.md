@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
+- [Code First approach in .NET 8 API](https://sd.blackball.lv/articles/read/19655)
+- [.NET 8 Web API CRUD Operations](https://sd.blackball.lv/articles/read/19654)
+- [Implementing Advanced Long Polling in .NET 6](https://sd.blackball.lv/articles/read/19534)
 - [Почему программисты ошибаются в оценке сроков?](https://sd.blackball.lv/articles/read/19564)
 - [Scheduling background jobs with Quartz.NET](https://sd.blackball.lv/articles/read/19533)
 - [Top 50 ASP.NET Core MVC interview questions](https://sd.blackball.lv/articles/read/19628)
 - [How to implement feature flag in ASP.NET Core Blazor](https://sd.blackball.lv/articles/read/19538)
 - [Экстремальное программирование: новые возможности](https://sd.blackball.lv/articles/read/19563)
 - [Feature Flags in .NET Core](https://sd.blackball.lv/articles/read/19537)
-- [AI-generated code: Benefits, risks, and usage in Software Development](https://sd.blackball.lv/articles/read/19476)
-- [PostgreSQL in C# .NET with Npgsql, Dapper, and Entity Framework: The complete guide](https://sd.blackball.lv/articles/read/19531)
-- [Задача по языку C#: Игра «Крестики Нолики» в консоли](https://sd.blackball.lv/articles/read/19552)
-- [Examples of composition in C# — a simple guide for beginners](https://sd.blackball.lv/articles/read/19652)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
