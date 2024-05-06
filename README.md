@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
 - [Acceptance criteria for User Stories in Agile: Purposes, formats, examples, and best practices](https://sd.blackball.lv/articles/read/19632)
 - [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
 - [Code First approach in .NET 8 API](https://sd.blackball.lv/articles/read/19655)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Scheduling background jobs with Quartz.NET](https://sd.blackball.lv/articles/read/19533)
 - [Top 50 ASP.NET Core MVC interview questions](https://sd.blackball.lv/articles/read/19628)
 - [How to implement feature flag in ASP.NET Core Blazor](https://sd.blackball.lv/articles/read/19538)
-- [Экстремальное программирование: новые возможности](https://sd.blackball.lv/articles/read/19563)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
