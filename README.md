@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to structure .NET project with Clean Architecture?](https://sd.blackball.lv/articles/read/19659)
+- [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
+- [.NET performance analysis: Newtonsoft.Json vs System.Text.Json in .NET 8](https://sd.blackball.lv/articles/read/19529)
 - [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
 - [Acceptance criteria for User Stories in Agile: Purposes, formats, examples, and best practices](https://sd.blackball.lv/articles/read/19632)
 - [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET 8 Web API CRUD Operations](https://sd.blackball.lv/articles/read/19654)
 - [Implementing Advanced Long Polling in .NET 6](https://sd.blackball.lv/articles/read/19534)
 - [Почему программисты ошибаются в оценке сроков?](https://sd.blackball.lv/articles/read/19564)
-- [Scheduling background jobs with Quartz.NET](https://sd.blackball.lv/articles/read/19533)
-- [Top 50 ASP.NET Core MVC interview questions](https://sd.blackball.lv/articles/read/19628)
-- [How to implement feature flag in ASP.NET Core Blazor](https://sd.blackball.lv/articles/read/19538)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
