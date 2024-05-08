@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 5 C# PDF libraries every developer mostly use](https://sd.blackball.lv/articles/read/19660)
 - [How to structure .NET project with Clean Architecture?](https://sd.blackball.lv/articles/read/19659)
 - [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
 - [.NET performance analysis: Newtonsoft.Json vs System.Text.Json in .NET 8](https://sd.blackball.lv/articles/read/19529)
@@ -14,8 +15,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
 - [Code First approach in .NET 8 API](https://sd.blackball.lv/articles/read/19655)
 - [.NET 8 Web API CRUD Operations](https://sd.blackball.lv/articles/read/19654)
-- [Implementing Advanced Long Polling in .NET 6](https://sd.blackball.lv/articles/read/19534)
-- [Почему программисты ошибаются в оценке сроков?](https://sd.blackball.lv/articles/read/19564)
+- [Implementing advanced long polling in .NET 6](https://sd.blackball.lv/articles/read/19534)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
