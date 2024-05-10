@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Performance benchmarks of PostgreSQL .NET with Npgsql, Dapper, and Entity Framework Core](https://sd.blackball.lv/articles/read/19536)
 - [8 вещей, которых не должен бояться разработчик](https://sd.blackball.lv/articles/read/19566)
 - [The 5 C# PDF libraries every developer mostly use](https://sd.blackball.lv/articles/read/19660)
 - [How to structure .NET project with Clean Architecture?](https://sd.blackball.lv/articles/read/19659)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Acceptance criteria for User Stories in Agile: Purposes, formats, examples, and best practices](https://sd.blackball.lv/articles/read/19632)
 - [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
 - [Code First approach in .NET 8 API](https://sd.blackball.lv/articles/read/19655)
-- [.NET 8 Web API CRUD Operations](https://sd.blackball.lv/articles/read/19654)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
