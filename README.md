@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Driving consistent behaviour in .NET using the Unit of Work pattern](https://sd.blackball.lv/articles/read/19661)
+- [Software Development for Internet of Things &lpar;IoT&rpar; applications](https://sd.blackball.lv/articles/read/19528)
 - [Performance benchmarks of PostgreSQL .NET with Npgsql, Dapper, and Entity Framework Core](https://sd.blackball.lv/articles/read/19536)
 - [8 вещей, которых не должен бояться разработчик](https://sd.blackball.lv/articles/read/19566)
 - [The 5 C# PDF libraries every developer mostly use](https://sd.blackball.lv/articles/read/19660)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET performance analysis: Newtonsoft.Json vs System.Text.Json in .NET 8](https://sd.blackball.lv/articles/read/19529)
 - [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
 - [Acceptance criteria for User Stories in Agile: Purposes, formats, examples, and best practices](https://sd.blackball.lv/articles/read/19632)
-- [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
-- [Code First approach in .NET 8 API](https://sd.blackball.lv/articles/read/19655)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
