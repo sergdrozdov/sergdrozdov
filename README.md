@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C# async/await interview questions and answers](https://sd.blackball.lv/articles/read/19663)
 - [Driving consistent behaviour in .NET using the Unit of Work pattern](https://sd.blackball.lv/articles/read/19661)
 - [Software Development for Internet of Things &lpar;IoT&rpar; applications](https://sd.blackball.lv/articles/read/19528)
 - [Performance benchmarks of PostgreSQL .NET with Npgsql, Dapper, and Entity Framework Core](https://sd.blackball.lv/articles/read/19536)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
 - [.NET performance analysis: Newtonsoft.Json vs System.Text.Json in .NET 8](https://sd.blackball.lv/articles/read/19529)
 - [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
-- [Acceptance criteria for User Stories in Agile: Purposes, formats, examples, and best practices](https://sd.blackball.lv/articles/read/19632)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
