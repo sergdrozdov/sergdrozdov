@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive overview of Large Language Models](https://sd.blackball.lv/articles/read/19666)
+- [What are large language models &lpar;LLMs&rpar;?](https://sd.blackball.lv/articles/read/19665)
+- [Новость 13.05.2024 19:32](https://sd.blackball.lv/news/19664)
+- [Creating functions that return multiple values in C#](https://sd.blackball.lv/articles/read/19543)
 - [C# async/await interview questions and answers](https://sd.blackball.lv/articles/read/19663)
+- [How to implement pagination in ASP.NET Core Web API? - Ultimate guide](https://sd.blackball.lv/articles/read/19662)
 - [Driving consistent behaviour in .NET using the Unit of Work pattern](https://sd.blackball.lv/articles/read/19661)
 - [Software Development for Internet of Things &lpar;IoT&rpar; applications](https://sd.blackball.lv/articles/read/19528)
 - [Performance benchmarks of PostgreSQL .NET with Npgsql, Dapper, and Entity Framework Core](https://sd.blackball.lv/articles/read/19536)
 - [8 вещей, которых не должен бояться разработчик](https://sd.blackball.lv/articles/read/19566)
-- [The 5 C# PDF libraries every developer mostly use](https://sd.blackball.lv/articles/read/19660)
-- [How to structure .NET project with Clean Architecture?](https://sd.blackball.lv/articles/read/19659)
-- [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
-- [.NET performance analysis: Newtonsoft.Json vs System.Text.Json in .NET 8](https://sd.blackball.lv/articles/read/19529)
-- [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
