@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You have been doing pagination wrong in .NET 6](https://sd.blackball.lv/articles/read/19459)
 - [Svelte vs React 2024: Which is better?](https://sd.blackball.lv/articles/read/19669)
 - [Security for Containers and Kubernetes](https://sd.blackball.lv/books/19668)
 - [Инструкция по оформлению профиля на GitHub](https://sd.blackball.lv/articles/read/19567)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [What are large language models &lpar;LLMs&rpar;?](https://sd.blackball.lv/articles/read/19665)
 - [Новость 13.05.2024 19:32](https://sd.blackball.lv/news/19664)
 - [Creating functions that return multiple values in C#](https://sd.blackball.lv/articles/read/19543)
-- [C# async/await interview questions and answers](https://sd.blackball.lv/articles/read/19663)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
