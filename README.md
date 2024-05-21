@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple database provider migrations in Entity Framework](https://sd.blackball.lv/articles/read/19672)
+- [Understanding Clean Architecture with ASP.NET](https://sd.blackball.lv/articles/read/19545)
 - [Нагрузочное тестирование: что? где? когда?](https://sd.blackball.lv/articles/read/19671)
 - [Scheduling tasks with Cronos in .NET](https://sd.blackball.lv/articles/read/19670)
 - [API testing in Software Development](https://sd.blackball.lv/articles/read/19548)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Security for Containers and Kubernetes](https://sd.blackball.lv/books/19668)
 - [Инструкция по оформлению профиля на GitHub](https://sd.blackball.lv/articles/read/19567)
 - [An SEO’s guide to writing Structured Data &lpar;JSON-LD&rpar;](https://sd.blackball.lv/articles/read/19667)
-- [Architecting Modern Web Applications with ASP.NET Core and Azure](https://sd.blackball.lv/books/19641)
-- [A comprehensive overview of Large Language Models](https://sd.blackball.lv/articles/read/19666)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
