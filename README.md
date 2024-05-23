@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing data operations with OData in .NET 8](https://sd.blackball.lv/articles/read/19676)
+- [Программист 2020: Терминатор отдыхает](https://sd.blackball.lv/articles/read/19569)
 - [Choosing a data reading architecture in .NET: Four approaches](https://sd.blackball.lv/articles/read/19674)
 - [Security for Containers and Kubernetes](https://sd.blackball.lv/books/19668)
 - [Multiple database provider migrations in Entity Framework](https://sd.blackball.lv/articles/read/19672)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Scheduling tasks with Cronos in .NET](https://sd.blackball.lv/articles/read/19670)
 - [API testing in Software Development](https://sd.blackball.lv/articles/read/19548)
 - [You have been doing pagination wrong in .NET 6](https://sd.blackball.lv/articles/read/19459)
-- [Svelte vs React 2024: Which is better?](https://sd.blackball.lv/articles/read/19669)
-- [Инструкция по оформлению профиля на GitHub](https://sd.blackball.lv/articles/read/19567)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
