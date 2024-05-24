@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Geolocation Assistant update](https://sd.blackball.lv/news/19677)
+- [Schedule Cron jobs in .NET using Hangfire](https://sd.blackball.lv/articles/read/19535)
 - [Optimizing data operations with OData in .NET 8](https://sd.blackball.lv/articles/read/19676)
 - [Программист 2020: Терминатор отдыхает](https://sd.blackball.lv/articles/read/19569)
 - [Choosing a data reading architecture in .NET: Four approaches](https://sd.blackball.lv/articles/read/19674)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Understanding Clean Architecture with ASP.NET](https://sd.blackball.lv/articles/read/19545)
 - [Нагрузочное тестирование: что? где? когда?](https://sd.blackball.lv/articles/read/19671)
 - [Scheduling tasks with Cronos in .NET](https://sd.blackball.lv/articles/read/19670)
-- [API testing in Software Development](https://sd.blackball.lv/articles/read/19548)
-- [You have been doing pagination wrong in .NET 6](https://sd.blackball.lv/articles/read/19459)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
