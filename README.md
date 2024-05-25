@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 50 best CI/CD tools all DevOps teams should know in 2024](https://sd.blackball.lv/articles/read/19645)
+- [OWASP Top 10](https://sd.blackball.lv/articles/read/19678)
 - [Geolocation Assistant update](https://sd.blackball.lv/news/19677)
 - [Schedule Cron jobs in .NET using Hangfire](https://sd.blackball.lv/articles/read/19535)
 - [Optimizing data operations with OData in .NET 8](https://sd.blackball.lv/articles/read/19676)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Security for Containers and Kubernetes](https://sd.blackball.lv/books/19668)
 - [Multiple database provider migrations in Entity Framework](https://sd.blackball.lv/articles/read/19672)
 - [Understanding Clean Architecture with ASP.NET](https://sd.blackball.lv/articles/read/19545)
-- [Нагрузочное тестирование: что? где? когда?](https://sd.blackball.lv/articles/read/19671)
-- [Scheduling tasks with Cronos in .NET](https://sd.blackball.lv/articles/read/19670)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
