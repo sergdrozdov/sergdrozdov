@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Soft skills: 18 самых важных навыков, которыми должен владеть каждый работник](https://sd.blackball.lv/articles/read/19631)
 - [Hands-On Unity 2022 Game Development, 3rd Edition](https://sd.blackball.lv/books/19020)
 - [20 advanced SQL techniques](https://sd.blackball.lv/articles/read/19546)
 - [30 вопросов на собеседовании фронтенд разработчика](https://sd.blackball.lv/articles/read/19692)
+- [Managing concurrent database updates](https://sd.blackball.lv/articles/read/19691)
 - [Compatibility of ASP.NET Web Forms and ASP.NET MVC](https://sd.blackball.lv/articles/read/19689)
 - [The 50 best CI/CD tools all DevOps teams should know in 2024](https://sd.blackball.lv/articles/read/19645)
 - [Deep dive into .NET REST API security](https://sd.blackball.lv/articles/read/19679)
 - [OWASP Top 10](https://sd.blackball.lv/articles/read/19678)
 - [Geolocation Assistant update](https://sd.blackball.lv/news/19677)
-- [Schedule Cron jobs in .NET using Hangfire](https://sd.blackball.lv/articles/read/19535)
-- [Optimizing data operations with OData in .NET 8](https://sd.blackball.lv/articles/read/19676)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
