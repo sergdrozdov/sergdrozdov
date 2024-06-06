@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Функции и хранимые процедуры в PostgreSQL: зачем нужны и как применять в реальных примерах](https://sd.blackball.lv/articles/read/19630)
 - [Delegates in C#: A comprehensive guide](https://sd.blackball.lv/articles/read/19562)
 - [Applicant Tracking Systems: Everything you need to know](https://sd.blackball.lv/articles/read/19646)
 - [Dynamic querying in C#: Real-world scenarios and techniques](https://sd.blackball.lv/articles/read/19554)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [20 advanced SQL techniques](https://sd.blackball.lv/articles/read/19546)
 - [30 вопросов на собеседовании фронтенд разработчика](https://sd.blackball.lv/articles/read/19692)
 - [Managing concurrent database updates](https://sd.blackball.lv/articles/read/19691)
-- [Compatibility of ASP.NET Web Forms and ASP.NET MVC](https://sd.blackball.lv/articles/read/19689)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
