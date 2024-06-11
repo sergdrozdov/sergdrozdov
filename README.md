@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing LINQ queries for performance and readability in C#](https://sd.blackball.lv/articles/read/19561)
 - [Logging in .NET: A comparison of the Top 4 libraries](https://sd.blackball.lv/articles/read/19706)
 - [Examples of composition in C# — a simple guide for beginners](https://sd.blackball.lv/articles/read/19652)
 - [Understanding deadlocks in C# and .NET Core](https://sd.blackball.lv/articles/read/19565)
 - [Функции и хранимые процедуры в PostgreSQL: зачем нужны и как применять в реальных примерах](https://sd.blackball.lv/articles/read/19630)
 - [Delegates in C#: A comprehensive guide](https://sd.blackball.lv/articles/read/19562)
+- [Web API and React with Integration Testing &lpar;Part 3: React Frontend&rpar;](https://sd.blackball.lv/articles/read/19705)
+- [ASP.NET 8 Token Authentication for Web API and React with Integration Testing &lpar;Part 2: Integration Test&rpar;](https://sd.blackball.lv/articles/read/19704)
+- [ASP.NET 8 Token Authentication for Web API and React with Integration Testing &lpar;Part 1: API&rpar;](https://sd.blackball.lv/articles/read/19703)
 - [Applicant Tracking Systems: Everything you need to know](https://sd.blackball.lv/articles/read/19646)
-- [Dynamic querying in C#: Real-world scenarios and techniques](https://sd.blackball.lv/articles/read/19554)
-- [Turbocharging ASP.NET Core applications: A deep dive into performance optimizations](https://sd.blackball.lv/articles/read/19547)
-- [Soft skills: 18 самых важных навыков, которыми должен владеть каждый работник](https://sd.blackball.lv/articles/read/19631)
-- [Hands-On Unity 2022 Game Development, 3rd Edition](https://sd.blackball.lv/books/19020)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
