@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Перестаньте называть себя программистом и другие карьерные советы](https://sd.blackball.lv/articles/read/217)
 - [Optimizing LINQ queries for performance and readability in C#](https://sd.blackball.lv/articles/read/19561)
 - [Logging in .NET: A comparison of the Top 4 libraries](https://sd.blackball.lv/articles/read/19706)
 - [Examples of composition in C# — a simple guide for beginners](https://sd.blackball.lv/articles/read/19652)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Web API and React with Integration Testing &lpar;Part 3: React Frontend&rpar;](https://sd.blackball.lv/articles/read/19705)
 - [ASP.NET 8 Token Authentication for Web API and React with Integration Testing &lpar;Part 2: Integration Test&rpar;](https://sd.blackball.lv/articles/read/19704)
 - [ASP.NET 8 Token Authentication for Web API and React with Integration Testing &lpar;Part 1: API&rpar;](https://sd.blackball.lv/articles/read/19703)
-- [Applicant Tracking Systems: Everything you need to know](https://sd.blackball.lv/articles/read/19646)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
