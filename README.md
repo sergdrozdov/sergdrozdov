@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
+- [Async and Await in JavaScript: A comprehensive guide](https://sd.blackball.lv/articles/read/19717)
 - [Изучаем Python, 3-е издание](https://sd.blackball.lv/books/19710)
 - [Python Crash Course, 3rd Edition](https://sd.blackball.lv/books/19709)
 - [Python Crash Course, 2nd Edition](https://sd.blackball.lv/books/19708)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Перестаньте называть себя программистом и другие карьерные советы](https://sd.blackball.lv/articles/read/217)
 - [Optimizing LINQ queries for performance and readability in C#](https://sd.blackball.lv/articles/read/19561)
 - [Logging in .NET: A comparison of the Top 4 libraries](https://sd.blackball.lv/articles/read/19706)
-- [Examples of composition in C# — a simple guide for beginners](https://sd.blackball.lv/articles/read/19652)
-- [Understanding deadlocks in C# and .NET Core](https://sd.blackball.lv/articles/read/19565)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
