@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Compose для разработчика](https://sd.blackball.lv/books/19722)
+- [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://sd.blackball.lv/books/19721)
+- [The Ultimate Docker Container Book, 3rd Edition](https://sd.blackball.lv/books/19720)
+- [Netty in Action](https://sd.blackball.lv/books/19718)
 - [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
 - [Async and Await in JavaScript: A comprehensive guide](https://sd.blackball.lv/articles/read/19717)
 - [Изучаем Python, 3-е издание](https://sd.blackball.lv/books/19710)
 - [Python Crash Course, 3rd Edition](https://sd.blackball.lv/books/19709)
 - [Python Crash Course, 2nd Edition](https://sd.blackball.lv/books/19708)
 - [Python Crash Course](https://sd.blackball.lv/books/19707)
-- [Background services in .NET Core](https://sd.blackball.lv/articles/read/19616)
-- [Перестаньте называть себя программистом и другие карьерные советы](https://sd.blackball.lv/articles/read/217)
-- [Optimizing LINQ queries for performance and readability in C#](https://sd.blackball.lv/articles/read/19561)
-- [Logging in .NET: A comparison of the Top 4 libraries](https://sd.blackball.lv/articles/read/19706)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
