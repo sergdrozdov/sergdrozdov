@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kestrel Web Server in ASP.NET Core](https://sd.blackball.lv/articles/read/19499)
 - [Docker Compose для разработчика](https://sd.blackball.lv/books/19722)
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://sd.blackball.lv/books/19721)
 - [The Ultimate Docker Container Book, 3rd Edition](https://sd.blackball.lv/books/19720)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Изучаем Python, 3-е издание](https://sd.blackball.lv/books/19710)
 - [Python Crash Course, 3rd Edition](https://sd.blackball.lv/books/19709)
 - [Python Crash Course, 2nd Edition](https://sd.blackball.lv/books/19708)
-- [Python Crash Course](https://sd.blackball.lv/books/19707)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
