@@ -6,11 +6,11 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Netty in Action](https://sd.blackball.lv/books/19718)
 - [Kestrel Web Server in ASP.NET Core](https://sd.blackball.lv/articles/read/19499)
 - [Docker Compose для разработчика](https://sd.blackball.lv/books/19722)
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://sd.blackball.lv/books/19721)
 - [The Ultimate Docker Container Book, 3rd Edition](https://sd.blackball.lv/books/19720)
-- [Netty in Action](https://sd.blackball.lv/books/19718)
 - [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
 - [Async and Await in JavaScript: A comprehensive guide](https://sd.blackball.lv/articles/read/19717)
 - [Изучаем Python, 3-е издание](https://sd.blackball.lv/books/19710)
