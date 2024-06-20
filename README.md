@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pipeline Pattern](https://sd.blackball.lv/articles/read/19724)
+- [API design: From basics to best practices](https://sd.blackball.lv/articles/read/19723)
 - [Netty in Action](https://sd.blackball.lv/books/19718)
 - [Kestrel Web Server in ASP.NET Core](https://sd.blackball.lv/articles/read/19499)
 - [Docker Compose для разработчика](https://sd.blackball.lv/books/19722)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
 - [Async and Await in JavaScript: A comprehensive guide](https://sd.blackball.lv/articles/read/19717)
 - [Изучаем Python, 3-е издание](https://sd.blackball.lv/books/19710)
-- [Python Crash Course, 3rd Edition](https://sd.blackball.lv/books/19709)
-- [Python Crash Course, 2nd Edition](https://sd.blackball.lv/books/19708)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
