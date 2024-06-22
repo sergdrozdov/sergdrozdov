@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The core question: Are Vertical Slices just modular monoliths](https://sd.blackball.lv/articles/read/19458)
+- [Using ASP.NET Core SignalR with Vue to implement web notifications](https://sd.blackball.lv/articles/read/19725)
 - [ORM wars: Dapper vs EF Core](https://sd.blackball.lv/articles/read/19633)
 - [Pipeline Pattern](https://sd.blackball.lv/articles/read/19724)
 - [API design: From basics to best practices](https://sd.blackball.lv/articles/read/19723)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Docker Compose для разработчика](https://sd.blackball.lv/books/19722)
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://sd.blackball.lv/books/19721)
 - [The Ultimate Docker Container Book, 3rd Edition](https://sd.blackball.lv/books/19720)
-- [Hexagonal Architecture - What is it? Why should you use it?](https://sd.blackball.lv/articles/read/19658)
-- [Async and Await in JavaScript: A comprehensive guide](https://sd.blackball.lv/articles/read/19717)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
