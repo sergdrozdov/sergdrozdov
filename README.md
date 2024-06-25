@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring and load testing ASP.NET Core application](https://sd.blackball.lv/articles/read/19636)
 - [Write Powerful Rust Macros](https://sd.blackball.lv/books/19728)
 - [The Audio Programming Book](https://sd.blackball.lv/books/19727)
 - [Getting Started with C++ Audio Programming for Game Development](https://sd.blackball.lv/books/19726)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Pipeline Pattern](https://sd.blackball.lv/articles/read/19724)
 - [API design: From basics to best practices](https://sd.blackball.lv/articles/read/19723)
 - [Netty in Action](https://sd.blackball.lv/books/19718)
-- [Kestrel Web Server in ASP.NET Core](https://sd.blackball.lv/articles/read/19499)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
