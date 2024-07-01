@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Media queries demystified | CSS Min-Width and Max-Width | How do they work?](https://sd.blackball.lv/articles/read/19734)
 - [Exploring concurrency, parallelism and asynchronous programming in .NET](https://sd.blackball.lv/articles/read/19733)
 - [C# async/await interview questions and answers](https://sd.blackball.lv/articles/read/19663)
 - [Web API Development for the Absolute Beginner](https://sd.blackball.lv/books/19732)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Mastering Docker, Third Edition](https://sd.blackball.lv/books/19022)
 - [Integrating Azure Service Bus with .NET applications](https://sd.blackball.lv/articles/read/19729)
 - [Monitoring and load testing ASP.NET Core application](https://sd.blackball.lv/articles/read/19636)
-- [Write Powerful Rust Macros](https://sd.blackball.lv/books/19728)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
