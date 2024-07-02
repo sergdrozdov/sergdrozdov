@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The anatomy of .NET Aspire application](https://sd.blackball.lv/articles/read/19736)
+- [Global query filters in EF Core](https://sd.blackball.lv/articles/read/19647)
 - [Media queries demystified | CSS Min-Width and Max-Width | How do they work?](https://sd.blackball.lv/articles/read/19734)
 - [Exploring concurrency, parallelism and asynchronous programming in .NET](https://sd.blackball.lv/articles/read/19733)
 - [C# async/await interview questions and answers](https://sd.blackball.lv/articles/read/19663)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Caching strategies in .NET Core](https://sd.blackball.lv/articles/read/19640)
 - [10 историй, как «валят» айтишников на технических интервью](https://sd.blackball.lv/articles/read/19606)
 - [Mastering Docker, Third Edition](https://sd.blackball.lv/books/19022)
-- [Integrating Azure Service Bus with .NET applications](https://sd.blackball.lv/articles/read/19729)
-- [Monitoring and load testing ASP.NET Core application](https://sd.blackball.lv/articles/read/19636)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
