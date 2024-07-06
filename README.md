@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Software Architect: Demystifying 18 Software Architecture patterns](https://sd.blackball.lv/articles/read/19740)
+- [What are large language models &lpar;LLMs&rpar;?](https://sd.blackball.lv/articles/read/19665)
 - [Using SVGs in React](https://sd.blackball.lv/articles/read/19648)
 - [The best way to map objects in .NET in 2024](https://sd.blackball.lv/articles/read/19737)
 - [Getting Started with C++ Audio Programming for Game Development](https://sd.blackball.lv/books/19726)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Media queries demystified | CSS Min-Width and Max-Width | How do they work?](https://sd.blackball.lv/articles/read/19734)
 - [Exploring concurrency, parallelism and asynchronous programming in .NET](https://sd.blackball.lv/articles/read/19733)
 - [C# async/await interview questions and answers](https://sd.blackball.lv/articles/read/19663)
-- [Web API Development for the Absolute Beginner](https://sd.blackball.lv/books/19732)
-- [Web API Development with ASP.NET Core 8](https://sd.blackball.lv/books/19730)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
