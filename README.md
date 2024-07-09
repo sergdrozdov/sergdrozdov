@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [File upload in ASP.NET Core 6 – detailed guide](https://sd.blackball.lv/articles/read/19650)
 - [The Software Architect: Demystifying 18 Software Architecture patterns](https://sd.blackball.lv/articles/read/19740)
 - [What are large language models &lpar;LLMs&rpar;?](https://sd.blackball.lv/articles/read/19665)
 - [Using SVGs in React](https://sd.blackball.lv/articles/read/19648)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Global query filters in EF Core](https://sd.blackball.lv/articles/read/19647)
 - [Media queries demystified | CSS Min-Width and Max-Width | How do they work?](https://sd.blackball.lv/articles/read/19734)
 - [Exploring concurrency, parallelism and asynchronous programming in .NET](https://sd.blackball.lv/articles/read/19733)
-- [C# async/await interview questions and answers](https://sd.blackball.lv/articles/read/19663)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
