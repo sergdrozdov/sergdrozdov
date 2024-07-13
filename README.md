@@ -6,16 +6,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Svelte vs React 2024: Which is better?](https://sd.blackball.lv/articles/read/19669)
 - [.NET | Working with options pattern](https://sd.blackball.lv/articles/read/19626)
 - [Result Pattern in C#](https://sd.blackball.lv/articles/read/19741)
 - [The Audio Programming Book](https://sd.blackball.lv/books/19727)
 - [File upload in ASP.NET Core 6 – detailed guide](https://sd.blackball.lv/articles/read/19650)
 - [The Software Architect: Demystifying 18 Software Architecture patterns](https://sd.blackball.lv/articles/read/19740)
+- [Building a console app with .NET Generic Host](https://sd.blackball.lv/articles/read/19739)
 - [What are large language models &lpar;LLMs&rpar;?](https://sd.blackball.lv/articles/read/19665)
 - [Using SVGs in React](https://sd.blackball.lv/articles/read/19648)
 - [The best way to map objects in .NET in 2024](https://sd.blackball.lv/articles/read/19737)
-- [Getting Started with C++ Audio Programming for Game Development](https://sd.blackball.lv/books/19726)
-- [The anatomy of .NET Aspire application](https://sd.blackball.lv/articles/read/19736)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
