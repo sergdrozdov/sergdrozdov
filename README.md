@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert images to WebP in C# .NET 7](https://sd.blackball.lv/articles/read/19651)
 - [Svelte vs React 2024: Which is better?](https://sd.blackball.lv/articles/read/19669)
 - [.NET | Working with options pattern](https://sd.blackball.lv/articles/read/19626)
 - [Result Pattern in C#](https://sd.blackball.lv/articles/read/19741)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Building a console app with .NET Generic Host](https://sd.blackball.lv/articles/read/19739)
 - [What are large language models &lpar;LLMs&rpar;?](https://sd.blackball.lv/articles/read/19665)
 - [Using SVGs in React](https://sd.blackball.lv/articles/read/19648)
-- [The best way to map objects in .NET in 2024](https://sd.blackball.lv/articles/read/19737)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
