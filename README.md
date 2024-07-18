@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quickly convert a console app into a single-point web app in C#](https://sd.blackball.lv/articles/read/19743)
 - [Write Powerful Rust Macros](https://sd.blackball.lv/books/19728)
 - [Convert images to WebP in C# .NET 7](https://sd.blackball.lv/articles/read/19651)
 - [Svelte vs React 2024: Which is better?](https://sd.blackball.lv/articles/read/19669)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [File upload in ASP.NET Core 6 – detailed guide](https://sd.blackball.lv/articles/read/19650)
 - [The Software Architect: Demystifying 18 Software Architecture patterns](https://sd.blackball.lv/articles/read/19740)
 - [Building a console app with .NET Generic Host](https://sd.blackball.lv/articles/read/19739)
-- [What are large language models &lpar;LLMs&rpar;?](https://sd.blackball.lv/articles/read/19665)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
