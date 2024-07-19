@@ -6,6 +6,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Write integration tests with .NET Aspire](https://sd.blackball.lv/articles/read/19745)
+- [8 practical ways to optimize background batch processing in .NET](https://sd.blackball.lv/articles/read/19744)
+- [.NET 8 Web API CRUD Operations](https://sd.blackball.lv/articles/read/19654)
 - [Quickly convert a console app into a single-point web app in C#](https://sd.blackball.lv/articles/read/19743)
 - [Write Powerful Rust Macros](https://sd.blackball.lv/books/19728)
 - [Convert images to WebP in C# .NET 7](https://sd.blackball.lv/articles/read/19651)
@@ -13,9 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET | Working with options pattern](https://sd.blackball.lv/articles/read/19626)
 - [Result Pattern in C#](https://sd.blackball.lv/articles/read/19741)
 - [The Audio Programming Book](https://sd.blackball.lv/books/19727)
-- [File upload in ASP.NET Core 6 – detailed guide](https://sd.blackball.lv/articles/read/19650)
-- [The Software Architect: Demystifying 18 Software Architecture patterns](https://sd.blackball.lv/articles/read/19740)
-- [Building a console app with .NET Generic Host](https://sd.blackball.lv/articles/read/19739)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
