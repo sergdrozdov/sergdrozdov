@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OWASP Top 10](https://sd.blackball.lv/articles/read/19678)
 - [Write integration tests with .NET Aspire](https://sd.blackball.lv/articles/read/19745)
 - [8 practical ways to optimize background batch processing in .NET](https://sd.blackball.lv/articles/read/19744)
 - [.NET 8 Web API CRUD Operations](https://sd.blackball.lv/articles/read/19654)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Svelte vs React 2024: Which is better?](https://sd.blackball.lv/articles/read/19669)
 - [.NET | Working with options pattern](https://sd.blackball.lv/articles/read/19626)
 - [Result Pattern in C#](https://sd.blackball.lv/articles/read/19741)
-- [The Audio Programming Book](https://sd.blackball.lv/books/19727)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
