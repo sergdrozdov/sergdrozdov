@@ -6,6 +6,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C# .NET 8 — Cache service with Distributed Cache](https://sd.blackball.lv/articles/read/19752)
+- [Code First approach in .NET 8 API](https://sd.blackball.lv/articles/read/19655)
 - [.NET Core vs .NET Framework: Which one is right for your business?](https://sd.blackball.lv/articles/read/19749)
 - [.NET Core vs .NET Framework: Key differences, features, and more](https://sd.blackball.lv/articles/read/19746)
 - [OWASP Top 10](https://sd.blackball.lv/articles/read/19678)
@@ -14,8 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET 8 Web API CRUD Operations](https://sd.blackball.lv/articles/read/19654)
 - [Quickly convert a console app into a single-point web app in C#](https://sd.blackball.lv/articles/read/19743)
 - [Write Powerful Rust Macros](https://sd.blackball.lv/books/19728)
-- [Convert images to WebP in C# .NET 7](https://sd.blackball.lv/articles/read/19651)
-- [Svelte vs React 2024: Which is better?](https://sd.blackball.lv/articles/read/19669)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
