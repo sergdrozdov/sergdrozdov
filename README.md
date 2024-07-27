@@ -1,10 +1,13 @@
 ## About me
-I'm result-oriented software engineer with over 20 years of experience specializing in full-stack development. Skilled in back-end/front-end development and distributed systems. Proficient at designing and implementing scalable and maintainable software solutions. Implemented a lot of projects using different technologies.\
-Web applications development (ASP.NET Web Forms/MVC/Core, PHP), desktop applications (Windows Forms, WPF), databases (SQL Server, MySQL, PostgreSQL, MariaDB, SQLite, MongoDB), ORM (Entity Framework, Dapper), Visual Studio, C#, VB.NET, HTML5, CSS3 (SASS, LESS), JavaScript, AJAX, jQuery, Angular, React, Vue.js, TypeScript, WCF, Web API, TFS, Azure, Git.
+Hello. I'm result-oriented software engineer with over 20 years of experience specializing in full-stack development. Skilled in back-end/front-end development and distributed systems.
+Proficient at designing and implementing scalable and maintainable software solutions. Implemented a lot of projects using different technologies.\
+Web applications development (ASP.NET Web Forms/MVC/Web Pages/Core, PHP), desktop applications (Windows Forms, WPF),
+databases (SQL Server, MySQL, PostgreSQL, MariaDB, SQLite, MongoDB), ORM (Entity Framework, Dapper),
+Visual Studio, C#, VB.NET, HTML5, CSS3 (SASS, LESS), JavaScript, AJAX, jQuery, Angular, React, Vue.js, TypeScript, WCF, Web API, TFS, Azure, Git.\
 I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
-[Contacts and profile](https://sd.blackball.lv/sergey-drozdov)\
-[Codebase](https://codebase.blackball.lv/)
+* [Contacts and profile](https://sd.blackball.lv/sergey-drozdov)\
+* [Codebase](https://codebase.blackball.lv/)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,6 +22,14 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET Core vs .NET Framework: Key differences, features, and more](https://sd.blackball.lv/articles/read/19746)
 - [OWASP Top 10](https://sd.blackball.lv/articles/read/19678)
 <!-- BLOG-POST-LIST:END -->
+
+## Personal projects
+* [Blackball](https://blackball.lv/) - *entertainment portal.*
+* [Blog](https://sd.blackball.lv/) - *data science blog (books, articles, videos).*
+* [Geolocation Assistant](https://geodata.blackball.lv/) - *geolocation by IP, hostname or geotagged photo.*
+* [Codebase](https://codebase.blackball.lv/) - *a project to share the source code of my tests and experiments.*
+* [Amerikas Auto](https://amerikasauto.com/) - *car company to service and certificate vehicles from America and Europe.*
+* [Transport Certification Center](https://autosc.site/) - *vehicles certification company.*
 
 ## Frameworks / Platforms / Languages
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -63,13 +74,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## Personal projects
-* [Blackball](https://blackball.lv/) - *entertainment portal.*
-* [Blog](https://sd.blackball.lv/) - *data science blog (books, articles, videos).*
-* [Geolocation Assistant](https://geodata.blackball.lv/) - *geolocation by IP or hostname.*
-* [Amerikas Auto](https://amerikasauto.com/) - *car company to service and certificate vehicles from America and Europe.*
-* [Transport Certification Center](https://autosc.site/) - *vehicles certification company.*
 
 ## Contact/Follow me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergey.drozdov.0305@gmail.com)
