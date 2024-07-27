@@ -6,6 +6,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Compatibility of ASP.NET Web Forms and ASP.NET MVC](https://sd.blackball.lv/articles/read/19689)
 - [Top recommended tools &amp; libraries for .NET software development](https://sd.blackball.lv/articles/read/19757)
 - [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
 - [Codebase project](https://sd.blackball.lv/news/19753)
@@ -15,7 +16,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [.NET Core vs .NET Framework: Which one is right for your business?](https://sd.blackball.lv/articles/read/19749)
 - [.NET Core vs .NET Framework: Key differences, features, and more](https://sd.blackball.lv/articles/read/19746)
 - [OWASP Top 10](https://sd.blackball.lv/articles/read/19678)
-- [Write integration tests with .NET Aspire](https://sd.blackball.lv/articles/read/19745)
 <!-- BLOG-POST-LIST:END -->
 
 ## Frameworks / Platforms / Languages
