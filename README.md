@@ -3,6 +3,7 @@ I'm a software engineer with 20+ years experience. Web applications development 
 I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 [Contacts and profile](https://sd.blackball.lv/sergey-drozdov)
+[Codebase](https://codebase.blackball.lv/)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
