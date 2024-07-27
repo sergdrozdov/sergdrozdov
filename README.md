@@ -6,7 +6,7 @@ databases (SQL Server, MySQL, PostgreSQL, MariaDB, SQLite, MongoDB), ORM (Entity
 Visual Studio, C#, VB.NET, HTML5, CSS3 (SASS, LESS), JavaScript, AJAX, jQuery, Angular, React, Vue.js, TypeScript, WCF, Web API, TFS, Azure, Git.\
 I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
-* [Contacts and profile](https://sd.blackball.lv/sergey-drozdov)\
+* [Contacts and profile](https://sd.blackball.lv/sergey-drozdov)
 * [Codebase](https://codebase.blackball.lv/)
 
 ## Latest blog posts
