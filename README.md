@@ -11,6 +11,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Marking up the Web with ASP.NET Core and Markdown](https://sd.blackball.lv/articles/read/19758)
+- [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
 - [Compatibility of ASP.NET Web Forms and ASP.NET MVC](https://sd.blackball.lv/articles/read/19689)
 - [Top recommended tools &amp; libraries for .NET software development](https://sd.blackball.lv/articles/read/19757)
 - [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
@@ -19,8 +21,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [C# .NET 8 — Cache service with Distributed Cache](https://sd.blackball.lv/articles/read/19752)
 - [Code First approach in .NET 8 API](https://sd.blackball.lv/articles/read/19655)
 - [.NET Core vs .NET Framework: Which one is right for your business?](https://sd.blackball.lv/articles/read/19749)
-- [.NET Core vs .NET Framework: Key differences, features, and more](https://sd.blackball.lv/articles/read/19746)
-- [OWASP Top 10](https://sd.blackball.lv/articles/read/19678)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
