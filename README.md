@@ -11,6 +11,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to structure .NET project with Clean Architecture?](https://sd.blackball.lv/articles/read/19659)
+- [Новая страница «Репозитории»](https://sd.blackball.lv/news/19760)
 - [Working with Azure Cosmos DB in .NET Core: A Step-by-Step Guide](https://sd.blackball.lv/articles/read/19759)
 - [Web API Development for the Absolute Beginner](https://sd.blackball.lv/books/19732)
 - [Marking up the Web with ASP.NET Core and Markdown](https://sd.blackball.lv/articles/read/19758)
@@ -19,8 +21,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Top recommended tools &amp; libraries for .NET software development](https://sd.blackball.lv/articles/read/19757)
 - [Authentication and Authorization in .NET 8 Web API](https://sd.blackball.lv/articles/read/19656)
 - [Codebase project](https://sd.blackball.lv/news/19753)
-- [Parallel Programming and Concurrency with C# 10 and .NET 6](https://sd.blackball.lv/books/19073)
-- [C# .NET 8 — Cache service with Distributed Cache](https://sd.blackball.lv/articles/read/19752)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
