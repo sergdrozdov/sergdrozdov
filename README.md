@@ -11,6 +11,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 5 C# PDF libraries every developer mostly use](https://sd.blackball.lv/articles/read/19660)
+- [Screaming Architecture](https://sd.blackball.lv/articles/read/19766)
 - [Thinking like an Architect](https://sd.blackball.lv/articles/read/19763)
 - [The Software Architect: Demystifying 18 Software Architecture patterns](https://sd.blackball.lv/articles/read/19740)
 - [How to structure .NET project with Clean Architecture?](https://sd.blackball.lv/articles/read/19659)
@@ -19,8 +21,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Web API Development for the Absolute Beginner](https://sd.blackball.lv/books/19732)
 - [Marking up the Web with ASP.NET Core and Markdown](https://sd.blackball.lv/articles/read/19758)
 - [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
-- [Compatibility of ASP.NET Web Forms and ASP.NET MVC](https://sd.blackball.lv/articles/read/19689)
-- [Top recommended tools &amp; libraries for .NET software development](https://sd.blackball.lv/articles/read/19757)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
