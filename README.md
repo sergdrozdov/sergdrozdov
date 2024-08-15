@@ -11,6 +11,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker done right: 10 best practices for developers](https://sd.blackball.lv/articles/read/19779)
 - [Architecting ASP.NET Core Applications, 3rd Edition](https://sd.blackball.lv/books/19642)
 - [Dockerizing ASP.NET Core applications: A comprehensive guide](https://sd.blackball.lv/articles/read/19400)
 - [Don&#39;t use Task.WhenAll, it may not be efficient enough](https://sd.blackball.lv/video/watch/19778)
@@ -20,7 +21,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [The 5 C# PDF libraries every developer mostly use](https://sd.blackball.lv/articles/read/19660)
 - [Screaming Architecture](https://sd.blackball.lv/articles/read/19766)
 - [Thinking like an Architect](https://sd.blackball.lv/articles/read/19763)
-- [The Software Architect: Demystifying 18 Software Architecture patterns](https://sd.blackball.lv/articles/read/19740)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
