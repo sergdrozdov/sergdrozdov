@@ -11,16 +11,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a simple REST API in PHP?](https://sd.blackball.lv/articles/read/19782)
+- [7 reasons why I am against a live coding challenge in technical interviews](https://sd.blackball.lv/articles/read/19781)
+- [Live-coding interviews: essential or discriminatory?](https://sd.blackball.lv/articles/read/19780)
+- [Fetch API in JavaScript with examples](https://sd.blackball.lv/articles/read/19649)
 - [Docker done right: 10 best practices for developers](https://sd.blackball.lv/articles/read/19779)
 - [Architecting ASP.NET Core Applications, 3rd Edition](https://sd.blackball.lv/books/19642)
 - [Dockerizing ASP.NET Core applications: A comprehensive guide](https://sd.blackball.lv/articles/read/19400)
 - [Don&#39;t use Task.WhenAll, it may not be efficient enough](https://sd.blackball.lv/video/watch/19778)
 - [SignalR simplified: Creating efficient pure WebSocket servers with SimpleR for ASP.NET Core](https://sd.blackball.lv/articles/read/19639)
 - [ASP.NET Core integration testing best practices](https://sd.blackball.lv/articles/read/19777)
-- [Web API Development with ASP.NET Core 8](https://sd.blackball.lv/books/19730)
-- [The 5 C# PDF libraries every developer mostly use](https://sd.blackball.lv/articles/read/19660)
-- [Screaming Architecture](https://sd.blackball.lv/articles/read/19766)
-- [Thinking like an Architect](https://sd.blackball.lv/articles/read/19763)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
