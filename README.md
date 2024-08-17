@@ -11,9 +11,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The cost of ghosting: Why tech recruiters can&#39;t afford to ignore candidates](https://sd.blackball.lv/articles/read/19785)
-- [7 reasons why I am against a live coding challenge in technical interviews](https://sd.blackball.lv/articles/read/19781)
 - [How to build a simple REST API in PHP?](https://sd.blackball.lv/articles/read/19782)
+- [7 reasons why I am against a live coding challenge in technical interviews](https://sd.blackball.lv/articles/read/19781)
 - [Live-coding interviews: essential or discriminatory?](https://sd.blackball.lv/articles/read/19780)
 - [Fetch API in JavaScript with examples](https://sd.blackball.lv/articles/read/19649)
 - [Docker done right: 10 best practices for developers](https://sd.blackball.lv/articles/read/19779)
@@ -21,6 +20,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Dockerizing ASP.NET Core applications: A comprehensive guide](https://sd.blackball.lv/articles/read/19400)
 - [Don&#39;t use Task.WhenAll, it may not be efficient enough](https://sd.blackball.lv/video/watch/19778)
 - [SignalR simplified: Creating efficient pure WebSocket servers with SimpleR for ASP.NET Core](https://sd.blackball.lv/articles/read/19639)
+- [ASP.NET Core integration testing best practices](https://sd.blackball.lv/articles/read/19777)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
@@ -46,8 +46,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## IDEs / Editors
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+## IDE
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Rider](https://img.shields.io/badge/Rider-000?style=for-the-badge&logo=rider&logoColor=fff)
@@ -85,6 +85,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serg-drozdov/)
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](skype:sergey-drozdov?chat)
 [![Telegram](https://img.shields.io/badge/-Telegram-333537?style=for-the-badge&logo=Telegram)](https://t.me/cyberserg80)
+![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sergey_drozdov)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
