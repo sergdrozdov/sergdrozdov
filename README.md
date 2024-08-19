@@ -8,6 +8,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 * [Contacts and profile](https://sd.blackball.lv/sergey-drozdov)
 * [Codebase](https://codebase.blackball.lv/)
+* [LinkedIn](https://www.linkedin.com/in/serg-drozdov/)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -53,7 +54,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 ![Rider](https://img.shields.io/badge/Rider-000?style=for-the-badge&logo=rider&logoColor=fff)
 
 ## Databases
-![SQL](https://img.shields.io/badge/-SQL-333537?style=for-the-badge&logo=sql)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
