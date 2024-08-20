@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 reasons why developers leave their jobs](https://sd.blackball.lv/articles/read/19786)
+- [How to implement pagination in ASP.NET Core Web API? - Ultimate guide](https://sd.blackball.lv/articles/read/19662)
 - [The cost of ghosting: Why tech recruiters can&#39;t afford to ignore candidates](https://sd.blackball.lv/articles/read/19785)
 - [7 reasons why I am against a live coding challenge in technical interviews](https://sd.blackball.lv/articles/read/19781)
 - [How to build a simple REST API in PHP?](https://sd.blackball.lv/articles/read/19782)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Docker done right: 10 best practices for developers](https://sd.blackball.lv/articles/read/19779)
 - [Architecting ASP.NET Core Applications, 3rd Edition](https://sd.blackball.lv/books/19642)
 - [Dockerizing ASP.NET Core applications: A comprehensive guide](https://sd.blackball.lv/articles/read/19400)
-- [Don&#39;t use Task.WhenAll, it may not be efficient enough](https://sd.blackball.lv/video/watch/19778)
-- [SignalR simplified: Creating efficient pure WebSocket servers with SimpleR for ASP.NET Core](https://sd.blackball.lv/articles/read/19639)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
