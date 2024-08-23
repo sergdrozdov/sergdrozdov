@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An SEO’s guide to writing Structured Data &lpar;JSON-LD&rpar;](https://sd.blackball.lv/articles/read/19667)
 - [7 reasons why developers leave their jobs](https://sd.blackball.lv/articles/read/19786)
 - [How to implement pagination in ASP.NET Core Web API? - Ultimate guide](https://sd.blackball.lv/articles/read/19662)
 - [The cost of ghosting: Why tech recruiters can&#39;t afford to ignore candidates](https://sd.blackball.lv/articles/read/19785)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Fetch API in JavaScript with examples](https://sd.blackball.lv/articles/read/19649)
 - [Docker done right: 10 best practices for developers](https://sd.blackball.lv/articles/read/19779)
 - [Architecting ASP.NET Core Applications, 3rd Edition](https://sd.blackball.lv/books/19642)
-- [Dockerizing ASP.NET Core applications: A comprehensive guide](https://sd.blackball.lv/articles/read/19400)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
