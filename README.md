@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple database provider migrations in Entity Framework](https://sd.blackball.lv/articles/read/19672)
 - [How to implement multitenancy in ASP.NET Core with EF Core](https://sd.blackball.lv/articles/read/19792)
 - [Scheduling tasks with Cronos in .NET](https://sd.blackball.lv/articles/read/19670)
 - [An SEO’s guide to writing Structured Data &lpar;JSON-LD&rpar;](https://sd.blackball.lv/articles/read/19667)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [7 reasons why I am against a live coding challenge in technical interviews](https://sd.blackball.lv/articles/read/19781)
 - [How to build a simple REST API in PHP?](https://sd.blackball.lv/articles/read/19782)
 - [Live-coding interviews: essential or discriminatory?](https://sd.blackball.lv/articles/read/19780)
-- [Fetch API in JavaScript with examples](https://sd.blackball.lv/articles/read/19649)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
