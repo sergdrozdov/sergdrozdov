@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing data operations with OData in .NET 8](https://sd.blackball.lv/articles/read/19676)
 - [Choosing a data reading architecture in .NET: Four approaches](https://sd.blackball.lv/articles/read/19674)
 - [Multiple database provider migrations in Entity Framework](https://sd.blackball.lv/articles/read/19672)
 - [How to implement multitenancy in ASP.NET Core with EF Core](https://sd.blackball.lv/articles/read/19792)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [How to implement pagination in ASP.NET Core Web API? - Ultimate guide](https://sd.blackball.lv/articles/read/19662)
 - [The cost of ghosting: Why tech recruiters can&#39;t afford to ignore candidates](https://sd.blackball.lv/articles/read/19785)
 - [7 reasons why I am against a live coding challenge in technical interviews](https://sd.blackball.lv/articles/read/19781)
-- [How to build a simple REST API in PHP?](https://sd.blackball.lv/articles/read/19782)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
