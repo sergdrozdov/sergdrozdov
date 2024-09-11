@@ -19,9 +19,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [How to implement multitenancy in ASP.NET Core with EF Core](https://sd.blackball.lv/articles/read/19792)
 - [Scheduling tasks with Cronos in .NET](https://sd.blackball.lv/articles/read/19670)
 - [An SEO’s guide to writing Structured Data &lpar;JSON-LD&rpar;](https://sd.blackball.lv/articles/read/19667)
+- [Building real-time notifications in .NET Core 8 Minimal APIs using SignalR](https://sd.blackball.lv/articles/read/19787)
 - [7 reasons why developers leave their jobs](https://sd.blackball.lv/articles/read/19786)
 - [How to implement pagination in ASP.NET Core Web API? - Ultimate guide](https://sd.blackball.lv/articles/read/19662)
-- [The cost of ghosting: Why tech recruiters can&#39;t afford to ignore candidates](https://sd.blackball.lv/articles/read/19785)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
