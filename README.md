@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing concurrent database updates](https://sd.blackball.lv/articles/read/19691)
 - [Deep dive into .NET REST API security](https://sd.blackball.lv/articles/read/19679)
 - [Optimizing data operations with OData in .NET 8](https://sd.blackball.lv/articles/read/19676)
 - [Choosing a data reading architecture in .NET: Four approaches](https://sd.blackball.lv/articles/read/19674)
+- [WPF vs WinForms – Making the right decision in 2024](https://sd.blackball.lv/articles/read/19821)
 - [Multiple database provider migrations in Entity Framework](https://sd.blackball.lv/articles/read/19672)
 - [How to implement multitenancy in ASP.NET Core with EF Core](https://sd.blackball.lv/articles/read/19792)
 - [Scheduling tasks with Cronos in .NET](https://sd.blackball.lv/articles/read/19670)
 - [An SEO’s guide to writing Structured Data &lpar;JSON-LD&rpar;](https://sd.blackball.lv/articles/read/19667)
 - [Building real-time notifications in .NET Core 8 Minimal APIs using SignalR](https://sd.blackball.lv/articles/read/19787)
-- [7 reasons why developers leave their jobs](https://sd.blackball.lv/articles/read/19786)
-- [How to implement pagination in ASP.NET Core Web API? - Ultimate guide](https://sd.blackball.lv/articles/read/19662)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
