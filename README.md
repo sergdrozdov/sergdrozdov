@@ -20,8 +20,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Choosing a data reading architecture in .NET: Four approaches](https://sd.blackball.lv/articles/read/19674)
 - [WPF vs WinForms – Making the right decision in 2024](https://sd.blackball.lv/articles/read/19821)
 - [Multiple database provider migrations in Entity Framework](https://sd.blackball.lv/articles/read/19672)
+- [The essential guide to creating custom context menus in JavaScript](https://sd.blackball.lv/articles/read/19796)
 - [Minimal APIs in .NET 8: A simplified approach to build services](https://sd.blackball.lv/articles/read/19794)
-- [How to implement multitenancy in ASP.NET Core with EF Core](https://sd.blackball.lv/articles/read/19792)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
