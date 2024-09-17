@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging in .NET: A comparison of the Top 4 libraries](https://sd.blackball.lv/articles/read/19706)
 - [Fundamentals of Enterprise Architecture](https://sd.blackball.lv/books/19824)
 - [Azure Adventures with C#](https://sd.blackball.lv/books/19823)
 - [Managing concurrent database updates](https://sd.blackball.lv/articles/read/19691)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [WPF vs WinForms – Making the right decision in 2024](https://sd.blackball.lv/articles/read/19821)
 - [Multiple database provider migrations in Entity Framework](https://sd.blackball.lv/articles/read/19672)
 - [The essential guide to creating custom context menus in JavaScript](https://sd.blackball.lv/articles/read/19796)
-- [Minimal APIs in .NET 8: A simplified approach to build services](https://sd.blackball.lv/articles/read/19794)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
