@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The anatomy of .NET Aspire application](https://sd.blackball.lv/articles/read/19736)
 - [Media queries demystified | CSS Min-Width and Max-Width | How do they work?](https://sd.blackball.lv/articles/read/19734)
 - [Exploring concurrency, parallelism and asynchronous programming in .NET](https://sd.blackball.lv/articles/read/19733)
 - [Integrating Azure Service Bus with .NET applications](https://sd.blackball.lv/articles/read/19729)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [API design: From basics to best practices](https://sd.blackball.lv/articles/read/19723)
 - [Azure Adventures with C#](https://sd.blackball.lv/books/19823)
 - [Logging in .NET: A comparison of the Top 4 libraries](https://sd.blackball.lv/articles/read/19706)
-- [Managing concurrent database updates](https://sd.blackball.lv/articles/read/19691)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
