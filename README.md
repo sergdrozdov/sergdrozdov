@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding architectures for multi-region data residency](https://sd.blackball.lv/articles/read/19826)
 - [Must-know C# Code Smells and how to fix them](https://sd.blackball.lv/articles/read/19825)
 - [The best way to map objects in .NET in 2024](https://sd.blackball.lv/articles/read/19737)
 - [The anatomy of .NET Aspire application](https://sd.blackball.lv/articles/read/19736)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Using ASP.NET Core SignalR with Vue to implement web notifications](https://sd.blackball.lv/articles/read/19725)
 - [Fundamentals of Enterprise Architecture](https://sd.blackball.lv/books/19824)
 - [Pipeline Pattern](https://sd.blackball.lv/articles/read/19724)
-- [API design: From basics to best practices](https://sd.blackball.lv/articles/read/19723)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
