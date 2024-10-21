@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microservices vs. Monolithic architecture: Which one fits better?](https://sd.blackball.lv/articles/read/19832)
 - [Understanding architectures for multi-region data residency](https://sd.blackball.lv/articles/read/19826)
 - [Mastering concurrency handling in EF Core: High-traffic applications, best practices](https://sd.blackball.lv/articles/read/19828)
 - [Result Pattern in C#](https://sd.blackball.lv/articles/read/19741)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Media queries demystified | CSS Min-Width and Max-Width | How do they work?](https://sd.blackball.lv/articles/read/19734)
 - [Exploring concurrency, parallelism and asynchronous programming in .NET](https://sd.blackball.lv/articles/read/19733)
 - [Integrating Azure Service Bus with .NET applications](https://sd.blackball.lv/articles/read/19729)
-- [Using ASP.NET Core SignalR with Vue to implement web notifications](https://sd.blackball.lv/articles/read/19725)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
