@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 23.10.2024 15:53](https://sd.blackball.lv/news/19837)
+- [Новость 23.10.2024 15:52](https://sd.blackball.lv/news/19836)
 - [Vanilla JavaScript modal with multiple open/close handlers](https://sd.blackball.lv/articles/read/19835)
 - [Mastering EF Core performance: Tips, tricks, and best practices](https://sd.blackball.lv/articles/read/19833)
 - [Must-know C# Code Smells and how to fix them](https://sd.blackball.lv/articles/read/19825)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Mastering concurrency handling in EF Core: High-traffic applications, best practices](https://sd.blackball.lv/articles/read/19828)
 - [Result Pattern in C#](https://sd.blackball.lv/articles/read/19741)
 - [The best way to map objects in .NET in 2024](https://sd.blackball.lv/articles/read/19737)
-- [The anatomy of .NET Aspire application](https://sd.blackball.lv/articles/read/19736)
-- [Media queries demystified | CSS Min-Width and Max-Width | How do they work?](https://sd.blackball.lv/articles/read/19734)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
