@@ -12,9 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Пишем одностраничное приложение с помощью htmx](https://sd.blackball.lv/articles/read/19846)
 - [Mastering EF Core performance: Tips, tricks, and best practices](https://sd.blackball.lv/articles/read/19833)
 - [Microservices vs. Monolithic architecture: Which one fits better?](https://sd.blackball.lv/articles/read/19832)
-- [Пишем одностраничное приложение с помощью htmx](https://sd.blackball.lv/articles/read/19846)
 - [Secrets to building a high-performing remote software development team](https://sd.blackball.lv/articles/read/19845)
 - [Managing high-performing software teams](https://sd.blackball.lv/articles/read/19841)
 - [Mastering concurrency handling in EF Core: High-traffic applications, best practices](https://sd.blackball.lv/articles/read/19828)
