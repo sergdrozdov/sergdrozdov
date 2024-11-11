@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 не самых очевидных причин, чтобы уволиться](https://sd.blackball.lv/articles/read/19851)
 - [Managing high-performing software teams](https://sd.blackball.lv/articles/read/19841)
 - [Value vs reference types in C#](https://sd.blackball.lv/articles/read/19847)
 - [Messaging made easy: A list of Message Brokers and Event Streaming Platforms](https://sd.blackball.lv/articles/read/19850)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Vanilla JavaScript modal with multiple open/close handlers](https://sd.blackball.lv/articles/read/19835)
 - [Пишем одностраничное приложение с помощью htmx](https://sd.blackball.lv/articles/read/19846)
 - [Mastering EF Core performance: Tips, tricks, and best practices](https://sd.blackball.lv/articles/read/19833)
-- [Microservices vs. Monolithic architecture: Which one fits better?](https://sd.blackball.lv/articles/read/19832)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
