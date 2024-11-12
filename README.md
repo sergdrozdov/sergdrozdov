@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A detailed 2024 comparison: Angular vs React vs Vue.js](https://sd.blackball.lv/articles/read/19855)
+- [SaaS vs PaaS vs IaaS: What&#39;s the difference?](https://sd.blackball.lv/articles/read/19853)
+- [Understanding SOLID principles in .NET &lpar;C#&rpar;: A practical guide with code examples](https://sd.blackball.lv/articles/read/19848)
+- [Don&#39;t let bad onboarding slow you down in your new job](https://sd.blackball.lv/articles/read/19852)
 - [10 не самых очевидных причин, чтобы уволиться](https://sd.blackball.lv/articles/read/19851)
 - [Managing high-performing software teams](https://sd.blackball.lv/articles/read/19841)
 - [Value vs reference types in C#](https://sd.blackball.lv/articles/read/19847)
 - [Messaging made easy: A list of Message Brokers and Event Streaming Platforms](https://sd.blackball.lv/articles/read/19850)
 - [Top 10 microservices design patterns you should know](https://sd.blackball.lv/articles/read/19849)
-- [Understanding SOLID principles in .NET &lpar;C#&rpar;: A practical guide with code examples](https://sd.blackball.lv/articles/read/19848)
 - [How to become a Software Architect in 2024](https://sd.blackball.lv/articles/read/19772)
-- [Vanilla JavaScript modal with multiple open/close handlers](https://sd.blackball.lv/articles/read/19835)
-- [Пишем одностраничное приложение с помощью htmx](https://sd.blackball.lv/articles/read/19846)
-- [Mastering EF Core performance: Tips, tricks, and best practices](https://sd.blackball.lv/articles/read/19833)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
