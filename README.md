@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced ASP.NET Core 8 Security, Second Edition](https://sd.blackball.lv/books/19864)
+- [Pro .NET Memory Management, Second Edition](https://sd.blackball.lv/books/19863)
 - [Messaging made easy: A list of Message Brokers and Event Streaming Platforms](https://sd.blackball.lv/articles/read/19850)
 - [Book description quick view](https://sd.blackball.lv/news/19862)
 - [Быстрый просмотр описания книги](https://sd.blackball.lv/news/19861)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Announcing .NET 9](https://sd.blackball.lv/news/19858)
 - [Релиз .NET 9](https://sd.blackball.lv/news/19857)
 - [A detailed 2024 comparison: Angular vs React vs Vue.js](https://sd.blackball.lv/articles/read/19855)
-- [IaaS vs. PaaS vs. SaaS - Differences, examples and diagram](https://sd.blackball.lv/articles/read/19854)
-- [Understanding SOLID principles in .NET &lpar;C#&rpar;: A practical guide with code examples](https://sd.blackball.lv/articles/read/19848)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
