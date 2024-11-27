@@ -12,10 +12,10 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced ASP.NET Core 8 Security, Second Edition](https://sd.blackball.lv/books/19864)
 - [Top 10 microservices design patterns you should know](https://sd.blackball.lv/articles/read/19849)
 - [From Layers to Features: Exploring Vertical Slice Architecture in .NET](https://sd.blackball.lv/articles/read/19867)
 - [Pro .NET Memory Management, Second Edition](https://sd.blackball.lv/books/19863)
-- [Advanced ASP.NET Core 8 Security, Second Edition](https://sd.blackball.lv/books/19864)
 - [Messaging made easy: A list of Message Brokers and Event Streaming Platforms](https://sd.blackball.lv/articles/read/19850)
 - [Book description quick view](https://sd.blackball.lv/news/19862)
 - [Быстрый просмотр описания книги](https://sd.blackball.lv/news/19861)
