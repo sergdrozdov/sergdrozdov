@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t let bad onboarding slow you down in your new job](https://sd.blackball.lv/articles/read/19852)
 - [Advanced ASP.NET Core 8 Security, Second Edition](https://sd.blackball.lv/books/19864)
 - [Top 10 microservices design patterns you should know](https://sd.blackball.lv/articles/read/19849)
 - [From Layers to Features: Exploring Vertical Slice Architecture in .NET](https://sd.blackball.lv/articles/read/19867)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Быстрый просмотр описания книги](https://sd.blackball.lv/news/19861)
 - [Why do software developers quit their jobs?](https://sd.blackball.lv/articles/read/19860)
 - [SaaS vs PaaS vs IaaS: What&#39;s the difference?](https://sd.blackball.lv/articles/read/19853)
-- [10 не самых очевидных причин, чтобы уволиться](https://sd.blackball.lv/articles/read/19851)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
