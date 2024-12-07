@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A detailed 2024 comparison: Angular vs React vs Vue.js](https://sd.blackball.lv/articles/read/19855)
 - [How to use OSINT and web scraping for data collection](https://sd.blackball.lv/articles/read/19869)
 - [Micro Frontends in Action](https://sd.blackball.lv/books/19868)
 - [Don&#39;t let bad onboarding slow you down in your new job](https://sd.blackball.lv/articles/read/19852)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Pro .NET Memory Management, Second Edition](https://sd.blackball.lv/books/19863)
 - [Messaging made easy: A list of Message Brokers and Event Streaming Platforms](https://sd.blackball.lv/articles/read/19850)
 - [Book description quick view](https://sd.blackball.lv/news/19862)
-- [Быстрый просмотр описания книги](https://sd.blackball.lv/news/19861)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
