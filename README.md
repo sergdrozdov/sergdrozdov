@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IaaS vs. PaaS vs. SaaS - Differences, examples and diagram](https://sd.blackball.lv/articles/read/19854)
 - [How to create phone numbers and contacts list in React](https://sd.blackball.lv/articles/read/19871)
 - [10 best databases for web applications to use in 2025 and beyond](https://sd.blackball.lv/articles/read/19875)
 - [Micro Frontends in Action](https://sd.blackball.lv/books/19868)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [How to use OSINT and web scraping for data collection](https://sd.blackball.lv/articles/read/19869)
 - [Don&#39;t let bad onboarding slow you down in your new job](https://sd.blackball.lv/articles/read/19852)
 - [Advanced ASP.NET Core 8 Security, Second Edition](https://sd.blackball.lv/books/19864)
-- [Top 10 microservices design patterns you should know](https://sd.blackball.lv/articles/read/19849)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
