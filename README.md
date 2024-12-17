@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for writing clean JavaScript code](https://sd.blackball.lv/articles/read/19879)
+- [How to add realtime updates to your React application](https://sd.blackball.lv/articles/read/19872)
 - [Using SQLite with Entity Framework Core in C#](https://sd.blackball.lv/articles/read/19877)
 - [Full Stack Development with Microsoft Blazor, 4th Edition](https://sd.blackball.lv/books/19876)
 - [IaaS vs. PaaS vs. SaaS - Differences, examples and diagram](https://sd.blackball.lv/articles/read/19854)
 - [How to create phone numbers and contacts list in React](https://sd.blackball.lv/articles/read/19871)
 - [10 best databases for web applications to use in 2025 and beyond](https://sd.blackball.lv/articles/read/19875)
 - [Micro Frontends in Action](https://sd.blackball.lv/books/19868)
-- [How to add realtime updates to your React application](https://sd.blackball.lv/articles/read/19872)
 - [Performance bottlenecks in ASP.NET Application? How to identify and address them?](https://sd.blackball.lv/articles/read/19870)
 - [A detailed 2024 comparison: Angular vs React vs Vue.js](https://sd.blackball.lv/articles/read/19855)
-- [How to use OSINT and web scraping for data collection](https://sd.blackball.lv/articles/read/19869)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
