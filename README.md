@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using SQLite with Entity Framework Core in C#](https://sd.blackball.lv/articles/read/19877)
 - [Why do software developers quit their jobs?](https://sd.blackball.lv/articles/read/19860)
 - [Top 5 GUI tools for PostgreSQL in 2025](https://sd.blackball.lv/articles/read/19881)
 - [10 best databases for web applications to use in 2025 and beyond](https://sd.blackball.lv/articles/read/19875)
@@ -19,7 +20,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Best practices for writing clean JavaScript code](https://sd.blackball.lv/articles/read/19879)
 - [Top 10 software architecture styles you should know](https://sd.blackball.lv/articles/read/19878)
 - [How to add realtime updates to your React application](https://sd.blackball.lv/articles/read/19872)
-- [Using SQLite with Entity Framework Core in C#](https://sd.blackball.lv/articles/read/19877)
 - [IaaS vs. PaaS vs. SaaS - Differences, examples and diagram](https://sd.blackball.lv/articles/read/19854)
 - [How to create phone numbers and contacts list in React](https://sd.blackball.lv/articles/read/19871)
 <!-- BLOG-POST-LIST:END -->
