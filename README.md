@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the Software Development Life Cycle &lpar;SDLC&rpar;?](https://sd.blackball.lv/articles/read/19885)
 - [Top 10 software architecture styles you should know](https://sd.blackball.lv/articles/read/19878)
 - [Top 5 GUI tools for PostgreSQL in 2025](https://sd.blackball.lv/articles/read/19881)
 - [Best practices for writing clean JavaScript code](https://sd.blackball.lv/articles/read/19879)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Full Stack Development with Microsoft Blazor, 4th Edition](https://sd.blackball.lv/books/19876)
 - [How to add realtime updates to your React application](https://sd.blackball.lv/articles/read/19872)
 - [IaaS vs. PaaS vs. SaaS - Differences, examples and diagram](https://sd.blackball.lv/articles/read/19854)
-- [How to create phone numbers and contacts list in React](https://sd.blackball.lv/articles/read/19871)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
