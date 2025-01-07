@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Minimum Viable Product](https://sd.blackball.lv/articles/read/19887)
+- [Database Partitioning vs. Sharding vs. Replication](https://sd.blackball.lv/articles/read/19895)
 - [What is the Software Development Life Cycle &lpar;SDLC&rpar;?](https://sd.blackball.lv/articles/read/19885)
+- [6 open source log management tools for 2024](https://sd.blackball.lv/articles/read/19893)
+- [How to build a Minimum Viable Product](https://sd.blackball.lv/articles/read/19887)
 - [Top 10 software architecture styles you should know](https://sd.blackball.lv/articles/read/19878)
 - [Top 5 GUI tools for PostgreSQL in 2025](https://sd.blackball.lv/articles/read/19881)
 - [Best practices for writing clean JavaScript code](https://sd.blackball.lv/articles/read/19879)
 - [Using SQLite with Entity Framework Core in C#](https://sd.blackball.lv/articles/read/19877)
 - [Why do software developers quit their jobs?](https://sd.blackball.lv/articles/read/19860)
 - [10 best databases for web applications to use in 2025 and beyond](https://sd.blackball.lv/articles/read/19875)
-- [Full Stack Development with Microsoft Blazor, 4th Edition](https://sd.blackball.lv/books/19876)
-- [How to add realtime updates to your React application](https://sd.blackball.lv/articles/read/19872)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
