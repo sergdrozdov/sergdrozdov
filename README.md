@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS in HTML emails: How to get started &lpar;without breaking anything&rpar;](https://sd.blackball.lv/articles/read/19897)
 - [Nonprofit vs. Not-for-Profit vs. For-Profit: What&#39;s the difference?](https://sd.blackball.lv/articles/read/19896)
 - [Database Partitioning vs. Sharding vs. Replication](https://sd.blackball.lv/articles/read/19895)
 - [What is the Software Development Life Cycle &lpar;SDLC&rpar;?](https://sd.blackball.lv/articles/read/19885)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Top 5 GUI tools for PostgreSQL in 2025](https://sd.blackball.lv/articles/read/19881)
 - [Best practices for writing clean JavaScript code](https://sd.blackball.lv/articles/read/19879)
 - [Using SQLite with Entity Framework Core in C#](https://sd.blackball.lv/articles/read/19877)
-- [Why do software developers quit their jobs?](https://sd.blackball.lv/articles/read/19860)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
