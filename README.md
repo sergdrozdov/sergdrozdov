@@ -12,10 +12,10 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nonprofit vs. Not-for-Profit vs. For-Profit: What&#39;s the difference?](https://sd.blackball.lv/articles/read/19896)
 - [Migrating ASP.NET Microservices to ASP.NET Core 8, Second Edition](https://sd.blackball.lv/books/19898)
 - [How to build a Minimum Viable Product](https://sd.blackball.lv/articles/read/19887)
 - [CSS in HTML emails: How to get started &lpar;without breaking anything&rpar;](https://sd.blackball.lv/articles/read/19897)
-- [Nonprofit vs. Not-for-Profit vs. For-Profit: What&#39;s the difference?](https://sd.blackball.lv/articles/read/19896)
 - [Database Partitioning vs. Sharding vs. Replication](https://sd.blackball.lv/articles/read/19895)
 - [What is the Software Development Life Cycle &lpar;SDLC&rpar;?](https://sd.blackball.lv/articles/read/19885)
 - [6 open source log management tools for 2024](https://sd.blackball.lv/articles/read/19893)
