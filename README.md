@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 open source log management tools for 2024](https://sd.blackball.lv/articles/read/19893)
-- [Security Through Obscurity, everything you need to know](https://sd.blackball.lv/articles/read/19904)
-- [Security Through Obscurity &lpar;STO&rpar;: History, criticism &amp; risks](https://sd.blackball.lv/articles/read/19903)
-- [Security Through Obscurity: A Critical Analysis of Hidden Dangers](https://sd.blackball.lv/articles/read/19902)
-- [Nonprofit vs. Not-for-Profit vs. For-Profit: What&#39;s the difference?](https://sd.blackball.lv/articles/read/19896)
-- [Software | Frameworks | Libraries | Tools cheatsheet](https://sd.blackball.lv/articles/read/19900)
-- [Migrating ASP.NET Microservices to ASP.NET Core 8, Second Edition](https://sd.blackball.lv/books/19898)
-- [How to build a Minimum Viable Product](https://sd.blackball.lv/articles/read/19887)
-- [CSS in HTML emails: How to get started &lpar;without breaking anything&rpar;](https://sd.blackball.lv/articles/read/19897)
-- [Database Partitioning vs. Sharding vs. Replication](https://sd.blackball.lv/articles/read/19895)
+- [Чек-лист по запуску нового сайта: что нужно учесть?](https://sd.blackball.lv/articles/read/19919)
+- [Вождь разрабчьей стаи](https://sd.blackball.lv/articles/read/19918)
+- [Резервное копирование на GitHub: топ-10 правил и рекомендаций](https://sd.blackball.lv/articles/read/19917)
+- [Когда устал от алгоритмов: Ревью кода на собеседовании](https://sd.blackball.lv/articles/read/19916)
+- [«Если честно, уже хочется выть»: вот что бесит айтишников в IT](https://sd.blackball.lv/articles/read/19915)
+- [Забудьте про Go и Rust: MoonBit - новый король WebAssembly](https://sd.blackball.lv/articles/read/19914)
+- [Что такое Material Design и почему он так популярен](https://sd.blackball.lv/articles/read/19913)
+- [Пользовательские интерфейсы в упадке](https://sd.blackball.lv/articles/read/19912)
+- [Kanban VS Scrum: в чем разница](https://sd.blackball.lv/articles/read/19911)
+- [5 ошибок при разработке высоконагруженных сервисов](https://sd.blackball.lv/articles/read/19910)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
