@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Memory Caching in .NET - Boost your app&#39;s performance](https://sd.blackball.lv/articles/read/19922)
+- [300+ вопросов по JavaScript на собеседовании](https://sd.blackball.lv/articles/read/19906)
 - [Чек-лист по запуску нового сайта: что нужно учесть?](https://sd.blackball.lv/articles/read/19919)
 - [Вождь разрабчьей стаи](https://sd.blackball.lv/articles/read/19918)
 - [Резервное копирование на GitHub: топ-10 правил и рекомендаций](https://sd.blackball.lv/articles/read/19917)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Забудьте про Go и Rust: MoonBit - новый король WebAssembly](https://sd.blackball.lv/articles/read/19914)
 - [Что такое Material Design и почему он так популярен](https://sd.blackball.lv/articles/read/19913)
 - [Пользовательские интерфейсы в упадке](https://sd.blackball.lv/articles/read/19912)
-- [Kanban VS Scrum: в чем разница](https://sd.blackball.lv/articles/read/19911)
-- [5 ошибок при разработке высоконагруженных сервисов](https://sd.blackball.lv/articles/read/19910)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
