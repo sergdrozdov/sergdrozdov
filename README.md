@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Through Obscurity: A Critical Analysis of Hidden Dangers](https://sd.blackball.lv/articles/read/19902)
 - [Database Partitioning vs. Sharding vs. Replication](https://sd.blackball.lv/articles/read/19895)
 - [Memory Caching in .NET - Boost your app&#39;s performance](https://sd.blackball.lv/articles/read/19922)
 - [300+ вопросов по JavaScript на собеседовании](https://sd.blackball.lv/articles/read/19906)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Когда устал от алгоритмов: Ревью кода на собеседовании](https://sd.blackball.lv/articles/read/19916)
 - [«Если честно, уже хочется выть»: вот что бесит айтишников в IT](https://sd.blackball.lv/articles/read/19915)
 - [Забудьте про Go и Rust: MoonBit - новый король WebAssembly](https://sd.blackball.lv/articles/read/19914)
-- [Что такое Material Design и почему он так популярен](https://sd.blackball.lv/articles/read/19913)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
