@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy .NET apps using Docker: A comprehensive guide](https://sd.blackball.lv/articles/read/19921)
+- [What it is a T-Shaped developer &lpar;And why you should be one&rpar;](https://sd.blackball.lv/articles/read/19931)
 - [С чего начать изучать программирование?](https://sd.blackball.lv/articles/read/19930)
 - [Security Through Obscurity &lpar;STO&rpar;: History, criticism &amp; risks](https://sd.blackball.lv/articles/read/19903)
 - [Get started with Docker on Windows: Easy installation guide](https://sd.blackball.lv/articles/read/19920)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [CSS in HTML emails: How to get started &lpar;without breaking anything&rpar;](https://sd.blackball.lv/articles/read/19897)
 - [Рецепты TypeScript](https://sd.blackball.lv/books/19928)
 - [A Complete Guide to Docker for Operations and Development](https://sd.blackball.lv/books/19927)
-- [Security Through Obscurity: A Critical Analysis of Hidden Dangers](https://sd.blackball.lv/articles/read/19902)
-- [Database Partitioning vs. Sharding vs. Replication](https://sd.blackball.lv/articles/read/19895)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
