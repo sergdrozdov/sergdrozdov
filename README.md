@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pro .NET Memory Management, Second Edition](https://sd.blackball.lv/books/19863)
 - [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
 - [Security Through Obscurity, everything you need to know](https://sd.blackball.lv/articles/read/19904)
 - [HTML5 video API: A guide to video transformation in the browser](https://sd.blackball.lv/articles/read/19937)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [8 проектов NodeJS, которые стоит проверить](https://sd.blackball.lv/articles/read/19935)
 - [Top 14 software development trends for 2025](https://sd.blackball.lv/articles/read/19932)
 - [Micro Frontends in Action](https://sd.blackball.lv/books/19868)
-- [Deploy .NET apps using Docker: A comprehensive guide](https://sd.blackball.lv/articles/read/19921)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
