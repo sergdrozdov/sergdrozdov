@@ -12,6 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 06.02.2025 16:28](https://sd.blackball.lv/news/19942)
+- [Новость 06.02.2025 16:27](https://sd.blackball.lv/news/19941)
+- [Calculating optimistic memory footprint of managed object](https://sd.blackball.lv/articles/read/19929)
 - [Pro .NET Memory Management, Second Edition](https://sd.blackball.lv/books/19863)
 - [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
 - [Security Through Obscurity, everything you need to know](https://sd.blackball.lv/articles/read/19904)
@@ -19,9 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Memory Caching in .NET - Boost your app&#39;s performance](https://sd.blackball.lv/articles/read/19922)
 - [Software | Frameworks | Libraries | Tools cheatsheet](https://sd.blackball.lv/articles/read/19900)
 - [How are microchips made? 🖥️🛠️ CPU manufacturing process steps](https://sd.blackball.lv/video/watch/19936)
-- [8 проектов NodeJS, которые стоит проверить](https://sd.blackball.lv/articles/read/19935)
-- [Top 14 software development trends for 2025](https://sd.blackball.lv/articles/read/19932)
-- [Micro Frontends in Action](https://sd.blackball.lv/books/19868)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
