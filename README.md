@@ -28,6 +28,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 * [Blackball](https://blackball.lv/) - *entertainment portal.*
 * [Blog](https://sd.blackball.lv/) - *data science blog (books, articles, videos).*
 * [Geolocation Assistant](https://geodata.blackball.lv/) - *geolocation by IP, hostname or geotagged photo.*
+* [Mail Daemon](https://github.com/sergdrozdov/MailDaemon) - *mail sending utility with configurable settings.*
 * [Codebase](https://codebase.blackball.lv/) - *a project to share the source code of my tests and experiments.*
 * [Amerikas Auto](https://amerikasauto.com/) - *car company to service and certificate vehicles from America and Europe.*
 * [Transport Certification Center](https://autosc.site/) - *vehicles certification company.*
