@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the optimal number of recruiters for your company?](https://sd.blackball.lv/articles/read/19947)
+- [On the penomenon of bullshit jobs: A work rant by David Graeber](https://sd.blackball.lv/articles/read/19946)
 - [Architecting ASP.NET Core Applications, 3rd Edition](https://sd.blackball.lv/books/19642)
 - [Blazor vs. React: A comprehensive comparison in 2025](https://sd.blackball.lv/articles/read/19943)
 - [HTML5 video API: A guide to video transformation in the browser](https://sd.blackball.lv/articles/read/19937)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Pro .NET Memory Management, Second Edition](https://sd.blackball.lv/books/19863)
 - [Understanding OData: Building RESTful APIs with .NET](https://sd.blackball.lv/articles/read/19657)
 - [Security Through Obscurity, everything you need to know](https://sd.blackball.lv/articles/read/19904)
-- [Memory Caching in .NET - Boost your app&#39;s performance](https://sd.blackball.lv/articles/read/19922)
-- [Software | Frameworks | Libraries | Tools cheatsheet](https://sd.blackball.lv/articles/read/19900)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
