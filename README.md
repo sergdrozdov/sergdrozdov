@@ -21,7 +21,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Blazor vs. React: A comprehensive comparison in 2025](https://sd.blackball.lv/articles/read/19943)
 - [HTML5 video API: A guide to video transformation in the browser](https://sd.blackball.lv/articles/read/19937)
 - [Top 14 software development trends for 2025](https://sd.blackball.lv/articles/read/19932)
-- [Calculating optimistic memory footprint of managed object](https://sd.blackball.lv/articles/read/19929)
+- [Going to the Gemba in Software and Product Development](https://sd.blackball.lv/articles/read/19940)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
