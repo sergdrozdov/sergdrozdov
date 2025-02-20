@@ -1,5 +1,5 @@
 ## About me
-Hello. I'm result-oriented software engineer with over 20 years of experience specializing in full-stack development. Skilled in back-end/front-end development and distributed systems.
+Hello. I'm result-oriented T-shaped software engineer with over 20 years of experience specializing in full-stack development. Skilled in back-end/front-end development and distributed systems.
 Proficient at designing and implementing scalable and maintainable software solutions. Implemented a lot of projects using different technologies.\
 Web applications development (ASP.NET Web Forms/MVC/Web Pages/Core, PHP), desktop applications (Windows Forms, WPF),
 databases (SQL Server, MySQL, PostgreSQL, MariaDB, SQLite, MongoDB), ORM (Entity Framework, Dapper),
