@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We need T-Shaped full-stack developers](https://sd.blackball.lv/articles/read/19819)
 - [T-Shaped, N-Shaped and M-Shaped skills: Unlock versatility for career success](https://sd.blackball.lv/articles/read/19948)
 - [Software | Frameworks | Libraries | Tools cheatsheet](https://sd.blackball.lv/articles/read/19900)
 - [Azure Adventures with C#](https://sd.blackball.lv/books/19823)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [On the penomenon of bullshit jobs: A work rant by David Graeber](https://sd.blackball.lv/articles/read/19946)
 - [Architecting ASP.NET Core Applications, 3rd Edition](https://sd.blackball.lv/books/19642)
 - [Blazor vs React: Choosing the right framework for your project](https://sd.blackball.lv/articles/read/19945)
-- [Blazor vs React: Detailed comparison](https://sd.blackball.lv/articles/read/19944)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
