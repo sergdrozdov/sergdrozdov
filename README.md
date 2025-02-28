@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Client in C#: Best Practices for Experts](https://sd.blackball.lv/articles/read/19955)
 - [Docker Compose для разработчика](https://sd.blackball.lv/books/19722)
 - [10 popular Document Management Systems &lpar;DMS&rpar;](https://sd.blackball.lv/articles/read/19949)
 - [We need T-Shaped full-stack developers](https://sd.blackball.lv/articles/read/19819)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [What it is a T-Shaped developer &lpar;And why you should be one&rpar;](https://sd.blackball.lv/articles/read/19931)
 - [Axios vs. fetch&lpar;&rpar;: Which is best for making HTTP requests?](https://sd.blackball.lv/articles/read/19899)
 - [What is the optimal number of recruiters for your company?](https://sd.blackball.lv/articles/read/19947)
-- [On the penomenon of bullshit jobs: A work rant by David Graeber](https://sd.blackball.lv/articles/read/19946)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
