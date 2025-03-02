@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How bad management affects employees and your business](https://sd.blackball.lv/articles/read/19957)
+- [Poor management: 21 signs, harmful effects and how to solve them](https://sd.blackball.lv/articles/read/19956)
 - [Blazor vs. React: A comprehensive comparison in 2025](https://sd.blackball.lv/articles/read/19943)
 - [HTTP Client in C#: Best Practices for Experts](https://sd.blackball.lv/articles/read/19955)
+- [Effects of poor management at work: A list of disadvantages](https://sd.blackball.lv/articles/read/19954)
+- [6 signs a company Is badly managed](https://sd.blackball.lv/articles/read/19953)
 - [Docker Compose для разработчика](https://sd.blackball.lv/books/19722)
 - [10 popular Document Management Systems &lpar;DMS&rpar;](https://sd.blackball.lv/articles/read/19949)
 - [We need T-Shaped full-stack developers](https://sd.blackball.lv/articles/read/19819)
 - [T-Shaped, N-Shaped and M-Shaped skills: Unlock versatility for career success](https://sd.blackball.lv/articles/read/19948)
-- [Software | Frameworks | Libraries | Tools cheatsheet](https://sd.blackball.lv/articles/read/19900)
-- [Azure Adventures with C#](https://sd.blackball.lv/books/19823)
-- [What it is a T-Shaped developer &lpar;And why you should be one&rpar;](https://sd.blackball.lv/articles/read/19931)
-- [Axios vs. fetch&lpar;&rpar;: Which is best for making HTTP requests?](https://sd.blackball.lv/articles/read/19899)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
