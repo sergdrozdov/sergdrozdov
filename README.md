@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Как сломался рынок найма и кто теперь на самом деле нас нанимает](https://sd.blackball.lv/articles/read/19962)
+- [HTTP Client in C#: Best Practices for Experts](https://sd.blackball.lv/articles/read/19955)
+- [Recruiters and jobseekers are &#39;ghosting&#39; each other. Why?](https://sd.blackball.lv/articles/read/19961)
+- [The lasting consequences of ghosting in the hiring process](https://sd.blackball.lv/articles/read/19960)
 - [4 powerful impacts a bad manager can cause that will harm your business](https://sd.blackball.lv/articles/read/19958)
 - [How bad management affects employees and your business](https://sd.blackball.lv/articles/read/19957)
 - [Poor management: 21 signs, harmful effects and how to solve them](https://sd.blackball.lv/articles/read/19956)
 - [Blazor vs. React: A comprehensive comparison in 2025](https://sd.blackball.lv/articles/read/19943)
-- [HTTP Client in C#: Best Practices for Experts](https://sd.blackball.lv/articles/read/19955)
 - [Effects of poor management at work: A list of disadvantages](https://sd.blackball.lv/articles/read/19954)
 - [6 signs a company Is badly managed](https://sd.blackball.lv/articles/read/19953)
-- [Docker Compose для разработчика](https://sd.blackball.lv/books/19722)
-- [10 popular Document Management Systems &lpar;DMS&rpar;](https://sd.blackball.lv/articles/read/19949)
-- [We need T-Shaped full-stack developers](https://sd.blackball.lv/articles/read/19819)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
