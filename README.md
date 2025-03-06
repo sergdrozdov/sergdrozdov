@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
+- [«Спасите C++»: отец легендарного языка просит разработчиков о помощи](https://sd.blackball.lv/articles/read/19968)
+- [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
+- [Как сломался рынок найма и кто теперь на самом деле нас нанимает](https://sd.blackball.lv/articles/read/19962)
 - [Top 8 free database design tools for 2025](https://sd.blackball.lv/articles/read/19965)
 - [What is on-demand recruitment?](https://sd.blackball.lv/articles/read/19963)
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://sd.blackball.lv/books/19721)
-- [Как сломался рынок найма и кто теперь на самом деле нас нанимает](https://sd.blackball.lv/articles/read/19962)
 - [HTTP Client in C#: Best Practices for Experts](https://sd.blackball.lv/articles/read/19955)
 - [Recruiters and jobseekers are &#39;ghosting&#39; each other. Why?](https://sd.blackball.lv/articles/read/19961)
 - [The lasting consequences of ghosting in the hiring process](https://sd.blackball.lv/articles/read/19960)
-- [4 powerful impacts a bad manager can cause that will harm your business](https://sd.blackball.lv/articles/read/19958)
-- [How bad management affects employees and your business](https://sd.blackball.lv/articles/read/19957)
-- [Poor management: 21 signs, harmful effects and how to solve them](https://sd.blackball.lv/articles/read/19956)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
