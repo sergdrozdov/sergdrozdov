@@ -12,11 +12,11 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 8 free database design tools for 2025](https://sd.blackball.lv/articles/read/19965)
 - [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
 - [«Спасите C++»: отец легендарного языка просит разработчиков о помощи](https://sd.blackball.lv/articles/read/19968)
 - [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
 - [Как сломался рынок найма и кто теперь на самом деле нас нанимает](https://sd.blackball.lv/articles/read/19962)
-- [Top 8 free database design tools for 2025](https://sd.blackball.lv/articles/read/19965)
 - [What is on-demand recruitment?](https://sd.blackball.lv/articles/read/19963)
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://sd.blackball.lv/books/19721)
 - [HTTP Client in C#: Best Practices for Experts](https://sd.blackball.lv/articles/read/19955)
