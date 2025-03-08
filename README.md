@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [On the penomenon of bullshit jobs: A work rant by David Graeber](https://sd.blackball.lv/articles/read/19946)
 - [Top 8 free database design tools for 2025](https://sd.blackball.lv/articles/read/19965)
 - [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
 - [«Спасите C++»: отец легендарного языка просит разработчиков о помощи](https://sd.blackball.lv/articles/read/19968)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://sd.blackball.lv/books/19721)
 - [HTTP Client in C#: Best Practices for Experts](https://sd.blackball.lv/articles/read/19955)
 - [Recruiters and jobseekers are &#39;ghosting&#39; each other. Why?](https://sd.blackball.lv/articles/read/19961)
-- [The lasting consequences of ghosting in the hiring process](https://sd.blackball.lv/articles/read/19960)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
