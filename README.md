@@ -12,6 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get a list of the properties for the object in C#](https://sd.blackball.lv/articles/read/19978)
+- [Как получить информацию об объекте в C#](https://sd.blackball.lv/articles/read/19977)
+- [The Ultimate Docker Container Book, 3rd Edition](https://sd.blackball.lv/books/19720)
 - [On the penomenon of bullshit jobs: A work rant by David Graeber](https://sd.blackball.lv/articles/read/19946)
 - [Top 8 free database design tools for 2025](https://sd.blackball.lv/articles/read/19965)
 - [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
@@ -19,9 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
 - [Как сломался рынок найма и кто теперь на самом деле нас нанимает](https://sd.blackball.lv/articles/read/19962)
 - [What is on-demand recruitment?](https://sd.blackball.lv/articles/read/19963)
-- [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://sd.blackball.lv/books/19721)
-- [HTTP Client in C#: Best Practices for Experts](https://sd.blackball.lv/articles/read/19955)
-- [Recruiters and jobseekers are &#39;ghosting&#39; each other. Why?](https://sd.blackball.lv/articles/read/19961)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
