@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OWASP: что это такое и что нужно знать веб-разработчикам](https://sd.blackball.lv/articles/read/19980)
+- [Вайб-кодинг: программисты нашли способ зарабатывать, ничего не делая?](https://sd.blackball.lv/articles/read/19979)
+- [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
 - [How to get a list of the properties for the object in C#](https://sd.blackball.lv/articles/read/19978)
 - [Как получить информацию об объекте в C#](https://sd.blackball.lv/articles/read/19977)
 - [The Ultimate Docker Container Book, 3rd Edition](https://sd.blackball.lv/books/19720)
 - [On the penomenon of bullshit jobs: A work rant by David Graeber](https://sd.blackball.lv/articles/read/19946)
 - [Top 8 free database design tools for 2025](https://sd.blackball.lv/articles/read/19965)
-- [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
 - [«Спасите C++»: отец легендарного языка просит разработчиков о помощи](https://sd.blackball.lv/articles/read/19968)
 - [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
-- [Как сломался рынок найма и кто теперь на самом деле нас нанимает](https://sd.blackball.lv/articles/read/19962)
-- [What is on-demand recruitment?](https://sd.blackball.lv/articles/read/19963)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
