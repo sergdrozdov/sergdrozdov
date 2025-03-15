@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the optimal number of recruiters for your company?](https://sd.blackball.lv/articles/read/19947)
 - [How to get a list of the properties for the object in C#](https://sd.blackball.lv/articles/read/19978)
 - [OWASP: что это такое и что нужно знать веб-разработчикам](https://sd.blackball.lv/articles/read/19980)
 - [Вайб-кодинг: программисты нашли способ зарабатывать, ничего не делая?](https://sd.blackball.lv/articles/read/19979)
 - [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
 - [Как получить информацию об объекте в C#](https://sd.blackball.lv/articles/read/19977)
+- [What is cloud migration? Your guide to moving to the cloud](https://sd.blackball.lv/articles/read/19975)
 - [The Ultimate Docker Container Book, 3rd Edition](https://sd.blackball.lv/books/19720)
 - [On the penomenon of bullshit jobs: A work rant by David Graeber](https://sd.blackball.lv/articles/read/19946)
 - [Top 8 free database design tools for 2025](https://sd.blackball.lv/articles/read/19965)
-- [«Спасите C++»: отец легендарного языка просит разработчиков о помощи](https://sd.blackball.lv/articles/read/19968)
-- [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
