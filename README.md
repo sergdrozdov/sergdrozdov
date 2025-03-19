@@ -12,7 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are Differences Between Cookie, Local Storage and Session Storage](https://sd.blackball.lv/articles/read/19923)
+- [Рецепты TypeScript](https://sd.blackball.lv/books/19928)
+- [What are differences between Cookie, Local Storage and Session Storage](https://sd.blackball.lv/articles/read/19923)
 - [Как обезопасить ваш веб-сайт? 13 эффективных советов](https://sd.blackball.lv/articles/read/19986)
 - [Grafana: Погружение в мир данных и визуализации](https://sd.blackball.lv/articles/read/19985)
 - [Погружение в 0.0.0.0 Day: как «нулевой» IP-адрес позволяет взломать локальную сеть](https://sd.blackball.lv/articles/read/19984)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [OWASP: что это такое и что нужно знать веб-разработчикам](https://sd.blackball.lv/articles/read/19980)
 - [Вайб-кодинг: программисты нашли способ зарабатывать, ничего не делая?](https://sd.blackball.lv/articles/read/19979)
 - [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
-- [Как получить информацию об объекте в C#](https://sd.blackball.lv/articles/read/19977)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
