@@ -12,6 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Топ 20 ботов которые постоянно сканируют ваши сайты. Не все из них одинаково полезны](https://sd.blackball.lv/articles/read/19988)
+- [ИИ не оправдал надежд? Бизнес массово отказывается от новых технологий](https://sd.blackball.lv/articles/read/19987)
+- [Как получить информацию об объекте в C#](https://sd.blackball.lv/articles/read/19977)
 - [Рецепты TypeScript](https://sd.blackball.lv/books/19928)
 - [What are differences between Cookie, Local Storage and Session Storage](https://sd.blackball.lv/articles/read/19923)
 - [Как обезопасить ваш веб-сайт? 13 эффективных советов](https://sd.blackball.lv/articles/read/19986)
@@ -19,9 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Погружение в 0.0.0.0 Day: как «нулевой» IP-адрес позволяет взломать локальную сеть](https://sd.blackball.lv/articles/read/19984)
 - [What is the optimal number of recruiters for your company?](https://sd.blackball.lv/articles/read/19947)
 - [How to get a list of the properties for the object in C#](https://sd.blackball.lv/articles/read/19978)
-- [OWASP: что это такое и что нужно знать веб-разработчикам](https://sd.blackball.lv/articles/read/19980)
-- [Вайб-кодинг: программисты нашли способ зарабатывать, ничего не делая?](https://sd.blackball.lv/articles/read/19979)
-- [Система визуализации и мониторинга. Grafana + Prometheus](https://sd.blackball.lv/articles/read/19969)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
