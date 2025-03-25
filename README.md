@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML tutorial: A complete language guide with examples](https://sd.blackball.lv/articles/read/19840)
 - [Blazor vs React: Detailed comparison](https://sd.blackball.lv/articles/read/19944)
 - [SQL remove duplicates: Comprehensive methods and best practices](https://sd.blackball.lv/articles/read/19888)
 - [Новость 20.03.2025 02:44](https://sd.blackball.lv/news/19990)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Как получить информацию об объекте в C#](https://sd.blackball.lv/articles/read/19977)
 - [Рецепты TypeScript](https://sd.blackball.lv/books/19928)
 - [What are differences between Cookie, Local Storage and Session Storage](https://sd.blackball.lv/articles/read/19923)
-- [Как обезопасить ваш веб-сайт? 13 эффективных советов](https://sd.blackball.lv/articles/read/19986)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
