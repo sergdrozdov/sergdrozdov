@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Вайб-кодинг: программисты нашли способ зарабатывать, ничего не делая?](https://sd.blackball.lv/articles/read/19979)
 - [The Complete Developer](https://sd.blackball.lv/books/19485)
 - [YAML tutorial: A complete language guide with examples](https://sd.blackball.lv/articles/read/19840)
 - [Blazor vs React: Detailed comparison](https://sd.blackball.lv/articles/read/19944)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Топ 20 ботов которые постоянно сканируют ваши сайты. Не все из них одинаково полезны](https://sd.blackball.lv/articles/read/19988)
 - [ИИ не оправдал надежд? Бизнес массово отказывается от новых технологий](https://sd.blackball.lv/articles/read/19987)
 - [Как получить информацию об объекте в C#](https://sd.blackball.lv/articles/read/19977)
-- [Рецепты TypeScript](https://sd.blackball.lv/books/19928)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
