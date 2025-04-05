@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blazor vs React: Choosing the right framework for your project](https://sd.blackball.lv/articles/read/19945)
 - [Погружение в 0.0.0.0 Day: как «нулевой» IP-адрес позволяет взломать локальную сеть](https://sd.blackball.lv/articles/read/19984)
 - [Авторизация в ASP.NET Core 8 с помощью ролей &lpar;roles&rpar; и политик &lpar;policies&rpar;](https://sd.blackball.lv/video/watch/19992)
 - [How to establish best practices for document management](https://sd.blackball.lv/articles/read/19952)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [The Complete Developer](https://sd.blackball.lv/books/19485)
 - [YAML tutorial: A complete language guide with examples](https://sd.blackball.lv/articles/read/19840)
 - [Blazor vs React: Detailed comparison](https://sd.blackball.lv/articles/read/19944)
-- [SQL remove duplicates: Comprehensive methods and best practices](https://sd.blackball.lv/articles/read/19888)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
