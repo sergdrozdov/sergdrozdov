@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Node.js, Second Edition](https://sd.blackball.lv/books/19996)
+- [Web Scalability for Startup Engineers](https://sd.blackball.lv/books/19995)
+- [Website development plans](https://sd.blackball.lv/news/19994)
+- [Планы развития сайта](https://sd.blackball.lv/news/19993)
 - [Blazor vs React: Choosing the right framework for your project](https://sd.blackball.lv/articles/read/19945)
 - [Погружение в 0.0.0.0 Day: как «нулевой» IP-адрес позволяет взломать локальную сеть](https://sd.blackball.lv/articles/read/19984)
 - [Авторизация в ASP.NET Core 8 с помощью ролей &lpar;roles&rpar; и политик &lpar;policies&rpar;](https://sd.blackball.lv/video/watch/19992)
 - [How to establish best practices for document management](https://sd.blackball.lv/articles/read/19952)
 - [Going to the Gemba in Software and Product Development](https://sd.blackball.lv/articles/read/19940)
 - [Grafana k6 and ASP.NET Core: A practical guide to Load &amp; Stress Testing](https://sd.blackball.lv/articles/read/19976)
-- [Вайб-кодинг: программисты нашли способ зарабатывать, ничего не делая?](https://sd.blackball.lv/articles/read/19979)
-- [The Complete Developer](https://sd.blackball.lv/books/19485)
-- [YAML tutorial: A complete language guide with examples](https://sd.blackball.lv/articles/read/19840)
-- [Blazor vs React: Detailed comparison](https://sd.blackball.lv/articles/read/19944)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
