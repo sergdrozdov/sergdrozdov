@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating ASP.NET Core 9.0 deployment with a PowerShell script](https://sd.blackball.lv/articles/read/19997)
 - [Practical Node.js, Second Edition](https://sd.blackball.lv/books/19996)
 - [Web Scalability for Startup Engineers](https://sd.blackball.lv/books/19995)
 - [Website development plans](https://sd.blackball.lv/news/19994)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Авторизация в ASP.NET Core 8 с помощью ролей &lpar;roles&rpar; и политик &lpar;policies&rpar;](https://sd.blackball.lv/video/watch/19992)
 - [How to establish best practices for document management](https://sd.blackball.lv/articles/read/19952)
 - [Going to the Gemba in Software and Product Development](https://sd.blackball.lv/articles/read/19940)
-- [Grafana k6 and ASP.NET Core: A practical guide to Load &amp; Stress Testing](https://sd.blackball.lv/articles/read/19976)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
