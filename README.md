@@ -12,9 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scalability for Startup Engineers](https://sd.blackball.lv/books/19995)
 - [Automating ASP.NET Core 9.0 deployment with a PowerShell script](https://sd.blackball.lv/articles/read/19997)
 - [Practical Node.js, Second Edition](https://sd.blackball.lv/books/19996)
-- [Web Scalability for Startup Engineers](https://sd.blackball.lv/books/19995)
 - [Website development plans](https://sd.blackball.lv/news/19994)
 - [Планы развития сайта](https://sd.blackball.lv/news/19993)
 - [Blazor vs React: Choosing the right framework for your project](https://sd.blackball.lv/articles/read/19945)
