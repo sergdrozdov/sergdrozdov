@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Grafana: Погружение в мир данных и визуализации](https://sd.blackball.lv/articles/read/19985)
+- [Ageism haunts some tech workers in the race to get hired](https://sd.blackball.lv/articles/read/20007)
+- [Мои 7 правил при собеседовании разработчиков](https://sd.blackball.lv/articles/read/20006)
+- [Почему As Code — это не просто тренд, а новая реальность разработки](https://sd.blackball.lv/articles/read/20005)
+- [Как сделать полезный дашборд: советы и идеи](https://sd.blackball.lv/articles/read/20004)
+- [WAF и RASP: в чём разница и что лучше для безопасности веб-приложений](https://sd.blackball.lv/articles/read/20003)
+- [Не одними Unity и Unreal Engine. Альтернативные игровые движки](https://sd.blackball.lv/articles/read/20001)
+- [The tech industry has an ageism problem - here&#39;s why that matters to us all](https://sd.blackball.lv/articles/read/19999)
+- [Почему программисты не стареют: эффект кодера после 40](https://sd.blackball.lv/articles/read/19998)
 - [Web Scalability for Startup Engineers](https://sd.blackball.lv/books/19995)
-- [Automating ASP.NET Core 9.0 deployment with a PowerShell script](https://sd.blackball.lv/articles/read/19997)
-- [Practical Node.js, Second Edition](https://sd.blackball.lv/books/19996)
-- [Website development plans](https://sd.blackball.lv/news/19994)
-- [Планы развития сайта](https://sd.blackball.lv/news/19993)
-- [Blazor vs React: Choosing the right framework for your project](https://sd.blackball.lv/articles/read/19945)
-- [Погружение в 0.0.0.0 Day: как «нулевой» IP-адрес позволяет взломать локальную сеть](https://sd.blackball.lv/articles/read/19984)
-- [Авторизация в ASP.NET Core 8 с помощью ролей &lpar;roles&rpar; и политик &lpar;policies&rpar;](https://sd.blackball.lv/video/watch/19992)
-- [How to establish best practices for document management](https://sd.blackball.lv/articles/read/19952)
-- [Going to the Gemba in Software and Product Development](https://sd.blackball.lv/articles/read/19940)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
