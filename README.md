@@ -12,6 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the power of View Components in ASP.NET Core](https://sd.blackball.lv/articles/read/19959)
+- [Web Dynamics prototype with .NET 9](https://sd.blackball.lv/news/20009)
+- [Прототип Web Dynamics с .NET 9](https://sd.blackball.lv/news/20008)
 - [Grafana: Погружение в мир данных и визуализации](https://sd.blackball.lv/articles/read/19985)
 - [Ageism haunts some tech workers in the race to get hired](https://sd.blackball.lv/articles/read/20007)
 - [Мои 7 правил при собеседовании разработчиков](https://sd.blackball.lv/articles/read/20006)
@@ -19,9 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Как сделать полезный дашборд: советы и идеи](https://sd.blackball.lv/articles/read/20004)
 - [WAF и RASP: в чём разница и что лучше для безопасности веб-приложений](https://sd.blackball.lv/articles/read/20003)
 - [Не одними Unity и Unreal Engine. Альтернативные игровые движки](https://sd.blackball.lv/articles/read/20001)
-- [The tech industry has an ageism problem - here&#39;s why that matters to us all](https://sd.blackball.lv/articles/read/19999)
-- [Почему программисты не стареют: эффект кодера после 40](https://sd.blackball.lv/articles/read/19998)
-- [Web Scalability for Startup Engineers](https://sd.blackball.lv/books/19995)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
