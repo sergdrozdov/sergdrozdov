@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Node.js, Second Edition](https://sd.blackball.lv/books/19996)
 - [Unlocking the power of View Components in ASP.NET Core](https://sd.blackball.lv/articles/read/19959)
 - [How to repair SQL database using DBCC CHECKDB command?](https://sd.blackball.lv/articles/read/20010)
 - [Soft skills: definition + 50 examples](https://sd.blackball.lv/articles/read/19933)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Ageism haunts some tech workers in the race to get hired](https://sd.blackball.lv/articles/read/20007)
 - [Мои 7 правил при собеседовании разработчиков](https://sd.blackball.lv/articles/read/20006)
 - [Почему As Code — это не просто тренд, а новая реальность разработки](https://sd.blackball.lv/articles/read/20005)
-- [Как сделать полезный дашборд: советы и идеи](https://sd.blackball.lv/articles/read/20004)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
