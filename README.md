@@ -12,10 +12,10 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to repair SQL database using DBCC CHECKDB command?](https://sd.blackball.lv/articles/read/20010)
 - [Как обезопасить ваш веб-сайт? 13 эффективных советов](https://sd.blackball.lv/articles/read/19986)
 - [Practical Node.js, Second Edition](https://sd.blackball.lv/books/19996)
 - [Unlocking the power of View Components in ASP.NET Core](https://sd.blackball.lv/articles/read/19959)
-- [How to repair SQL database using DBCC CHECKDB command?](https://sd.blackball.lv/articles/read/20010)
 - [Soft skills: definition + 50 examples](https://sd.blackball.lv/articles/read/19933)
 - [Web Dynamics prototype with .NET 9](https://sd.blackball.lv/news/20009)
 - [Прототип Web Dynamics с .NET 9](https://sd.blackball.lv/news/20008)
