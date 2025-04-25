@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to implement effective Rate Limiting in application design](https://sd.blackball.lv/articles/read/19974)
 - [ИИ не оправдал надежд? Бизнес массово отказывается от новых технологий](https://sd.blackball.lv/articles/read/19987)
 - [Я создал приложение на 10 разных JavaScript фреймворках. Какой лучше?](https://sd.blackball.lv/video/watch/20011)
 - [T-Shaped, N-Shaped and M-Shaped skills: Unlock versatility for career success](https://sd.blackball.lv/articles/read/19948)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Unlocking the power of View Components in ASP.NET Core](https://sd.blackball.lv/articles/read/19959)
 - [Soft skills: definition + 50 examples](https://sd.blackball.lv/articles/read/19933)
 - [Web Dynamics prototype with .NET 9](https://sd.blackball.lv/news/20009)
-- [Прототип Web Dynamics с .NET 9](https://sd.blackball.lv/news/20008)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
