@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Топ 20 ботов которые постоянно сканируют ваши сайты. Не все из них одинаково полезны](https://sd.blackball.lv/articles/read/19988)
 - [What is Separation Of Concerns?](https://sd.blackball.lv/articles/read/19891)
 - [10 popular Document Management Systems &lpar;DMS&rpar;](https://sd.blackball.lv/articles/read/19949)
 - [How to implement effective Rate Limiting in application design](https://sd.blackball.lv/articles/read/19974)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [How to repair SQL database using DBCC CHECKDB command?](https://sd.blackball.lv/articles/read/20010)
 - [Как обезопасить ваш веб-сайт? 13 эффективных советов](https://sd.blackball.lv/articles/read/19986)
 - [Practical Node.js, Second Edition](https://sd.blackball.lv/books/19996)
-- [Unlocking the power of View Components in ASP.NET Core](https://sd.blackball.lv/articles/read/19959)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
