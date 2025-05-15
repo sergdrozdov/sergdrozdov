@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Не одними Unity и Unreal Engine. Альтернативные игровые движки](https://sd.blackball.lv/articles/read/20001)
 - [Effects of poor management at work: A list of disadvantages](https://sd.blackball.lv/articles/read/19954)
 - [5 продвинутых паттернов в React](https://sd.blackball.lv/video/watch/20021)
 - [Почему программисты не стареют: эффект кодера после 40](https://sd.blackball.lv/articles/read/19998)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Job Market](https://sd.blackball.lv/news/20013)
 - [Job Market](https://sd.blackball.lv/news/20012)
 - [Топ 20 ботов которые постоянно сканируют ваши сайты. Не все из них одинаково полезны](https://sd.blackball.lv/articles/read/19988)
-- [What is Separation Of Concerns?](https://sd.blackball.lv/articles/read/19891)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
