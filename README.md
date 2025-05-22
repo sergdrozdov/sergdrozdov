@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WAF и RASP: в чём разница и что лучше для безопасности веб-приложений](https://sd.blackball.lv/articles/read/20003)
 - [Poor management: 21 signs, harmful effects and how to solve them](https://sd.blackball.lv/articles/read/19956)
 - [Не одними Unity и Unreal Engine. Альтернативные игровые движки](https://sd.blackball.lv/articles/read/20001)
 - [Effects of poor management at work: A list of disadvantages](https://sd.blackball.lv/articles/read/19954)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Новость 04.05.2025 02:22](https://sd.blackball.lv/news/20014)
 - [6 signs a company Is badly managed](https://sd.blackball.lv/articles/read/19953)
 - [Job Market](https://sd.blackball.lv/news/20013)
-- [Job Market](https://sd.blackball.lv/news/20012)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
