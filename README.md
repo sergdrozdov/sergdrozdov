@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IBM laid off 8,000 employees to replace them with AI, but what they didn’t expect was having to rehire as many due to AI](https://sd.blackball.lv/articles/read/20022)
 - [How bad management affects employees and your business](https://sd.blackball.lv/articles/read/19957)
 - [WAF и RASP: в чём разница и что лучше для безопасности веб-приложений](https://sd.blackball.lv/articles/read/20003)
 - [Poor management: 21 signs, harmful effects and how to solve them](https://sd.blackball.lv/articles/read/19956)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Почему программисты не стареют: эффект кодера после 40](https://sd.blackball.lv/articles/read/19998)
 - [Новость 04.05.2025 02:22](https://sd.blackball.lv/news/20015)
 - [Новость 04.05.2025 02:22](https://sd.blackball.lv/news/20014)
-- [6 signs a company Is badly managed](https://sd.blackball.lv/articles/read/19953)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
