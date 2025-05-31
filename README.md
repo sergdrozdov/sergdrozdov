@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 powerful impacts a bad manager can cause that will harm your business](https://sd.blackball.lv/articles/read/19958)
 - [Как сделать полезный дашборд: советы и идеи](https://sd.blackball.lv/articles/read/20004)
 - [IBM laid off 8,000 employees to replace them with AI, but what they didn’t expect was having to rehire as many due to AI](https://sd.blackball.lv/articles/read/20022)
 - [How bad management affects employees and your business](https://sd.blackball.lv/articles/read/19957)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Effects of poor management at work: A list of disadvantages](https://sd.blackball.lv/articles/read/19954)
 - [5 продвинутых паттернов в React](https://sd.blackball.lv/video/watch/20021)
 - [Почему программисты не стареют: эффект кодера после 40](https://sd.blackball.lv/articles/read/19998)
-- [Новость 04.05.2025 02:22](https://sd.blackball.lv/news/20015)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
