@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The lasting consequences of ghosting in the hiring process](https://sd.blackball.lv/articles/read/19960)
 - [Почему As Code — это не просто тренд, а новая реальность разработки](https://sd.blackball.lv/articles/read/20005)
 - [4 powerful impacts a bad manager can cause that will harm your business](https://sd.blackball.lv/articles/read/19958)
 - [Как сделать полезный дашборд: советы и идеи](https://sd.blackball.lv/articles/read/20004)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Poor management: 21 signs, harmful effects and how to solve them](https://sd.blackball.lv/articles/read/19956)
 - [Не одними Unity и Unreal Engine. Альтернативные игровые движки](https://sd.blackball.lv/articles/read/20001)
 - [Effects of poor management at work: A list of disadvantages](https://sd.blackball.lv/articles/read/19954)
-- [5 продвинутых паттернов в React](https://sd.blackball.lv/video/watch/20021)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
