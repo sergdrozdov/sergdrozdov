@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Execution Plans, Third Edition](https://sd.blackball.lv/books/20019)
 - [What is on-demand recruitment?](https://sd.blackball.lv/articles/read/19963)
 - [Dissecting SQL Server Execution Plans](https://sd.blackball.lv/books/19068)
 - [SQL Server 2022 Query Performance Tuning, Sixth Edition](https://sd.blackball.lv/books/20024)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Почему As Code — это не просто тренд, а новая реальность разработки](https://sd.blackball.lv/articles/read/20005)
 - [4 powerful impacts a bad manager can cause that will harm your business](https://sd.blackball.lv/articles/read/19958)
 - [Как сделать полезный дашборд: советы и идеи](https://sd.blackball.lv/articles/read/20004)
-- [IBM laid off 8,000 employees to replace them with AI, but what they didn’t expect was having to rehire as many due to AI](https://sd.blackball.lv/articles/read/20022)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
