@@ -12,11 +12,11 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server 2022 Query Performance Tuning, Sixth Edition](https://sd.blackball.lv/books/20024)
 - [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
 - [SQL Server Execution Plans, Third Edition](https://sd.blackball.lv/books/20019)
 - [What is on-demand recruitment?](https://sd.blackball.lv/articles/read/19963)
 - [Dissecting SQL Server Execution Plans](https://sd.blackball.lv/books/19068)
-- [SQL Server 2022 Query Performance Tuning, Sixth Edition](https://sd.blackball.lv/books/20024)
 - [Recruiters and jobseekers are &#39;ghosting&#39; each other. Why?](https://sd.blackball.lv/articles/read/19961)
 - [Мои 7 правил при собеседовании разработчиков](https://sd.blackball.lv/articles/read/20006)
 - [The lasting consequences of ghosting in the hiring process](https://sd.blackball.lv/articles/read/19960)
