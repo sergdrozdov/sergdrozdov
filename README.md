@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is cloud migration? Your guide to moving to the cloud](https://sd.blackball.lv/articles/read/19975)
 - [Different Types of Testing in Software Testing: A Full Guide](https://sd.blackball.lv/articles/read/20025)
 - [SQL Server 2022 Query Performance Tuning, Sixth Edition](https://sd.blackball.lv/books/20024)
 - [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Recruiters and jobseekers are &#39;ghosting&#39; each other. Why?](https://sd.blackball.lv/articles/read/19961)
 - [Мои 7 правил при собеседовании разработчиков](https://sd.blackball.lv/articles/read/20006)
 - [The lasting consequences of ghosting in the hiring process](https://sd.blackball.lv/articles/read/19960)
-- [Почему As Code — это не просто тренд, а новая реальность разработки](https://sd.blackball.lv/articles/read/20005)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
