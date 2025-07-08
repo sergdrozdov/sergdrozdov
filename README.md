@@ -12,8 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is cloud migration? Your guide to moving to the cloud](https://sd.blackball.lv/articles/read/19975)
 - [Different Types of Testing in Software Testing: A Full Guide](https://sd.blackball.lv/articles/read/20025)
+- [What is cloud migration? Your guide to moving to the cloud](https://sd.blackball.lv/articles/read/19975)
 - [SQL Server 2022 Query Performance Tuning, Sixth Edition](https://sd.blackball.lv/books/20024)
 - [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
 - [SQL Server Execution Plans, Third Edition](https://sd.blackball.lv/books/20019)
