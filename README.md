@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://sd.blackball.lv/articles/read/20027)
 - [Ageism haunts some tech workers in the race to get hired](https://sd.blackball.lv/articles/read/20007)
 - [Breaking business myths: Building a family friendly workplace in New Mexico](https://sd.blackball.lv/articles/read/20026)
 - [The tech industry has an ageism problem - here&#39;s why that matters to us all](https://sd.blackball.lv/articles/read/19999)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [SQL Server 2022 Query Performance Tuning, Sixth Edition](https://sd.blackball.lv/books/20024)
 - [A guide to mitigating the risk of failed employee relocation](https://sd.blackball.lv/articles/read/19967)
 - [SQL Server Execution Plans, Third Edition](https://sd.blackball.lv/books/20019)
-- [What is on-demand recruitment?](https://sd.blackball.lv/articles/read/19963)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
