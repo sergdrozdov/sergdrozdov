@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Garbage Collector в .NET: как работает и зачем нужен?](https://sd.blackball.lv/articles/read/20030)
+- [How to Increase SQL Server Column Width Without IO &lpar;Input/Output&rpar; Overhead](https://sd.blackball.lv/articles/read/20029)
 - [IBM laid off 8,000 employees to replace them with AI, but what they didn’t expect was having to rehire as many due to AI](https://sd.blackball.lv/articles/read/20022)
 - [Business Analyst - one of the most harmful roles in software engineering](https://sd.blackball.lv/articles/read/20002)
 - [The Top 5 types of Software Engineering interviews](https://sd.blackball.lv/articles/read/20028)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Ageism haunts some tech workers in the race to get hired](https://sd.blackball.lv/articles/read/20007)
 - [Breaking business myths: Building a family friendly workplace in New Mexico](https://sd.blackball.lv/articles/read/20026)
 - [The tech industry has an ageism problem - here&#39;s why that matters to us all](https://sd.blackball.lv/articles/read/19999)
-- [The complete guide to Five Second Testing &lpar;It’s easier than you think&rpar;](https://sd.blackball.lv/articles/read/19973)
-- [Different Types of Testing in Software Testing: A Full Guide](https://sd.blackball.lv/articles/read/20025)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
