@@ -12,8 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Garbage Collector в .NET: как работает и зачем нужен?](https://sd.blackball.lv/articles/read/20030)
 - [How to Increase SQL Server Column Width Without IO &lpar;Input/Output&rpar; Overhead](https://sd.blackball.lv/articles/read/20029)
+- [Garbage Collector в .NET: как работает и зачем нужен?](https://sd.blackball.lv/articles/read/20030)
 - [IBM laid off 8,000 employees to replace them with AI, but what they didn’t expect was having to rehire as many due to AI](https://sd.blackball.lv/articles/read/20022)
 - [Business Analyst - one of the most harmful roles in software engineering](https://sd.blackball.lv/articles/read/20002)
 - [The Top 5 types of Software Engineering interviews](https://sd.blackball.lv/articles/read/20028)
