@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing your champion: Python vs C#](https://sd.blackball.lv/articles/read/20020)
 - [How empathy can make you a better Software Engineer](https://sd.blackball.lv/articles/read/20033)
 - [Garbage Collector в .NET: как работает и зачем нужен?](https://sd.blackball.lv/articles/read/20030)
 - [ИИ пишет код быстрее человека. Но каждый второй файл — дыра в безопасности](https://sd.blackball.lv/articles/read/20032)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Business Analyst - one of the most harmful roles in software engineering](https://sd.blackball.lv/articles/read/20002)
 - [The Top 5 types of Software Engineering interviews](https://sd.blackball.lv/articles/read/20028)
 - [What’s an “A” Player?](https://sd.blackball.lv/articles/read/20000)
-- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://sd.blackball.lv/articles/read/20027)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
