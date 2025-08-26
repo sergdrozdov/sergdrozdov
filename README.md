@@ -12,9 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Composable Architecture? A comprehensive guide](https://sd.blackball.lv/articles/read/20034)
 - [Новость 24.08.2025 01:50](https://sd.blackball.lv/news/20037)
 - [Новость 24.08.2025 01:50](https://sd.blackball.lv/news/20036)
-- [What is Composable Architecture? A comprehensive guide](https://sd.blackball.lv/articles/read/20034)
 - [Choosing your champion: Python vs C#](https://sd.blackball.lv/articles/read/20020)
 - [How empathy can make you a better Software Engineer](https://sd.blackball.lv/articles/read/20033)
 - [Garbage Collector в .NET: как работает и зачем нужен?](https://sd.blackball.lv/articles/read/20030)
