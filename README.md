@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 27.08.2025 07:17](https://sd.blackball.lv/news/20039)
+- [Новость 27.08.2025 07:11](https://sd.blackball.lv/news/20038)
 - [What is Composable Architecture? A comprehensive guide](https://sd.blackball.lv/articles/read/20034)
 - [Новость 24.08.2025 01:50](https://sd.blackball.lv/news/20037)
 - [Новость 24.08.2025 01:50](https://sd.blackball.lv/news/20036)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Garbage Collector в .NET: как работает и зачем нужен?](https://sd.blackball.lv/articles/read/20030)
 - [ИИ пишет код быстрее человека. Но каждый второй файл — дыра в безопасности](https://sd.blackball.lv/articles/read/20032)
 - [Как освоить программирование с нуля: от первого кода до первой зарплаты](https://sd.blackball.lv/articles/read/20031)
-- [How to Increase SQL Server Column Width Without IO &lpar;Input/Output&rpar; Overhead](https://sd.blackball.lv/articles/read/20029)
-- [IBM laid off 8,000 employees to replace them with AI, but what they didn’t expect was having to rehire as many due to AI](https://sd.blackball.lv/articles/read/20022)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
