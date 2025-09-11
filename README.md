@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Новость 10.09.2025 14:02](https://sd.blackball.lv/en/news/20047)
+- [Новость 10.09.2025 14:00](https://sd.blackball.lv/en/news/20046)
 - [C# Concurrency: Asynchronous and Multithreaded Programming](https://sd.blackball.lv/en/books/20044-csharp-concurrency-2026)
 - [.NET 8: приложения и сервисы, 2-е изд.](https://sd.blackball.lv/en/books/20042-net-8-prilozhenija-i-servisy-2-izdanie-2025)
 - [Профессия: Руthоn-разработчик](https://sd.blackball.lv/en/books/20041-python-razrabotchik-2025)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Breaking business myths: Building a family friendly workplace in New Mexico](https://sd.blackball.lv/en/articles/read/20026-breaking-business-myths-building-a-family-friendly-workplace)
 - [Python vs. C#: A Comprehensive Guide for 2025](https://sd.blackball.lv/en/articles/read/20035-python-vs-csharp-a-comprehensive-guide-for-2025)
 - [What is a Minimum Lovable Product? Comparing and contrasting MVP vs MLP vs MMP](https://sd.blackball.lv/en/articles/read/20016-what-is-a-minimum-lovable-product-mvp-vs-mlp-vs-mmp)
-- [Новость 27.08.2025 07:17](https://sd.blackball.lv/en/news/20039)
-- [Новость 27.08.2025 07:11](https://sd.blackball.lv/en/news/20038)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
