@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data first: Why data models and storage outlast frameworks and languages](https://sd.blackball.lv/en/articles/read/20050-data-first-why-data-models-and-storage-outlast-frameworks-and-languages)
+- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://sd.blackball.lv/en/articles/read/20027-measuring-the-impact-of-early-2025-ai-on-experienced-open-source-developer-productivity)
 - [Новость 12.09.2025 03:11](https://sd.blackball.lv/en/news/20049)
 - [Новость 12.09.2025 03:10](https://sd.blackball.lv/en/news/20048)
 - [Data Integration Patterns](https://sd.blackball.lv/en/articles/read/20040-data-integration-patterns)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [C# Concurrency: Asynchronous and Multithreaded Programming](https://sd.blackball.lv/en/books/20044-csharp-concurrency-2026)
 - [.NET 8: приложения и сервисы, 2-е изд.](https://sd.blackball.lv/en/books/20042-net-8-prilozhenija-i-servisy-2-izdanie-2025)
 - [Профессия: Руthоn-разработчик](https://sd.blackball.lv/en/books/20041-python-razrabotchik-2025)
-- [What is Entity-Attribute-Value Model &lpar;EAV&rpar;?](https://sd.blackball.lv/en/articles/read/20018-what-is-entity-attribute-value-model)
-- [Breaking business myths: Building a family friendly workplace in New Mexico](https://sd.blackball.lv/en/articles/read/20026-breaking-business-myths-building-a-family-friendly-workplace)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
