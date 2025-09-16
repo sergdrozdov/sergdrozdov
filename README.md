@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Major update release](https://sd.blackball.lv/en/news/20054)
+- [Релиз большого обновления](https://sd.blackball.lv/en/news/20053)
 - [Pre-release](https://sd.blackball.lv/en/news/20052)
 - [Предварительный релиз](https://sd.blackball.lv/en/news/20051)
 - [Data first: Why data models and storage outlast frameworks and languages](https://sd.blackball.lv/en/articles/read/20050-data-first-why-data-models-and-storage-outlast-frameworks-and-languages)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Новость 12.09.2025 03:10](https://sd.blackball.lv/en/news/20048)
 - [Data Integration Patterns](https://sd.blackball.lv/en/articles/read/20040-data-integration-patterns)
 - [Новость 10.09.2025 14:02](https://sd.blackball.lv/en/news/20047)
-- [Новость 10.09.2025 14:00](https://sd.blackball.lv/en/news/20046)
-- [C# Concurrency: Asynchronous and Multithreaded Programming](https://sd.blackball.lv/en/books/20044-csharp-concurrency-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
