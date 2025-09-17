@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Профессия: Руthоn-разработчик](https://sd.blackball.lv/books/20041-python-razrabotchik-2025)
 - [Major update release](https://sd.blackball.lv/en/news/20054)
 - [Релиз большого обновления](https://sd.blackball.lv/en/news/20053)
 - [Pre-release](https://sd.blackball.lv/en/news/20052)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Новость 12.09.2025 03:11](https://sd.blackball.lv/en/news/20049)
 - [Новость 12.09.2025 03:10](https://sd.blackball.lv/en/news/20048)
 - [Data Integration Patterns](https://sd.blackball.lv/en/articles/read/20040-data-integration-patterns)
-- [Новость 10.09.2025 14:02](https://sd.blackball.lv/en/news/20047)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
