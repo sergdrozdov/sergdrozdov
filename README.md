@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Agentic AI is Transforming SEO: A New Era of Optimization](https://sd.blackball.lv/en/articles/read/20055-how-is-agentic-ai-transforming-seo-in-2025)
 - [The Top 5 types of Software Engineering interviews](https://sd.blackball.lv/en/articles/read/20028-the-top-5-types-of-software-engineering-interviews)
 - [Профессия: Руthоn-разработчик](https://sd.blackball.lv/en/books/20041-python-razrabotchik-2025)
 - [Major update release](https://sd.blackball.lv/en/news/20054)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Data first: Why data models and storage outlast frameworks and languages](https://sd.blackball.lv/en/articles/read/20050-data-first-why-data-models-and-storage-outlast-frameworks-and-languages)
 - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://sd.blackball.lv/en/articles/read/20027-measuring-the-impact-of-early-2025-ai-on-experienced-open-source-developer-productivity)
 - [Новость 12.09.2025 03:11](https://sd.blackball.lv/en/news/20049)
-- [Новость 12.09.2025 03:10](https://sd.blackball.lv/en/news/20048)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
