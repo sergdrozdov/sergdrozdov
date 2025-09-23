@@ -12,7 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Agentic AI is Transforming SEO: A New Era of Optimization](https://sd.blackball.lv/en/articles/read/20055-how-is-agentic-ai-transforming-seo-in-2025)
+- [How Agentic AI is transforming SEO: A new era of optimization](https://sd.blackball.lv/en/articles/read/20055-how-is-agentic-ai-transforming-seo-in-2025)
 - [The Top 5 types of Software Engineering interviews](https://sd.blackball.lv/en/articles/read/20028-the-top-5-types-of-software-engineering-interviews)
 - [Профессия: Руthоn-разработчик](https://sd.blackball.lv/en/books/20041-python-razrabotchik-2025)
 - [Major update release](https://sd.blackball.lv/en/news/20054)
