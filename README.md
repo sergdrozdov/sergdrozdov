@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
+- [Почему вы никогда не выучите все фреймворки](https://sd.blackball.lv/articles/read/20057-pochemu-vy-nikogda-ne-vyuchite-vse-frejmvorki)
+- [API security best ways implemented in .NET Core API](https://sd.blackball.lv/en/articles/read/20056-api-security-best-ways-implemented-in-dotnet-core-api)
+- [.NET 8: приложения и сервисы, 2-е изд.](https://sd.blackball.lv/en/books/20042-net-8-prilozhenija-i-servisy-2-izdanie-2025)
 - [How Agentic AI is transforming SEO: A new era of optimization](https://sd.blackball.lv/en/articles/read/20055-how-is-agentic-ai-transforming-seo-in-2025)
 - [The Top 5 types of Software Engineering interviews](https://sd.blackball.lv/en/articles/read/20028-the-top-5-types-of-software-engineering-interviews)
 - [Профессия: Руthоn-разработчик](https://sd.blackball.lv/en/books/20041-python-razrabotchik-2025)
 - [Major update release](https://sd.blackball.lv/en/news/20054)
 - [Релиз большого обновления](https://sd.blackball.lv/en/news/20053)
 - [Pre-release](https://sd.blackball.lv/en/news/20052)
-- [Предварительный релиз](https://sd.blackball.lv/en/news/20051)
-- [Data first: Why data models and storage outlast frameworks and languages](https://sd.blackball.lv/en/articles/read/20050-data-first-why-data-models-and-storage-outlast-frameworks-and-languages)
-- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://sd.blackball.lv/en/articles/read/20027-measuring-the-impact-of-early-2025-ai-on-experienced-open-source-developer-productivity)
-- [Новость 12.09.2025 03:11](https://sd.blackball.lv/en/news/20049)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
