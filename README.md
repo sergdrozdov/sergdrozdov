@@ -12,8 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
 - [Почему вы никогда не выучите все фреймворки](https://sd.blackball.lv/articles/read/20057-pochemu-vy-nikogda-ne-vyuchite-vse-frejmvorki)
+- [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
 - [API security best ways implemented in .NET Core API](https://sd.blackball.lv/en/articles/read/20056-api-security-best-ways-implemented-in-dotnet-core-api)
 - [.NET 8: приложения и сервисы, 2-е изд.](https://sd.blackball.lv/en/books/20042-net-8-prilozhenija-i-servisy-2-izdanie-2025)
 - [How Agentic AI is transforming SEO: A new era of optimization](https://sd.blackball.lv/en/articles/read/20055-how-is-agentic-ai-transforming-seo-in-2025)
