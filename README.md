@@ -12,8 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTTP-методы без мистики: что нужно сайту по умолчанию](https://sd.blackball.lv/articles/read/20061-http-metody-bez-mistiki-chto-nuzhno-sajtu-po-umolchaniju)
-- [Новость 26.09.2025 21:02](https://sd.blackball.lv/en/news/20060)
+- [Новость 27.09.2025 03:20](https://sd.blackball.lv/en/news/20061)
+- [HTTP-методы без мистики: что нужно сайту по умолчанию](https://sd.blackball.lv/en/articles/read/20060-http-metody-bez-mistiki-chto-nuzhno-sajtu-po-umolchaniju)
 - [Новость 26.09.2025 21:01](https://sd.blackball.lv/en/news/20059)
 - [Как освоить программирование с нуля: от первого кода до первой зарплаты](https://sd.blackball.lv/en/articles/read/20031--kak-osvoitj-programmirovanie-s-nulja-ot-pervogo-koda-do-pervoj-zarplaty)
 - [API security best ways implemented in .NET Core API](https://sd.blackball.lv/en/articles/read/20056-api-security-best-ways-implemented-in-dotnet-core-api)
