@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C# Concurrency: Asynchronous and Multithreaded Programming](https://sd.blackball.lv/en/books/20044-csharp-concurrency-2026)
 - [Новость 27.09.2025 03:20](https://sd.blackball.lv/en/news/20061)
 - [HTTP-методы без мистики: что нужно сайту по умолчанию](https://sd.blackball.lv/en/articles/read/20060-http-metody-bez-mistiki-chto-nuzhno-sajtu-po-umolchaniju)
 - [Новость 26.09.2025 21:01](https://sd.blackball.lv/en/news/20059)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/en/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
 - [.NET 8: приложения и сервисы, 2-е изд.](https://sd.blackball.lv/en/books/20042-net-8-prilozhenija-i-servisy-2-izdanie-2025)
 - [How Agentic AI is transforming SEO: A new era of optimization](https://sd.blackball.lv/en/articles/read/20055-how-is-agentic-ai-transforming-seo-in-2025)
-- [The Top 5 types of Software Engineering interviews](https://sd.blackball.lv/en/articles/read/20028-the-top-5-types-of-software-engineering-interviews)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
