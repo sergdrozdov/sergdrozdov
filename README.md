@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ИИ пишет код быстрее человека. Но каждый второй файл — дыра в безопасности](https://sd.blackball.lv/articles/read/20032-ii-pishet-kod-bystree-cheloveka-no-s-dyrami-v-bezopasnosti)
-- [HTTP-методы без мистики: что нужно сайту по умолчанию](https://sd.blackball.lv/articles/read/20060-http-metody-bez-mistiki-chto-nuzhno-sajtu-po-umolchaniju)
+- [ASP.NET Core IIS Local Development &lpar;boilerplate code&rpar;](https://sd.blackball.lv/en/news/20063)
+- [ASP.NET Core IIS Local Development &lpar;boilerplate code&rpar;](https://sd.blackball.lv/en/news/20062)
+- [ИИ пишет код быстрее человека. Но каждый второй файл — дыра в безопасности](https://sd.blackball.lv/en/articles/read/20032-ii-pishet-kod-bystree-cheloveka-no-s-dyrami-v-bezopasnosti)
+- [HTTP-методы без мистики: что нужно сайту по умолчанию](https://sd.blackball.lv/en/articles/read/20060-http-metody-bez-mistiki-chto-nuzhno-sajtu-po-umolchaniju)
 - [C# Concurrency: Asynchronous and Multithreaded Programming](https://sd.blackball.lv/en/books/20044-csharp-concurrency-2026)
 - [Новость 27.09.2025 03:20](https://sd.blackball.lv/en/news/20061)
 - [Новость 26.09.2025 21:01](https://sd.blackball.lv/en/news/20059)
 - [Как освоить программирование с нуля: от первого кода до первой зарплаты](https://sd.blackball.lv/en/articles/read/20031--kak-osvoitj-programmirovanie-s-nulja-ot-pervogo-koda-do-pervoj-zarplaty)
 - [API security best ways implemented in .NET Core API](https://sd.blackball.lv/en/articles/read/20056-api-security-best-ways-implemented-in-dotnet-core-api)
 - [Почему вы никогда не выучите все фреймворки](https://sd.blackball.lv/en/articles/read/20057-pochemu-vy-nikogda-ne-vyuchite-vse-frejmvorki)
-- [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/en/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
-- [.NET 8: приложения и сервисы, 2-е изд.](https://sd.blackball.lv/en/books/20042-net-8-prilozhenija-i-servisy-2-izdanie-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
