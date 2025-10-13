@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Время одиночных разработчиков и микрокоманд: как ИИ съел оргструктуру](https://sd.blackball.lv/articles/read/20079-vremja-odinochnyh-razrabotchikov-i-mikrokomand)
+- [9 из 10 программистов уже пишут код с ИИ, но не доверяют ему](https://sd.blackball.lv/articles/read/20078-9-iz-10-programmistov-uzhe-pishut-kod-s-ii-no-ne-doverjajut-emu)
+- [Java Design Patterns, Third Edition](https://sd.blackball.lv/books/20071-java-design-patterns-third-edition-2022)
+- [Design Patterns in .NET](https://sd.blackball.lv/books/20064-design-patterns-in-dotnet-2019)
 - [How empathy can make you a better Software Engineer](https://sd.blackball.lv/en/articles/read/20033-how-empathy-can-make-you-a-better-software-engineer)
 - [ASP.NET Core IIS Local Development &lpar;boilerplate code&rpar;](https://sd.blackball.lv/en/news/20063)
 - [ASP.NET Core IIS Local Development &lpar;boilerplate code&rpar;](https://sd.blackball.lv/en/news/20062)
 - [ИИ пишет код быстрее человека. Но каждый второй файл — дыра в безопасности](https://sd.blackball.lv/en/articles/read/20032-ii-pishet-kod-bystree-cheloveka-no-s-dyrami-v-bezopasnosti)
 - [HTTP-методы без мистики: что нужно сайту по умолчанию](https://sd.blackball.lv/en/articles/read/20060-http-metody-bez-mistiki-chto-nuzhno-sajtu-po-umolchaniju)
 - [C# Concurrency: Asynchronous and Multithreaded Programming](https://sd.blackball.lv/en/books/20044-csharp-concurrency-2026)
-- [Новость 27.09.2025 03:20](https://sd.blackball.lv/en/news/20061)
-- [Новость 26.09.2025 21:01](https://sd.blackball.lv/en/news/20059)
-- [Как освоить программирование с нуля: от первого кода до первой зарплаты](https://sd.blackball.lv/en/articles/read/20031--kak-osvoitj-programmirovanie-s-nulja-ot-pervogo-koda-do-pervoj-zarplaty)
-- [API security best ways implemented in .NET Core API](https://sd.blackball.lv/en/articles/read/20056-api-security-best-ways-implemented-in-dotnet-core-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
