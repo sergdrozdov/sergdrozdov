@@ -12,8 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [9 из 10 программистов уже пишут код с ИИ, но не доверяют ему](https://sd.blackball.lv/articles/read/20078-9-iz-10-programmistov-uzhe-pishut-kod-s-ii-no-ne-doverjajut-emu)
-- [Design Patterns in .NET](https://sd.blackball.lv/books/20064-design-patterns-in-dotnet-2019)
+- [Data first: Why data models and storage outlast frameworks and languages](https://sd.blackball.lv/en/articles/read/20050-data-first-why-data-models-and-storage-outlast-frameworks-and-languages)
+- [9 из 10 программистов уже пишут код с ИИ, но не доверяют ему](https://sd.blackball.lv/en/articles/read/20078-9-iz-10-programmistov-uzhe-pishut-kod-s-ii-no-ne-doverjajut-emu)
+- [Design Patterns in .NET](https://sd.blackball.lv/en/books/20064-design-patterns-in-dotnet-2019)
 - [Новость 13.10.2025 13:42](https://sd.blackball.lv/en/news/20082)
 - [Новость 13.10.2025 13:41](https://sd.blackball.lv/en/news/20081)
 - [Время одиночных разработчиков и микрокоманд: как ИИ съел оргструктуру](https://sd.blackball.lv/en/articles/read/20079-vremja-odinochnyh-razrabotchikov-i-mikrokomand)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [How empathy can make you a better Software Engineer](https://sd.blackball.lv/en/articles/read/20033-how-empathy-can-make-you-a-better-software-engineer)
 - [ASP.NET Core IIS Local Development &lpar;boilerplate code&rpar;](https://sd.blackball.lv/en/news/20063)
 - [ASP.NET Core IIS Local Development &lpar;boilerplate code&rpar;](https://sd.blackball.lv/en/news/20062)
-- [ИИ пишет код быстрее человека. Но каждый второй файл — дыра в безопасности](https://sd.blackball.lv/en/articles/read/20032-ii-pishet-kod-bystree-cheloveka-no-s-dyrami-v-bezopasnosti)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
