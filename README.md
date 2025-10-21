@@ -25,6 +25,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
+* [Job Market](https://jobmarket.blackball.lv/) - *created for managing CVs, resumes and documents; job seekers community.*
 * [Blackball](https://blackball.lv/) - *entertainment portal.*
 * [Blog](https://sd.blackball.lv/) - *data science blog (books, articles, videos).*
 * [Geolocation Assistant](https://geodata.blackball.lv/) - *geolocation by IP, hostname or geotagged photo.*
