@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Design Patterns, Third Edition](https://sd.blackball.lv/books/20071-java-design-patterns-third-edition-2022)
 - [Pro ASP.NET Core 7, 10th Edition](https://sd.blackball.lv/books/20083-pro-aspnet-core-7-10th-edition-2023)
 - [Data first: Why data models and storage outlast frameworks and languages](https://sd.blackball.lv/en/articles/read/20050-data-first-why-data-models-and-storage-outlast-frameworks-and-languages)
 - [9 из 10 программистов уже пишут код с ИИ, но не доверяют ему](https://sd.blackball.lv/en/articles/read/20078-9-iz-10-programmistov-uzhe-pishut-kod-s-ii-no-ne-doverjajut-emu)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Время одиночных разработчиков и микрокоманд: как ИИ съел оргструктуру](https://sd.blackball.lv/en/articles/read/20079-vremja-odinochnyh-razrabotchikov-i-mikrokomand)
 - [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/en/books/20073-mastering-python-design-patterns-3rd-edition-2024)
 - [Паттерны разработки на Python](https://sd.blackball.lv/en/books/20072-patterny-razrabotki-na-python-2022)
-- [Java Design Patterns, Third Edition](https://sd.blackball.lv/en/books/20071-java-design-patterns-third-edition-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
