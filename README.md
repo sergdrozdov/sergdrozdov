@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
 - [A production-ready version of Job Market](https://sd.blackball.lv/en/news/20086)
 - [Работающая production ready версия Job Market](https://sd.blackball.lv/en/news/20085)
 - [Время одиночных разработчиков и микрокоманд: как ИИ съел оргструктуру](https://sd.blackball.lv/en/articles/read/20079-vremja-odinochnyh-razrabotchikov-i-mikrokomand)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [9 из 10 программистов уже пишут код с ИИ, но не доверяют ему](https://sd.blackball.lv/en/articles/read/20078-9-iz-10-programmistov-uzhe-pishut-kod-s-ii-no-ne-doverjajut-emu)
 - [Design Patterns in .NET](https://sd.blackball.lv/en/books/20064-design-patterns-in-dotnet-2019)
 - [Новость 13.10.2025 13:42](https://sd.blackball.lv/en/news/20082)
-- [Новость 13.10.2025 13:41](https://sd.blackball.lv/en/news/20081)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
