@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/books/20073-mastering-python-design-patterns-3rd-edition-2024)
 - [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
 - [A production-ready version of Job Market](https://sd.blackball.lv/en/news/20086)
 - [Работающая production ready версия Job Market](https://sd.blackball.lv/en/news/20085)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Data first: Why data models and storage outlast frameworks and languages](https://sd.blackball.lv/en/articles/read/20050-data-first-why-data-models-and-storage-outlast-frameworks-and-languages)
 - [9 из 10 программистов уже пишут код с ИИ, но не доверяют ему](https://sd.blackball.lv/en/articles/read/20078-9-iz-10-programmistov-uzhe-pishut-kod-s-ii-no-ne-doverjajut-emu)
 - [Design Patterns in .NET](https://sd.blackball.lv/en/books/20064-design-patterns-in-dotnet-2019)
-- [Новость 13.10.2025 13:42](https://sd.blackball.lv/en/news/20082)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
