@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Паттерны разработки на Python](https://sd.blackball.lv/books/20072-patterny-razrabotki-na-python-2022)
 - [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/books/20073-mastering-python-design-patterns-3rd-edition-2024)
-- [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
+- [Blazor vs. React: Choosing a frontend framework](https://sd.blackball.lv/en/articles/read/20087-blazor-vs-react-choosing-a-frontend-framework)
+- [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/en/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
 - [A production-ready version of Job Market](https://sd.blackball.lv/en/news/20086)
 - [Работающая production ready версия Job Market](https://sd.blackball.lv/en/news/20085)
 - [Время одиночных разработчиков и микрокоманд: как ИИ съел оргструктуру](https://sd.blackball.lv/en/articles/read/20079-vremja-odinochnyh-razrabotchikov-i-mikrokomand)
 - [Java Design Patterns, Third Edition](https://sd.blackball.lv/en/books/20071-java-design-patterns-third-edition-2022)
 - [Pro ASP.NET Core 7, 10th Edition](https://sd.blackball.lv/en/books/20083-pro-aspnet-core-7-10th-edition-2023)
 - [Data first: Why data models and storage outlast frameworks and languages](https://sd.blackball.lv/en/articles/read/20050-data-first-why-data-models-and-storage-outlast-frameworks-and-languages)
-- [9 из 10 программистов уже пишут код с ИИ, но не доверяют ему](https://sd.blackball.lv/en/articles/read/20078-9-iz-10-programmistov-uzhe-pishut-kod-s-ii-no-ne-doverjajut-emu)
-- [Design Patterns in .NET](https://sd.blackball.lv/en/books/20064-design-patterns-in-dotnet-2019)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
