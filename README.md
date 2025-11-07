@@ -12,9 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Паттерны разработки на Python](https://sd.blackball.lv/books/20072-patterny-razrabotki-na-python-2022)
-- [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/books/20073-mastering-python-design-patterns-3rd-edition-2024)
 - [Blazor vs. React: Choosing a frontend framework](https://sd.blackball.lv/en/articles/read/20087-blazor-vs-react-choosing-a-frontend-framework)
+- [Паттерны разработки на Python](https://sd.blackball.lv/en/books/20072-patterny-razrabotki-na-python-2022)
+- [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/en/books/20073-mastering-python-design-patterns-3rd-edition-2024)
 - [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/en/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
 - [A production-ready version of Job Market](https://sd.blackball.lv/en/news/20086)
 - [Работающая production ready версия Job Market](https://sd.blackball.lv/en/news/20085)
