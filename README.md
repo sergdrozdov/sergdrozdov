@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GAMP 5: Computerized System Validation in Pharma](https://sd.blackball.lv/en/articles/read/20095-gamp-5-computerized-system-validation-in-pharma)
 - [Новость 22.11.2025 14:02](https://sd.blackball.lv/en/news/20094)
 - [Новость 22.11.2025 14:00](https://sd.blackball.lv/en/news/20093)
 - [Новость 17.11.2025 14:30](https://sd.blackball.lv/en/news/20092)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Blazor vs. React: Choosing a frontend framework](https://sd.blackball.lv/en/articles/read/20087-blazor-vs-react-choosing-a-frontend-framework)
 - [Паттерны разработки на Python](https://sd.blackball.lv/en/books/20072-patterny-razrabotki-na-python-2022)
 - [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/en/books/20073-mastering-python-design-patterns-3rd-edition-2024)
-- [Как vibe-кодинг ломает ваш проект, если вы не контролируете качество](https://sd.blackball.lv/en/articles/read/20058-kak-vibe-koding-lomaet-vash-proekt-esli-vy-ne-kontroliruete-kachestvo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
