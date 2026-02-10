@@ -12,8 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning Blazor](https://sd.blackball.lv/books/20098-learning-blazor-2023)
 - [Working with Code Assistants: The Skeleton Architecture](https://sd.blackball.lv/en/articles/read/20097-working-with-code-assistants-the-skeleton-architecture)
+- [Learning Blazor](https://sd.blackball.lv/en/books/20098-learning-blazor-2023)
 - [GAMP 5: Computerized System Validation in Pharma](https://sd.blackball.lv/en/articles/read/20095-gamp-5-computerized-system-validation-in-pharma)
 - [Новость 22.11.2025 14:02](https://sd.blackball.lv/en/news/20094)
 - [Новость 22.11.2025 14:00](https://sd.blackball.lv/en/news/20093)
