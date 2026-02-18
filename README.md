@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals, 7th Edition](https://sd.blackball.lv/books/19320-csharp-11-and-net-7-modern-cross-platform-development-fundamentals)
 - [Azure Cookbook](https://sd.blackball.lv/books/19304-azure-cookbook-2023)
 - [Working with Code Assistants: The Skeleton Architecture](https://sd.blackball.lv/en/articles/read/20097-working-with-code-assistants-the-skeleton-architecture)
 - [Learning Blazor](https://sd.blackball.lv/en/books/20098-learning-blazor-2023)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Новость 17.11.2025 14:30](https://sd.blackball.lv/en/news/20092)
 - [Новость 17.11.2025 14:30](https://sd.blackball.lv/en/news/20091)
 - [System Design: Complete guide with patterns, examples and techniques](https://sd.blackball.lv/en/articles/read/20088-system-design-complete-guide-with-patterns-examples-and-techniques)
-- [Pro ASP.NET Core 7, 10th Edition](https://sd.blackball.lv/en/books/20083-pro-aspnet-core-7-10th-edition-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
