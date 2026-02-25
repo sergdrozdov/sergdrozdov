@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/books/20073-mastering-python-design-patterns-3rd-edition-2024)
 - [Essential TypeScript 5, Third Edition](https://sd.blackball.lv/books/20301-essential-typescript-5-third-edition-2023)
 - [Inside Kestrel: The Beating Heart of ASP.NET Core](https://sd.blackball.lv/en/articles/read/20300-inside-kestrel-the-beating-heart-of-aspnet-core)
 - [C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals, 7th Edition](https://sd.blackball.lv/en/books/19320-csharp-11-and-net-7-modern-cross-platform-development-fundamentals)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [GAMP 5: Computerized System Validation in Pharma](https://sd.blackball.lv/en/articles/read/20095-gamp-5-computerized-system-validation-in-pharma)
 - [Новость 22.11.2025 14:02](https://sd.blackball.lv/en/news/20094)
 - [Новость 22.11.2025 14:00](https://sd.blackball.lv/en/news/20093)
-- [Новость 17.11.2025 14:30](https://sd.blackball.lv/en/news/20092)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
