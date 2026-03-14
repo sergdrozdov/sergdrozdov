@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ASP.NET Usage Statistics 2026 — Market Share, Adoption &amp; Trends](https://sd.blackball.lv/en/articles/read/20099-aspnet-usage-statistics-2026-market-share-adoption-and-trends)
 - [Mastering GitHub Actions](https://sd.blackball.lv/en/books/20302-mastering-github-actions-2024)
 - [Learn Docker in a Month of Lunches, Second Edition](https://sd.blackball.lv/en/books/20303-learn-docker-in-a-month-of-lunches-second-edition-2025)
 - [Essential TypeScript 5, Third Edition](https://sd.blackball.lv/en/books/20301-essential-typescript-5-third-edition-2023)
@@ -20,7 +21,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals, 7th Edition](https://sd.blackball.lv/en/books/19320-csharp-11-and-net-7-modern-cross-platform-development-fundamentals)
 - [Azure Cookbook](https://sd.blackball.lv/en/books/19304-azure-cookbook-2023)
 - [Working with Code Assistants: The Skeleton Architecture](https://sd.blackball.lv/en/articles/read/20097-working-with-code-assistants-the-skeleton-architecture)
-- [ASP.NET Usage Statistics 2026 — Market Share, Adoption &amp; Trends](https://sd.blackball.lv/en/articles/read/20099-aspnet-usage-statistics-2026-market-share-adoption-and-trends)
 - [Learning Blazor](https://sd.blackball.lv/en/books/20098-learning-blazor-2023)
 <!-- BLOG-POST-LIST:END -->
 
