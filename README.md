@@ -12,9 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Docker in a Month of Lunches, Second Edition](https://sd.blackball.lv/en/books/20303-learn-docker-in-a-month-of-lunches-second-edition-2025)
 - [ASP.NET Usage Statistics 2026 — Market Share, Adoption &amp; Trends](https://sd.blackball.lv/en/articles/read/20099-aspnet-usage-statistics-2026-market-share-adoption-and-trends)
 - [Mastering GitHub Actions](https://sd.blackball.lv/en/books/20302-mastering-github-actions-2024)
-- [Learn Docker in a Month of Lunches, Second Edition](https://sd.blackball.lv/en/books/20303-learn-docker-in-a-month-of-lunches-second-edition-2025)
 - [Essential TypeScript 5, Third Edition](https://sd.blackball.lv/en/books/20301-essential-typescript-5-third-edition-2023)
 - [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/en/books/20073-mastering-python-design-patterns-3rd-edition-2024)
 - [Inside Kestrel: The Beating Heart of ASP.NET Core](https://sd.blackball.lv/en/articles/read/20300-inside-kestrel-the-beating-heart-of-aspnet-core)
