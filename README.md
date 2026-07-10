@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Automation &lpar;For Dummies&rpar;](https://sd.blackball.lv/en/books/20305-python-automation-for-dummies-2026)
 - [Companies reverse AI-driven layoffs as human workers return](https://sd.blackball.lv/en/articles/read/20304-companies-reverse-ai-driven-layoffs-as-human-workers-return)
 - [Learn Docker in a Month of Lunches, Second Edition](https://sd.blackball.lv/en/books/20303-learn-docker-in-a-month-of-lunches-second-edition-2025)
 - [ASP.NET Usage Statistics 2026 — Market Share, Adoption &amp; Trends](https://sd.blackball.lv/en/articles/read/20099-aspnet-usage-statistics-2026-market-share-adoption-and-trends)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Inside Kestrel: The Beating Heart of ASP.NET Core](https://sd.blackball.lv/en/articles/read/20300-inside-kestrel-the-beating-heart-of-aspnet-core)
 - [C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals, 7th Edition](https://sd.blackball.lv/en/books/19320-csharp-11-and-net-7-modern-cross-platform-development-fundamentals)
 - [Azure Cookbook](https://sd.blackball.lv/en/books/19304-azure-cookbook-2023)
-- [Working with Code Assistants: The Skeleton Architecture](https://sd.blackball.lv/en/articles/read/20097-working-with-code-assistants-the-skeleton-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
