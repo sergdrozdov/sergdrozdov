@@ -12,6 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Фулстек JavaScript](https://sd.blackball.lv/books/20307-fulstek-javascript-2026)
+- [GPT-5.6 Sol vs Terra vs Luna: Which Model Should You Use?](https://sd.blackball.lv/en/articles/read/20306-gpt-5-6-sol-vs-terra-vs-luna-which-model-should-you-use)
 - [Python Automation &lpar;For Dummies&rpar;](https://sd.blackball.lv/en/books/20305-python-automation-for-dummies-2026)
 - [Companies reverse AI-driven layoffs as human workers return](https://sd.blackball.lv/en/articles/read/20304-companies-reverse-ai-driven-layoffs-as-human-workers-return)
 - [Learn Docker in a Month of Lunches, Second Edition](https://sd.blackball.lv/en/books/20303-learn-docker-in-a-month-of-lunches-second-edition-2025)
@@ -20,8 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Essential TypeScript 5, Third Edition](https://sd.blackball.lv/en/books/20301-essential-typescript-5-third-edition-2023)
 - [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/en/books/20073-mastering-python-design-patterns-3rd-edition-2024)
 - [Inside Kestrel: The Beating Heart of ASP.NET Core](https://sd.blackball.lv/en/articles/read/20300-inside-kestrel-the-beating-heart-of-aspnet-core)
-- [C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals, 7th Edition](https://sd.blackball.lv/en/books/19320-csharp-11-and-net-7-modern-cross-platform-development-fundamentals)
-- [Azure Cookbook](https://sd.blackball.lv/en/books/19304-azure-cookbook-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
