@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [НЕЙРОСЕТИ. Всё что нужно новичку для старта](https://sd.blackball.lv/books/20308-nejroseti-vse-chto-nuzhno-novichku-dlja-starta-2026)
 - [Фулстек JavaScript](https://sd.blackball.lv/books/20307-fulstek-javascript-2026)
 - [GPT-5.6 Sol vs Terra vs Luna: Which Model Should You Use?](https://sd.blackball.lv/en/articles/read/20306-gpt-5-6-sol-vs-terra-vs-luna-which-model-should-you-use)
 - [Python Automation &lpar;For Dummies&rpar;](https://sd.blackball.lv/en/books/20305-python-automation-for-dummies-2026)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Mastering GitHub Actions](https://sd.blackball.lv/en/books/20302-mastering-github-actions-2024)
 - [Essential TypeScript 5, Third Edition](https://sd.blackball.lv/en/books/20301-essential-typescript-5-third-edition-2023)
 - [Mastering Python Design Patterns, 3rd Edition](https://sd.blackball.lv/en/books/20073-mastering-python-design-patterns-3rd-edition-2024)
-- [Inside Kestrel: The Beating Heart of ASP.NET Core](https://sd.blackball.lv/en/articles/read/20300-inside-kestrel-the-beating-heart-of-aspnet-core)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
