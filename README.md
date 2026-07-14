@@ -12,9 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [НЕЙРОСЕТИ. Всё что нужно новичку для старта](https://sd.blackball.lv/books/20308-nejroseti-vse-chto-nuzhno-novichku-dlja-starta-2026)
-- [Фулстек JavaScript](https://sd.blackball.lv/books/20307-fulstek-javascript-2026)
 - [GPT-5.6 Sol vs Terra vs Luna: Which Model Should You Use?](https://sd.blackball.lv/en/articles/read/20306-gpt-5-6-sol-vs-terra-vs-luna-which-model-should-you-use)
+- [НЕЙРОСЕТИ. Всё что нужно новичку для старта](https://sd.blackball.lv/en/books/20308-nejroseti-vse-chto-nuzhno-novichku-dlja-starta-2026)
+- [Фулстек JavaScript](https://sd.blackball.lv/en/books/20307-fulstek-javascript-2026)
 - [Python Automation &lpar;For Dummies&rpar;](https://sd.blackball.lv/en/books/20305-python-automation-for-dummies-2026)
 - [Companies reverse AI-driven layoffs as human workers return](https://sd.blackball.lv/en/articles/read/20304-companies-reverse-ai-driven-layoffs-as-human-workers-return)
 - [Learn Docker in a Month of Lunches, Second Edition](https://sd.blackball.lv/en/books/20303-learn-docker-in-a-month-of-lunches-second-edition-2025)
