@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Early Return Pattern in C#](https://sd.blackball.lv/en/articles/read/20310-early-return-pattern-in-csharp)
 - [Building AI Systems with Python](https://sd.blackball.lv/en/books/20309-building-ai-systems-with-python-2026)
 - [НЕЙРОСЕТИ. Всё что нужно новичку для старта](https://sd.blackball.lv/en/books/20308-nejroseti-vse-chto-nuzhno-novichku-dlja-starta-2026)
 - [Фулстек JavaScript](https://sd.blackball.lv/en/books/20307-fulstek-javascript-2026)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Learn Docker in a Month of Lunches, Second Edition](https://sd.blackball.lv/en/books/20303-learn-docker-in-a-month-of-lunches-second-edition-2025)
 - [ASP.NET Usage Statistics 2026 — Market Share, Adoption &amp; Trends](https://sd.blackball.lv/en/articles/read/20099-aspnet-usage-statistics-2026-market-share-adoption-and-trends)
 - [Mastering GitHub Actions](https://sd.blackball.lv/en/books/20302-mastering-github-actions-2024)
-- [Essential TypeScript 5, Third Edition](https://sd.blackball.lv/en/books/20301-essential-typescript-5-third-edition-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
