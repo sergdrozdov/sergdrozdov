@@ -12,6 +12,9 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Изучаем Vue](https://sd.blackball.lv/books/20315-izuchaem-vue-2025)
+- [Learning Vue](https://sd.blackball.lv/en/books/20314-learning-vue-2024)
+- [What Is Spec-Driven Development? The Spec as Source of Truth](https://sd.blackball.lv/en/articles/read/20311-what-is-spec-driven-development)
 - [Early Return Pattern in C#](https://sd.blackball.lv/en/articles/read/20310-early-return-pattern-in-csharp)
 - [Building AI Systems with Python](https://sd.blackball.lv/en/books/20309-building-ai-systems-with-python-2026)
 - [НЕЙРОСЕТИ. Всё что нужно новичку для старта](https://sd.blackball.lv/en/books/20308-nejroseti-vse-chto-nuzhno-novichku-dlja-starta-2026)
@@ -19,9 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [GPT-5.6 Sol vs Terra vs Luna: Which Model Should You Use?](https://sd.blackball.lv/en/articles/read/20306-gpt-5-6-sol-vs-terra-vs-luna-which-model-should-you-use)
 - [Python Automation &lpar;For Dummies&rpar;](https://sd.blackball.lv/en/books/20305-python-automation-for-dummies-2026)
 - [Companies reverse AI-driven layoffs as human workers return](https://sd.blackball.lv/en/articles/read/20304-companies-reverse-ai-driven-layoffs-as-human-workers-return)
-- [Learn Docker in a Month of Lunches, Second Edition](https://sd.blackball.lv/en/books/20303-learn-docker-in-a-month-of-lunches-second-edition-2025)
-- [ASP.NET Usage Statistics 2026 — Market Share, Adoption &amp; Trends](https://sd.blackball.lv/en/articles/read/20099-aspnet-usage-statistics-2026-market-share-adoption-and-trends)
-- [Mastering GitHub Actions](https://sd.blackball.lv/en/books/20302-mastering-github-actions-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
