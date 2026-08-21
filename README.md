@@ -12,10 +12,10 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Изучаем Vue](https://sd.blackball.lv/books/20315-izuchaem-vue-2025)
+- [Early Return Pattern in C#](https://sd.blackball.lv/en/articles/read/20310-early-return-pattern-in-csharp)
+- [Изучаем Vue](https://sd.blackball.lv/en/books/20315-izuchaem-vue-2025)
 - [Learning Vue](https://sd.blackball.lv/en/books/20314-learning-vue-2024)
 - [What Is Spec-Driven Development? The Spec as Source of Truth](https://sd.blackball.lv/en/articles/read/20311-what-is-spec-driven-development)
-- [Early Return Pattern in C#](https://sd.blackball.lv/en/articles/read/20310-early-return-pattern-in-csharp)
 - [Building AI Systems with Python](https://sd.blackball.lv/en/books/20309-building-ai-systems-with-python-2026)
 - [НЕЙРОСЕТИ. Всё что нужно новичку для старта](https://sd.blackball.lv/en/books/20308-nejroseti-vse-chto-nuzhno-novichku-dlja-starta-2026)
 - [Фулстек JavaScript](https://sd.blackball.lv/en/books/20307-fulstek-javascript-2026)
