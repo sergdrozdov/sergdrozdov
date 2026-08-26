@@ -12,16 +12,16 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Vue](https://sd.blackball.lv/en/books/20314-learning-vue-2024)
 - [What Is Spec-Driven Development? The Spec as Source of Truth](https://sd.blackball.lv/en/articles/read/20311-what-is-spec-driven-development)
 - [Early Return Pattern in C#](https://sd.blackball.lv/en/articles/read/20310-early-return-pattern-in-csharp)
 - [Изучаем Vue](https://sd.blackball.lv/en/books/20315-izuchaem-vue-2025)
-- [Learning Vue](https://sd.blackball.lv/en/books/20314-learning-vue-2024)
+- [Spec-Driven Development Workflow From Requirements to Code](https://sd.blackball.lv/en/articles/read/20312-spec-driven-development-workflow-from-requirements-to-code)
 - [Building AI Systems with Python](https://sd.blackball.lv/en/books/20309-building-ai-systems-with-python-2026)
 - [НЕЙРОСЕТИ. Всё что нужно новичку для старта](https://sd.blackball.lv/en/books/20308-nejroseti-vse-chto-nuzhno-novichku-dlja-starta-2026)
 - [Фулстек JavaScript](https://sd.blackball.lv/en/books/20307-fulstek-javascript-2026)
 - [GPT-5.6 Sol vs Terra vs Luna: Which Model Should You Use?](https://sd.blackball.lv/en/articles/read/20306-gpt-5-6-sol-vs-terra-vs-luna-which-model-should-you-use)
 - [Python Automation &lpar;For Dummies&rpar;](https://sd.blackball.lv/en/books/20305-python-automation-for-dummies-2026)
-- [Companies reverse AI-driven layoffs as human workers return](https://sd.blackball.lv/en/articles/read/20304-companies-reverse-ai-driven-layoffs-as-human-workers-return)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
