@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Антипаттерны PostgreSQL и как их избежать](https://sd.blackball.lv/books/20316-antipatterny-postgresql-i-kak-ih-izbezhatj-2026)
 - [The Real Cost of an AI Coding Assistant](https://sd.blackball.lv/en/articles/read/20313-the-real-cost-of-an-ai-coding-assistant)
 - [Изучаем Vue](https://sd.blackball.lv/en/books/20315-izuchaem-vue-2025)
 - [Spec-Driven Development Workflow From Requirements to Code](https://sd.blackball.lv/en/articles/read/20312-spec-driven-development-workflow-from-requirements-to-code)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Building AI Systems with Python](https://sd.blackball.lv/en/books/20309-building-ai-systems-with-python-2026)
 - [НЕЙРОСЕТИ. Всё что нужно новичку для старта](https://sd.blackball.lv/en/books/20308-nejroseti-vse-chto-nuzhno-novichku-dlja-starta-2026)
 - [Фулстек JavaScript](https://sd.blackball.lv/en/books/20307-fulstek-javascript-2026)
-- [GPT-5.6 Sol vs Terra vs Luna: Which Model Should You Use?](https://sd.blackball.lv/en/articles/read/20306-gpt-5-6-sol-vs-terra-vs-luna-which-model-should-you-use)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
