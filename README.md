@@ -12,10 +12,10 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Event-Driven Microservices Architecture](https://sd.blackball.lv/en/books/20317-practical-event-driven-microservices-architecture-2022)
 - [The Ultimate Multifunctional Database Table Design: Dynamic Attributes Pattern](https://sd.blackball.lv/en/articles/read/20319-the-ultimate-multifunctional-database-table-design-dynamic-attributes-pattern)
 - [Антипаттерны PostgreSQL и как их избежать](https://sd.blackball.lv/en/books/20316-antipatterny-postgresql-i-kak-ih-izbezhatj-2026)
 - [Universal Microservices Architecture](https://sd.blackball.lv/en/books/20318-universal-microservices-architecture-2026)
-- [Practical Event-Driven Microservices Architecture](https://sd.blackball.lv/en/books/20317-practical-event-driven-microservices-architecture-2022)
 - [The Real Cost of an AI Coding Assistant](https://sd.blackball.lv/en/articles/read/20313-the-real-cost-of-an-ai-coding-assistant)
 - [Изучаем Vue](https://sd.blackball.lv/en/books/20315-izuchaem-vue-2025)
 - [Spec-Driven Development Workflow From Requirements to Code](https://sd.blackball.lv/en/articles/read/20312-spec-driven-development-workflow-from-requirements-to-code)
