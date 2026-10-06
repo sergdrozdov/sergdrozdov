@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deciphering Data Architectures](https://sd.blackball.lv/en/books/20320-deciphering-data-architectures-2024)
 - [Universal Microservices Architecture](https://sd.blackball.lv/en/books/20318-universal-microservices-architecture-2026)
 - [Practical Event-Driven Microservices Architecture](https://sd.blackball.lv/en/books/20317-practical-event-driven-microservices-architecture-2022)
 - [The Ultimate Multifunctional Database Table Design: Dynamic Attributes Pattern](https://sd.blackball.lv/en/articles/read/20319-the-ultimate-multifunctional-database-table-design-dynamic-attributes-pattern)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Spec-Driven Development Workflow From Requirements to Code](https://sd.blackball.lv/en/articles/read/20312-spec-driven-development-workflow-from-requirements-to-code)
 - [Learning Vue](https://sd.blackball.lv/en/books/20314-learning-vue-2024)
 - [What Is Spec-Driven Development? The Spec as Source of Truth](https://sd.blackball.lv/en/articles/read/20311-what-is-spec-driven-development)
-- [Early Return Pattern in C#](https://sd.blackball.lv/en/articles/read/20310-early-return-pattern-in-csharp)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
