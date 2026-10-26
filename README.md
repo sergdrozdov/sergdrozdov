@@ -12,6 +12,7 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Хорошо ли вы знаете JavaScript?](https://sd.blackball.lv/books/20321-horosho-li-vy-znaete-javascript-2025)
 - [Deciphering Data Architectures](https://sd.blackball.lv/en/books/20320-deciphering-data-architectures-2024)
 - [Universal Microservices Architecture](https://sd.blackball.lv/en/books/20318-universal-microservices-architecture-2026)
 - [Practical Event-Driven Microservices Architecture](https://sd.blackball.lv/en/books/20317-practical-event-driven-microservices-architecture-2022)
@@ -21,7 +22,6 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 - [Изучаем Vue](https://sd.blackball.lv/en/books/20315-izuchaem-vue-2025)
 - [Spec-Driven Development Workflow From Requirements to Code](https://sd.blackball.lv/en/articles/read/20312-spec-driven-development-workflow-from-requirements-to-code)
 - [Learning Vue](https://sd.blackball.lv/en/books/20314-learning-vue-2024)
-- [What Is Spec-Driven Development? The Spec as Source of Truth](https://sd.blackball.lv/en/articles/read/20311-what-is-spec-driven-development)
 <!-- BLOG-POST-LIST:END -->
 
 ## Personal projects
