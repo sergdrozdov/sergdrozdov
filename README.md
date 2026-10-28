@@ -12,8 +12,8 @@ I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Хорошо ли вы знаете JavaScript?](https://sd.blackball.lv/books/20321-horosho-li-vy-znaete-javascript-2025)
 - [Why Senior Developers Prefer Simpler Architectures](https://sd.blackball.lv/en/articles/read/20322-why-senior-developers-prefer-simpler-architectures)
-- [Хорошо ли вы знаете JavaScript?](https://sd.blackball.lv/en/books/20321-horosho-li-vy-znaete-javascript-2025)
 - [Deciphering Data Architectures](https://sd.blackball.lv/en/books/20320-deciphering-data-architectures-2024)
 - [Universal Microservices Architecture](https://sd.blackball.lv/en/books/20318-universal-microservices-architecture-2026)
 - [Practical Event-Driven Microservices Architecture](https://sd.blackball.lv/en/books/20317-practical-event-driven-microservices-architecture-2022)
